@@ -15,3 +15,8 @@ Additionally, I learned a lot more about regex and class construction in python.
 You can access the folder and its files here.
 
 [Text Processing](https://github.com/Jackshouka/NLP_Portfolio/tree/main/textProcessing)
+
+## Word Guessing Game
+This project was a simple word guessing game where we took a passage from an anatomy textbook, tokenized and lemmatized the raw text, tagged it and took the 50 most common nouns from that. From there, we implemented a simple command line game where users try to guess a random noun from that list of the 50 most common nouns we found in that textbook. The biggest challenge here was getting over my depression and getting this done. I was in a funk and not really up to doing much of anything, so being able to power through so I can learn something new was supremely difficult. However, it made completing it feel great. If you want to check it out, it'll be linked below.
+
+[Word Guessing Game](https://github.com/Jackshouka/NLP_Portfolio/tree/main/wordGuess)
