@@ -20,3 +20,8 @@ You can access the folder and its files here.
 This project was a simple word guessing game where we took a passage from an anatomy textbook, tokenized and lemmatized the raw text, tagged it and took the 50 most common nouns from that. From there, we implemented a simple command line game where users try to guess a random noun from that list of the 50 most common nouns we found in that textbook. The biggest challenge here was getting over my depression and getting this done. I was in a funk and not really up to doing much of anything, so being able to power through so I can learn something new was supremely difficult. However, it made completing it feel great. If you want to check it out, it'll be linked below.
 
 [Word Guessing Game](https://github.com/Jackshouka/NLP_Portfolio/tree/main/wordGuess)
+
+## WordNet
+This was a Jupyter notebook that took a look at WordNet, and its hierarchy of words using synsets and evaluating those words, how they fit on the hierarchy, synonyms, antonyms, hyper/hypo-nyms and so on. We also took a breif look at sentiWordNet, a sentiment anaylsis addon to WordNet that is relatively limited in what it can do, and Wu-Palmer/Lesk algorithms to evaluate word similarity. You can find it below.
+
+[Word Net](https://github.com/Jackshouka/NLP_Portfolio/tree/main/wordNet)
