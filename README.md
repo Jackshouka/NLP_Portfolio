@@ -25,3 +25,14 @@ This project was a simple word guessing game where we took a passage from an ana
 This was a Jupyter notebook that took a look at WordNet, and its hierarchy of words using synsets and evaluating those words, how they fit on the hierarchy, synonyms, antonyms, hyper/hypo-nyms and so on. We also took a breif look at sentiWordNet, a sentiment anaylsis addon to WordNet that is relatively limited in what it can do, and Wu-Palmer/Lesk algorithms to evaluate word similarity. You can find it below.
 
 [Word Net](https://github.com/Jackshouka/NLP_Portfolio/tree/main/wordNet)
+
+## N-gram
+This was an assignment where we tried to predict whether a line of text was in English, French or Italian using N-gram methods. You can find the folder here:
+
+[N-gram](https://github.com/Jackshouka/NLP_Portfolio/tree/main/ngram)
+
+### Sentence Parsing
+
+Additionally, this project was accompanied by a discussion on setence parsing with PSG parsing, dependency parsing and SRL. You can take a look at it below as well.
+
+[Sentence Parsing](https://github.com/Jackshouka/NLP_Portfolio/tree/main/sentence_parsing_discussion)
