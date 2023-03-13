@@ -1,0 +1,3952 @@
+
+
+
+
+GGACR - Millia Rage Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363.1K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR/Millia Rage
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+< GGACR(Redirected from GGACR/Millia)
+
+Overview
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Okizeme
+Matchups
+Strategy
+Resources
+
+
+
+
+Overview
+Millia is a mobile, versatile character with access to strong lockdown and looping setplay.
+One of Millia's defining features is her mobility, which is among the best in the game. In addition to her two airdashes, Turbo FallGuard:Startup:Recovery:Until landing+12Advantage:, Silent ForceNo results, and aerial FB Pretty MazeGuard:AllStartup:13Recovery:Total 21Advantage:, allow her to alter her trajectory and position in the air in ways which can be difficult to follow or predict. Her Silent ForceNo results (Pin) is a fast traveling projectile that can make anti-airing or approaching her difficult. Millia also boasts strong ways of converting stray air-to-air hits into knockdowns, enhancing her neutral control. 
+Once Millia gets a knockdown, she can use Tandem TopGuard:AllStartup:60Recovery:Total 32Advantage: or Secret GardenGuard:AllStartup:56Recovery:Total 74Advantage: to keep her opponent blocking on wakeup and run powerful OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups.. These special moves can lock the opponent down for a considerable amount of time, often forcing the opponent to block the following mixup. In addition, the combos she can get after successfully opening up an opponent will often lead into another knockdown, allowing Millia to repeat the situation.
+However, Millia has the second worst defense of the cast, and will take heavier damage from hits compared to most characters. Due to this, smart use of universal defensive options is necessary. Millia will also often need to play more evasively in neutral, abusing her high mobility and strong conversions to score a knockdown safely. Managing your pin and movement effectively, as well as developing flexible ways to confirm stray hits into knockdown, are central to her effectiveness.
+
+
+
+
+
+
+Damage Received Mod
+x1.21
+Guts Rating
+3/5
+Gravity Mod
+x1.05
+Stun Resistance
+55
+Prejump
+3F
+Backdash
+11F (1~5F Strike Invuln)
+Wakeup Timing
+53F (Face Up)/ 48F (Face Down)
+Number of Jumps:
+2
+Number of Air Dashes:
+2
+Unique Movement Options
+Turbo FallForward Roll
+Fastest Attack
+5K (5F)2P (5F)2K (5F)
+Reversals
+2141236H (6F)
+
+
+
+
+
+
+ Millia Rage is a mobile offensive character with a variety of strong tools for controlling neutral. Once she secures a knockdown, she can run extremely potent looping okizeme.
+
+
+
+Pros
+Cons
+
+
+Amazing Mixups: Millia excels at pushing high/low and left/right mixups, and combined with a rewarding and potent tick throw game, her ability to keep the opponent guessing on defense is outstanding.
+Powerful Setplay: H Tandem TopGuard:AllStartup:60Recovery:Total 32Advantage: (Disc) and Secret GardenGuard:AllStartup:56Recovery:Total 74Advantage: give Millia some of the strongest setplay in the game. Her ability to regain knockdown off of pretty much every mixup option she has allows her to continuously loop her setups ad infinitum.
+High Mobility: Millia has access to a variety of great mobility tools, including two airdashes, a fast run with a Low ProfileWhen a character's hurtbox is entirely beneath an opponent's attack. This can be caused by crouching, certain moves, and being short., and momentum-changing special moves.
+Air Control: Has many strong jumping attacks that control the airspace very well, on top of her exeptional anti-airs and air mobility.
+Great Normals: Millia has a variety of fast, low-commitment normals useful for whiff punishing and controlling space.
+Corner Carry: Many of Millia's common combo routes naturally bring the opponent closer to the corner, giving Millia access to strong positioning and better okizeme.
+Silent Force: A fast fullscreen projectile that covers a multitude of angles, has virtually no recovery, and always leads to a full combo on air hit, giving Millia access to exceptional space control in neutral, air-to-airs, pressure resets, and routes into her strongest okizeme.
+
+
+Poor Defense: Has the second lowest health in the game and no meterless reversal, with her only metered reversal being underwhelming.
+Mediocre Damage: Overall damage is below average, with high damage with optimal routes locked behind situational starters. Millia also lacks efficient ways to boost her damage output with meter, which leaves her mix as her main threat.
+
+
+
+
+Pros And Cons
+
+ Starter Guide
+Need help getting started? Go to this page for information targeted at new players. It covers easy combos, key moves, and what to do after you knock the opponent down.
+
+
+
+
+
+StartupThe time before an attack is active including the first active frame. For example, an attack with 10F startup means the attack will do nothing for 9 frames, then hit the opponent on the 10th frame. frames
+
+
+
+ActiveThe active frames of an attack refers to the amount of time an attack can hit the opponent. Frames
+
+
+
+InactiveFrames in the middle of multi-hit attacks which cannot hit the opponent, but are after the move has become active at least once. Frames
+
+
+
+RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before he may perform another action, even blocking. Frames
+
+
+
+Special RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before they may perform another action.Recovery frames which happen under abnormal conditions, such as after landing. Frames
+
+
+
+ProjectileIndicates an entity that exists separately from the character was spawned. Usually something like a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground.. Spawn.
+
+
+
+CancelA window in which to cancel a move. Can be varied in usage. Window
+
+Normal Moves
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Hair stab, disjointed
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18
+Mid
+7
+5
+6
+-1
+
+
+
+
+ Total: 17
+5P is one of Millia's main anti-airs, though it is not as easily abused as it was in its previous incarnation. Covers a solid area above and in front of Millia with a mostly disjointed hitbox. She can use it to stop jump-outs or to check the opponent's jump. It's safer than 6P on whiff, and its low recovery makes it a low-commitment option for this purpose.
+
+Due to its low recovery, 5P is also a key part of her burst baits, with 2P5P after throw or 5PP being solid options.
+Will whiff on crouching opponents.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 5-6
+
+
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-10
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+Mid
+5
+6
+14
+-10
+
+
+
+
+ Total: 24
+Covers a decent arc in front of Millia. Can hit opponents directly above her, though it's not an exceptional anti-air. Gatlings into itself (even on whiff), 2K, and 6K, allowing for a high-low mixup on block.  It also gatlings into 2S, allowing for a more rewarding low option or a way to gatling into heavier normals. Primarily used for pressure, such as with the string 2K5K2K.
+Gatling Options: 6P, 5K, 2K, 6K c.S, f.S, 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st Hit (Frames 7-9)
+
+
+
+
+
+
+2nd Hit (Frames 10-12)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22×2
+Mid
+7
+3,3
+17
+-6
+
+
+
+
+ Total: 29
+Situational anti-air that can be used when under the opponent due to its straight vertical hitbox. Useful for stopping the opponent from jumping out of the corner. Can also be used to catch techs in the corner. Also solid punish starter due to its fairly quick startup, lack of initial proration, and gatling into 2H for a full air combo.
+Gatling Options: 6P, f.S, 2S, 5H, 2H, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10×2
+7×2
+3
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+Mid
+7
+2
+16
+-4
+
+
+
+
+ Total: 24
+One of Millia's essential grounded pokes. Gatlings into 5H, which then gatlings into 2D. If you're in range, this is your main way of securing a grounded knockdown off a poke. Can also combo into Longinus for a combo from slightly farther ranges, giving you a knockdown for 25 meter and a combo in the corner. Can't confirm into a knockdown at maximum range or off a launch, but can combo into Emerald Rain.
+Gatling Options: 2S, 5H, 2H, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st Hit (Frames 6-9)
+
+
+
+
+
+
+2nd Hit (Frames 12-13)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30×2
+Mid
+6
+4(2)2
+21
+-4
+
+
+
+
+ Total: 34
+Another solid grounded poke. Used less commonly than f.S, but still good to remember. Slower than f.S if not very close, but reaches farther forwards. Has more recovery than f.S, however, making it riskier to use in neutral. 
+Also an essential piece of combo filler, with its two-hit nature making it an easy hitconfirm into 2D for a knockdown.
+Gatling Options: 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20×2
+6×2
+5
+
+
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+High
+27
+3
+23
+-12
+8~23F Low Profile30~41F Feet
+
+
+
+ Total: 52
+Universal overhead. Slow, awful on block, and doesn't lead to much on hit. Rarely used as an overhead option, since Millia has much better options for mixups.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+20
+3
+
+
+Millia is in CH state during move
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st Hit (Frames 7-9)
+
+
+
+
+
+
+1st Hit (Frames 10-12)
+
+
+
+
+
+
+1st Hit (Frames 13-15)
+
+
+
+
+
+
+2nd Hit (Frames 16-18)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22×2
+Mid
+7
+9,3
+20
+-9
+1~12F Upper Body
+
+
+
+ Total: 38
+One of Millia's main anti-airs, with upper body invulnerability with a good sized hitbox. Leaves Millia quite vulnerable on whiff, so keep in mind if the opponent still has air options available. Opponents can land behind Millia on occasion when she uses this, which is something to avoid.
+Staggers on grounded counter-hit. If both hits connect, however, the second hit will undo the stagger of the first hit, making converting off a counterhit stagger difficult.
+Gatling Options: c.S, f.S, 2S, 5H, 2H, 6H, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+10×2
+7×2
+3
+
+
+Staggers on ground CH (max 35F)
+
+6K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 18-19
+
+
+
+
+
+
+Frames 20-21
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+High
+18
+4
+8
++5
+1~19F Lower Body20~21F Feet
+
+
+
+ Total: 29
+One of Millia's main overheads that she uses in her mixup game. It's special cancellable on hit or block, allowing for a combo on hit without any prior setup. Also serves as a solid meaty for disc oki, providing a safer high option than Bad Moon.
+
+Invulnerable to lows for much of its animation, making it a strong low crush option.
++5 on block, meaning she can continue to pressure the opponent even if they block it.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+11
+6
+4
+
+
+Hits crouching opponents on 20F (tested on Sol)
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Situational party starter
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+Mid
+16
+3
+25
+-9
+
+
+
+
+ Total: 43
+Has slow startup and is horrible to whiff, making it rare to see in neutral. However, it knocks the opponent down on hit and is special cancellable, making it a useful combo ender. Many of Millia's corner combos end with 6H to secure a knockdown into oki. No gatling options, meaning you can't continue pressure on block without going directly into a special. Can also be used to stop jump outs in the corner.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+Slams down opponent on hit
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Hair stab, not disjointed
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+9
+Mid
+5
+2
+6
++2
+
+
+
+
+ Total: 12
+Shorter range than 2K, but the same startup. Tied for Millia's fastest normal. Hits mid and is primarily used after throw for burst baiting.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+85%
+3
+8
+1
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+World's best crouching light kick
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+8
+Low
+5
+2
+7
++1
+
+
+
+
+ Total: 13
+An incredible normal for a variety of reasons, and one of your best tools for neutral and pressure. Millia's primary pressure starter due to its frame advantage, which makes it good for frametraps and tick throws. Bigger than most similar low kicks, letting you start pressure from farther away, especially with dash momentum. Also gatlings into itself and and 5K, making it a good low option. Works well as a meaty in disc oki due to its low commitment and good hitconfirm ability. 
+
+Lowers Millia's hurtbox significantly, letting you go under normals such as Johnny's f.S.
+Gatling Options: 6P, 5K, 2K, c.S, f.S, 2S, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+75%
+3
+8
+1
+
+
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+Low
+9
+4
+15
+-5
+
+
+
+
+ Total: 27
+Hits low and has better proration than 2K, but starts up slower. Can be used as part of high/low mixup pressure. Also another solid meaty option, since it hits low and gatlings into 2H. Fairly long range and low profile makes it useful as a poke, especially since it generally confirms into knockdown.
+
+Can gatling into 5P to go backwards in the gatling table, allowing for unique pressure resets.
+Gatling Options: 5P, 5H, 2H, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+8
+7
+3
+
+
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Gatling into this on hit when possible
+
+
+
+
+
+ 
+
+
+
+
+Frames 11-12
+
+
+
+
+
+
+Frames 13-15
+
+
+
+
+
+
+Frames 16-17
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+36
+Mid
+11
+7
+12
+-2
+1~3F Low Profile
+
+
+
+ Total: 29
+Millia's primary launcher for combos. You want to gatling into this when you're in range. It also has its uses as an anti-air, but its slow startup makes it situational. Has a good amount of untechable time on counter-hit.
+Gatling Options: 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+14
+6
+4
+
+
+Untechable on CH for 48F
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+Very long-ranged low profile poke
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+Low
+13
+3
+12
+-1
+10~21F Feet
+
+
+
+ Total: 27
+Another of Millia's main ground moves alongside 2K that can be used to fish for knockdowns and for whiff punishing. Can be cancelled into roll to start disc oki on hit or into FB Secret Garden to start Garden oki from anywhere.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Aerial hair stab, disjointed
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10
+High/Air
+5
+6
+8
+
+
+
+
+
+ Total: 18
+Spammable short-ranged aerial jab. Useful in air-to-air and air-to-ground situations due to its speed and respectable hitbox. Can go into j.K for pressure on block.
+
+Whiff cancels into itself and j.K, further decreasing the move's risk.
+Actually slower to start up than j.K, which is something to note.
+Important for disarming  Testament's ZeinestGuard:AllStartup:11Recovery:Total 29Advantage:+2 without spending pin.
+Gatling Options: j.P, j.K, j.S, j.H, j.2H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 4-6
+
+
+
+
+
+
+Frames 7-9
+
+
+
+
+
+
+Frames 10-12
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+High/Air
+4
+9
+9
+
+
+
+
+
+ Total: 21
+Extremely fast air normal useful for catching opponents directly above you. Can be special cancelled into K/S pin on block for pressure or used in mixups as a fast high option. It's also an important tool for Millia's air combos, as it confirms into j.S and j.H. 
+
+Can hit opponents directly in front of Millia, letting it serve as an air-to-ground option, especially when used as a gatling out of other air normals.
+Gatling Options: j.P, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+5
+7
+2
+
+
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Frames 12-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+High/Air
+9
+6
+12
+
+
+
+
+
+ Total: 26
+Your main air-to-ground move, ideal for hitting opponents below you. Airdash cancellable on block, allowing for strong high-low mixups; you can either airdash again and use more high jump-ins, or you can land and use a low or throw. Also important combo filler, having enough untech time to combo into j.H.
+Gatling Options: j.P, j.H, j.2H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+Air dash cancelable
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+High/Air
+12
+3
+11
+
+
+
+
+
+ Total: 25
+Solid air-to-air with a good amount of untech time. The hitbox is almost entirely disjointed, allowing it to beat many other air normals. However, shorter range than j.D means it isn't Millia's default air-to-air from far ranges. If the opponent is close enough to beat her j.D, j.H is a better choice.
+Also an essential part of Millia's air combos, having high untech time and cancelling into airdash on hit for additional extensions. Try to confirm into this to get an air conversion going if you can.
+
+Whiffs on crouching opponents, making it poor for air-to-ground.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+9
+3
+
+
+Air dash cancelable
+
+j.2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Don't press this outside of a combo
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22×3
+High/Air
+8
+4(2)6(2)4
+17
+
+
+
+
+
+ Total: 42
+Millia's primary combo ender at lower heights, as it grants a knockdown that allows Millia to set up Disc oki immediately afterwards. Depending on height and hitsun decay, it may be cancelled into Bad Moon or replaced with Pin to secure the knockdown. Not much use outside of combo filler, since Millia's other air normals generally control the air better.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+5×3
+9×3
+2
+
+
+Slams down opponent on air hit
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 17-18
+
+
+
+
+
+
+Frames 19-23
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+48
+High/Air
+17
+7
+9+6 after landing
+
+
+
+
+
+ Total: 38
+Millia's default long range air-to-air. It's airdash cancellable, meaning it can be used in specific combos or to close the gap after you hit someone with it. Grants a far-reaching untechable knockdown on counter-hit, allowing Secret Garden setups from fullscreen or disc oki when close. 
+Horrible air-to-ground move, as many characters can run or crouch under this move and punish its recovery. Has some landing recovery, making it not great to whiff, which further increases the risk of using it against grounded opponents.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+11
+6
+4
+
+
+Air dash cancelable
+
+Universal Mechanics
+Ground Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+50
+40 pixels
+
+
+
+
+
+
+
+
+Very important to your mixup game. The throw range is short, but her quick dash speed makes it hard to see coming. Can be used after Roll (214K) for a tricky mixup. Dash and combo into 2P5P, 5K 2H, or f.S 2H when landed.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 40%
+
+6
+
+
+
+Sends opponent on opposite side of throw direction
+Millia has 15F to juggle opponent on successful throw
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+55
+88 pixels
+
+
+
+
+
+
+
+
+Sends the opponent flying away. At fullscreen, it gives Millia a Secret Garden setup that allows her to rushdown safely. If Millia airthrows the opponent near the corner, she can dash up and do H Tandem Top to start up Disc oki.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20
+Mid
+7
+6
+33
+-25
+1~12F All13~40F Throw
+
+
+
+ Total: 45
+Surprisingly fast dead angle. Uses the animation of c.S. Useful as an unsafe emergency option out of blockstun. Can be crucial to turning the tide on defense. Knocks the opponent down and keeps them right in front of you on counter hit, which can sometimes allow for disc oki. Short horizontal range compared to other dead angles. Don't miss.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+40%
+10
+7
+3
+
+
+
+Special Moves
+Lust Shaker
+214S > SxN
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12×N
+All
+10
+1(3)×N
+8
++5
+
+
+
+
+Good for frame trap pressure on the ground since it is +5. Using f.S after this on block leaves a 2-frame gap, enough to punish almost all abare. On hit or block, Millia can cancel into Roll (214K) to go for a tick throw or reset pressure if the opponent's scared of the frametrap. You can also cancel into Haircar (214P) to go low, but this isn't that useful.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10×N
+7×N
+3
+
+
+Listed Frame Adv is for no repeated hits
+Can cancel to Longinus, Iron Saviour, or Roll from 8F onwards
+Minimum 4 hits, maximum 30 hits
+
+Tandem Top
+236S or 236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Use an instant disc...
+
+
+
+
+
+
+...or set a delayed one for okizeme
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Hitbox stays the same for H disc
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236S
+40
+All
+11
+13
+15
+-1
+
+
+
+236H
+50
+All
+60
+33
+Total 32
+
+
+
+
+
+ Total: 38
+236S is a pretty fast, pretty versatile special move. Can be used as a way to cancel Turbo Fall's landing recovery to catch people off guard, or as a meaty after landing raw haircar, since the knockdown from haircar doesn't give you time for other meterless setups.
+It's also useful as a frametrap due to its speed and decent reward in the corner or on counter-hit. In the corner, Millia can link 5P to combo from it. On counter-hit, you get a wallbounce, letting you follow up with an air combo.
+
+Causes a wallbounce from anywhere on counter-hit, allowing for damaging conversions from anywhere on the screen.
+Has an FRC point from 3~4F, letting you effectively remove the recovery from ground normals on block.
+
+236H is a key part of Millia's okizeme, and the move that Disc oki is named after.
+
+Longer startup, but longer active frames as well. Can be used after a variety of knockdowns, most commonly j.2H and Bad Moon.
+Causes a wallbounce in the corner for combos, with similar conversions to 236S.
+FRC timing in 20~21F, which isn't used often because of 236D but is still is applicable in certain matchups such as Baiken.
+This is Millia's primary and staple mixup tool. After securing a knockdown, the Disc allows Millia to mask her high/low mixups while also making sure the opponent can't escape due to the blockstun. Some knockdowns, such as 2D > Roll > Disc, don't give enough time for the Disc to be a meaty. This can be used in conjunction with a meaty normal for a high-low mixup that's very plus on block, but be warned that this loses to reversals. Other knockdowns, however, such as low to the ground j.2H in the corner, allow the disc to hit meaty, leading to pressure that is harder to contest.
+Some characters have ways around Disc oki:
+
+ Faust can crawl under Disc
+ Zappa can duck under it
+ Sol can slide under it with Grand ViperGuard:Low×7, MidStartup:17Recovery:37Advantage:-21
+ Order-Sol can slide under it with Gun BlazeGuard:AllStartup:23Recovery:Total 44Advantage:+9
+ A.B.A can slide under it with DraggingGuard:Startup:Recovery:Total 28Advantage:
+ Robo-Ky and  Bridget can both delay their wakeups to avoid it
+ Slayer can pass through it with his teleport dashes
+Keep this in mind when performing oki on these characters.
+Also deceptively useful in neutral. Placing down a disc allows Millia to hide behind a constant active hitbox and potentially get a followup if the opponent runs into it. The FRC point adds to this, as it allows you to set a disc without fear of being punished on reactions by moves such as Sol's Grand Viper.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236S
+3~4F
+
+0
+7
+3
+
+
+236H
+20~21F
+
+0
+12
+3
+
+
+236S:
+
+Millia is in CH state during move
+Disc disappears if Millia gets hit
+Cannot use Pretty Maze, Tandem Top, or Secret Garden until 42F after disc disappears
+236H:
+
+Millia is in CH state during move
+Disc disappears if Millia gets hit
+Cannot use Pretty Maze, Tandem Top, or Secret Garden until 42F after disc disappears
+
+Bad Moon
+j.236P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+24×N
+High/Air
+11
+Until landing
+22 after landing
+-15
+
+
+
+
+A combo ender in the corner for extra damage. Yields a knockdown at a low enough heights. When performed with a Tiger Knee(TK) motion (doing it as close to the ground as possible by inputting 2369P), it becomes an unreactable 16 frame overhead and Millia's primary high mixup during Disc oki. Very punishable on block, so it generally should not be used in neutral or without the cover of H Tandem Top outside of combos.
+
+Has a minimum height limit. This is important to note, as it changes how to input the TK motion. Specifically, you need to wait a bit before hitting P for Bad Moon to come out.
+Has an FRC point a set amount of time after Millia bounces off her opponent, right as she uncurls from being a moon. This makes Bad Moon much safer on block or whiff, but Millia has other uses for 25 Tension.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+5~7F after landing or block
+80%
+8
+7×N
+3
+
+
+Millia is crouching during landing recovery
+Listed Recovery is on whiff
+On whiff, Recovery 1~15F are airborne
+Listed Frame Adv is for fastest possible TK Bad Moon (Startup 16F)
+Has minimum height requirement of 5050 units (roughly 50,50 pixels)
+
+Turbo Fall
+j.236K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Yet another air movement option
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Until landing+12
+
+
+
+
+
+Millia's command fastfall, which lets her alter her trajectory in the air and make it harder for the opponent to anti-air her. Millia dives down in a 45 degree angle, giving her an extra way to cover a large distance in an unexpected way in neutral. Can also be used for mixups, as you can pass through opponents while descending for a crossup.
+
+Landing recovery is cancellable into ground specials, which can allow for a quick way to catch opponents off guard.
+FRC point from 14~15F, just as Millia starts moving; if you're quick enough, you can use an air normal as you descend.
+Has some startup before Millia starts moving. If hit out of this startup, she won't go anywhere.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+14~15F
+
+
+
+
+
+
+Can pass through opponent during fall
+Fastest possible TK Turbo Fall has total duration 29F
+Has minimum height requirement of 5050 units (roughly 50,50 pixels)
+Landing recovery is cancellable into Special Moves
+
+Forward Roll
+214K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Goes under way more moves than you think
+
+
+
+
+
+ 
+
+
+
+
+Very low profile
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 24
+
+2~3F Low Profile4~15F Very Low Profile
+
+
+
+A command roll that shrinks Millia's hurtbox and lets her low profile underneath some attacks. Useful in pressure and for tick throw setups. If your opponent respects you too much, use this to close the distance. Can also be used in neutral to avoid the opponent's pokes. 
+
+Goes under a lot of things it doesn't look like it should, such as  Chipp's 2SGuard:MidStartup:7Recovery:11Advantage:-1 and 2DGuard:LowStartup:9Recovery:18Advantage:-8,  Johnny's 2HGuard:MidStartup:5Recovery:29Advantage:-16, and  Justice's 2DGuard:LowStartup:11Recovery:16Advantage:-2.
+Can be throw punished on reaction if used too predictably.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Can pass through opponent
+Millia is in CH state 1~15F
+Can pick up Hairpin during move
+
+Iron Savior
+214P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Deceptively hard to distinguish from TK Bad Moon
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+36
+Low
+17
+Until corner
+18+8 after landing
+-13
+
+
+
+
+Commonly referred to as Haircar. Hits low and travels forever until Millia hits her opponent or the wall. The startup looks identical to that of TK Bad Moon, making it a deceptive low mixup. This makes it Millia's preffered low option during Disc oki. The FRC point adds another layer to this; with tight timing, you can immediately input j.K before you land, allowing you to turn your low into an overhead.
+
+Should not be used from fullscreen, as it is punishable.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+17~22F
+90%
+8
+7
+3
+
+
+Millia is airborne from 7F onwards
+Blows back opponent on hit
+
+Silent Force
+j.214K or j.214S or j.214H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Your new best friend
+
+
+
+
+
+ 
+
+
+
+
+First active
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+j.214K/S
+20
+All
+11
+1(1)×n
+Total 13
+
+
+
+
+j.214H
+20
+All
+16
+1(1)×n
+Total 18
+
+
+
+
+
+An incredible move that enhances every aspect of Millia's gameplay. Useful for zoning, air-to-airs, approaching, pressure, combos, and more. Once thrown, you have to pick it back up again by crouching or rolling over it. The pin cannot be picked up for 122F (roughly 2 seconds) after throwing; you'll know it's ready to be picked up again when it begins glowing.
+
+Virtually no recovery once thrown, allowing you to quickly airdash after throwing it for an approach.
+Staggers on ground counter hit and has high untech time on air hit; both situations can lead to a combo.
+
+K Pin removes all of Millia's upward momentum, and its trajectory is steeper than both S Pin and H Pin. 
+Has a slightly different use in neutral compared to S Pin, being reserved mostly for covering close approaches by the opponent, especially when punishing lows. Also useful as an "anti-anti-air." With proper spacing, K Pin can beat out some grounded anti airs and allow Millia to start a combo off the counter-hit stagger. Due to its ability to completely hault Millia's upward momentum it can be used to extend ground pressure into her airdash strings seamlessly. A good example is c.S > TK K Pin (2147K) > airdash forward > j.S.
+Also used after rising j.K in fuzzy guard setups to confirm into a combo without Disc or meter, and some combos or setups against certain characters (like Johnny) may require K Pin instead of S or H.
+
+
+S Pin temporarily halts Millia's air movement while the pin is being thrown, and its trajectory is roughly a 45° angle downward in front of Millia. 
+This is Millia's primary projectile and extremely crucial to her neutral game. It allows her to control the pace of the matchup, as opponents will have to keep in mind whether or not you have it available. S Pin into an immediate airdash forward is a safe and effective way to both control space and approach, even if the pin whiffs.
+Fishing for counter-hits is an easy way for Millia to brute force her way in due to the large amount of hitstun. If the opponent blocks it, she may still have an opportunity to continue pressure under the right circumstances due to the blockstun.
+It also serves as a crucial ender to some her air combos depending on height/distance to the corner; (j.214S > land > 6H) is a common way to secure a knockdown into Garden oki in the corner.
+
+
+H Pin Has slightly slower startup, but gives Millia an extra upward boost before throwing. 
+Good for positioning in the air if the opponent is catching on to the angle Millia throws S Pin at. Also useful for air-to-airing, as it allows Millia to hit opponents directly above her for massive damage.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+j.214K/S
+N/A
+80%
+0
+10
+2
+
+
+j.214H
+N/A
+80%
+0
+10
+2
+
+
+j.214K/S:
+
+Staggers on ground CH (max 35F)
+Millia is in CH state during move
+Has minimum height requirement of 3001 units (roughly 30,01 pixels)
+See note ※1
+j.214H:
+
+Staggers on ground CH (max 35F)
+Millia is in CH state during move
+Has minimum height requirement of 3001 units (roughly 30,01 pixels)
+See note ※1
+
+Secret Garden
+214H > Direction + H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Please don't DP this
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30×5
+All
+56
+18(8)
+Total 74
+
+
+
+
+
+Once the move is input, Millia summons an orb that will accept up to four more direction inputs by pressing a direction and H (e.g. 214H -> 6H 1H 6H 4H). After 52 frames (regardless of whether any inputs were given or not), Millia will return to neutral and the orb will begin travelling along the path that was input. 
+Once active, the projectile will persist even if Millia is hit. This makes Garden oki naturally beat both abare and reversals, as both actions will cause Garden to hit the opponent. Garden oki can cover the options previously mentioned to beat Disc oki, making Garden setups valuable against those characters.
+Secret Garden can be used from fullscreen after an air throw or counter-hit j.D to lock down the opponent on their wakeup, allowing Millia to safely rushdown the opponent. It can also be used in place of H Tandem Top for longer and better okizeme, but this generally requires specific setups to achieve. 
+Long startup and counterhit state make it generally bad in neutral, however it can be used for fullscreen space control against characters that cannot approach Millia in time to interrupt it, such as Justice.
+Can be canceled during startup by pressing D if the situation is too dangerous to continue with the move.
+Common setups include S Pin > land > 6H > Garden and FB Pretty Maze > airdash back > j.D > land > 6H > Garden. Common patterns for Garden on an opponent's wakeup are 1H 6H 4H 6H when close, 2H 8H 2H 8H when farther, and 3H 8H 2H 8H when even farther than that.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+0
+7×5
+3
+
+
+Millia is in CH state 1~55F
+Bubble guaranteed to come out after 52F
+Accepts up to 4 additional inputs to control direction of bubble from 2~55F
+Press D to cancel Secret Garden from 7~33F (total cancel duration 21F
+non-CH state)
+Bubble passes through other projectiles
+Cannot use another Secret Garden, Pretty Maze, or Tandem Top until 27F after bubble disappears
+
+Force Breaks
+Pretty Maze
+236D (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+First active
+
+
+
+
+
+
+Last active
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236D
+22×3
+All
+43
+41
+Total 33
+
+
+
+
+j.236D
+50
+All
+13
+33
+Total 21
+
+
+
+
+
+Millia's staple force break for mixups. It has quicker startup than H Tandem Top, making it more convenient to set up. It's also active for longer and hits three times instead of just one, allowing more time for multiple mixups. If they block the first mixup, she can simply do another one. Once active, the disc will stay out even if Millia is hit. This makes it situationally useful for trading in neutral and extremely useful for reversal-safe oki.
+Pretty Maze will also float on hit, giving Millia the opportunity to launch the opponent up, combo them, and reset the situation over again. 
+
+
+Air version summons a disc in the air. This move does not operate as a "trap" like ground Pretty Maze, instead being more similar to 236S.
+Increases Millia's momentum on use. If you were jumping forward, you'll go forward faster after using Pretty Maze. Notably, if you airdash, then use Pretty Maze mid-flight, you'll be flung a great distance forwards or backwards at high speeds. This can be used to cover long distances fast, with IAD > Pretty Maze sending you almost the entire horizontal length of the screen at max zoom-out. This is also useful for crossups, since you can fling yourself over and behind your enemy.
+Due to the high untech time and ability to airdash cancel, this move is useful for stabilizing some air combos. This is especially useful against lightweight characters, who might otherwise be too high to secure a knockdown against. The FRC point lets you act almost immediately after your momentum changes, but this costs 50 Tension, so it's seldom used.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236D
+6~8F
+
+0
+5×3
+4
+
+
+j.236D
+4~6F
+
+0
+12
+5
+
+
+236D:
+
+Millia is airborne from 1~20F
+Pulls in opponent on hit/block
+Millia is in CH state during move
+Disc guaranteed to appear after 22F
+Cannot use Pretty Maze, Tandem Top, or Secret Garden until 42F after disc disappears
+j.236D:
+
+Millia is in CH state until landing
+Disc guaranteed to appear after 12F
+Cannot use Pretty Maze, Tandem Top, or Secret Garden until 42F after disc disappears
+None of usage restrictions apply to Air Pretty Maze
+
+FB Secret Garden
+214D > Direction + H or D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Setplay the world
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30×5
+All
+34
+18(8)
+Total 68
+
+
+
+
+
+Millia leaps up into the air while summoning the orb, giving her safer positioning while setting it up. The orb activates much faster, and Millia is actionable much sooner after using it. Incredible move.
+This move greatly strengthens your oki, as it allows you to set up Garden oki much easier. Notably, 2D, j.2H, and Bad Moon knockdowns all set up FB Garden. This move is an extremely useful method of pressuring the aforementioned characters with responses to Disc oki, since this allows common knockdowns to be turned into strong pressure that those characters cannot easily escape. The increased speed also greatly decreases the risk of using Garden for space control, allowing you to throw it out in more situations. 
+It is easier to consistently input all four of the move's followups by alternating H and D inputs (Ex: input 214D > 1H 6D 4H 6D/1D 6H 4D 6H instead of inputting 1H 6H 4H 6H as you would with regular Garden). As an added input note, 292X sets with FB Garden are bugged and will not work properly, so other combinations must be used.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+0
+7×5
+3
+
+
+Millia is airborne from 5F onwards
+Millia is in CH state 1~25F
+Bubble is guaranteed to appear after 30F
+Accepts up to 4 additional inputs to control direction of bubble from 6~41F
+Bubble passes through other projectiles
+Cannot perform another Secret Garden, Pretty Maze, or Tandem Top until 27F after bubble disappears
+
+Longinus
+214S > 214D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+35
+All
+5
+8
+6
++7
+
+
+
+
+ Total: 18
+Follow-up to Lust Shaker. Causes the opponent to slide on hit. In or near the corner, it causes a wallstick for combos. Midscreen, Millia gets a knockdown. Allows Millia to turn an f.S hit into a knockdown from farther ranges than usual, helping you start your gameplan faster.
+
+Since Lust Shaker is already +5, this isn't usually used for its plus frames.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 80%
+20
+6
+5
+
+
+Attack Level 6
+
+Overdrives
+Winger
+2141236H (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Ground
+
+
+
+
+
+
+Air
+
+
+
+
+
+ 
+
+
+
+
+Frames 6-7
+
+
+
+
+
+
+Frames 8-9
+
+
+
+
+
+
+Frames 10-11
+
+
+
+
+
+
+Frames 12-13
+
+
+
+
+
+
+Frames 14-15
+
+
+
+
+
+
+Final ground/only air hitbox
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+2141236H
+40,25×4,80
+Mid×5, High
+6+1
+2×5(10)15
+30 after landing
+-21
+1~7F All
+
+
+j.2141236H
+80
+High/Air
+1+6
+Until landing
+30 after landing
+-13
+1~7F All
+
+
+
+Ground version is her only reversal move that has invincible startup. Not a very good reversal, and should be used sparingly. The horizontal range of the rising hits is incredibly poor. This can sometimes cause opponents to fall out, especially if they were doing an extended button when you hit them. The invincibility wears off almost immediately after the startup, meaning moves such as Ky's Charged Stun Edge can beat wakeup Winger completely.
+
+
+The air version is mostly used to beat weaker anti-airs or for stuffing air-to-air attempts. Millia has much cheaper and less risky ways to do this, though. Not very good.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+2141236H
+23~24F
+
+20×5,15
+6×6
+5
+
+
+j.2141236H
+N/A
+70%
+15
+10
+5
+
+
+2141236H:
+j.2141236H:
+
+Slides on CH (untechable for 73F, slides for 46F)
+
+Emerald Rain
+236236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+36×3
+All
+4+2
+
+Total 75
+-3
+1~5F Strike
+
+
+
+Throws 3 big discs. The last disc causes wallbounce, allowing for a combo. Lets you convert off f.S from even farther ranges than Longinus does. Whether the hits connect properly is a bit inconsistent, and opponents might fall out of the sequence midway through. This makes conversions using Emerald Rain somewhat risky.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10×3
+7×3
+3
+
+
+2nd disc has startup 26F, 3rd disc has startup 46F
+
+Instant Kill
+Iron Maiden
+During IK Mode: 236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Fatal
+All
+5+29
+
+Total 165
+-62
+5~6F Strike
+
+
+
+The only good thing is that it tracks, making it particularly good against A.B.A. Other than that, not worth using.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3×16
+
+
+
+
+IK Mode activation: 66F
+Homes in on 18F
+Listed Frame Adv is for an opponent blocking in corner
+
+Colors
+
+
+
+
+Default P
+
+
+
+
+
+
+Default K
+
+
+
+
+
+
+Default S
+
+
+
+
+
+
+Default H
+
+
+
+
+
+
+Default D
+
+
+
+
+
+
+EX P
+
+
+
+
+
+
+EX K
+
+
+
+
+
+
+EX S
+
+
+
+
+
+
+EX H
+
+
+
+
+
+
+EX D
+
+
+
+
+
+
+Slash P
+
+
+
+
+
+
+Slash K
+
+
+
+
+
+
+Slash S
+
+
+
+
+
+
+Slash H
+
+
+
+
+
+
+Slash D1
+
+
+
+
+
+
+Reload P
+
+
+
+
+
+
+Reload K
+
+
+
+
+
+
+Reload S
+
+
+
+
+
+
+Reload H
+
+
+
+
+
+
+Reload D1
+
+
+
+
+
+
+
+
+Gold2
+
+
+
+
+
+
+Shadow2
+
+
+
+
+To select your color, press the corresponding button while in the designated "color set". Color sets can be toggled through by hitting the Respect button.
+
+Only selectable on the Arcade and PC-Rollback versions of the game.
+Available on home ports, and are selected by pressing the Rec. Enemy button on the Slash or Reload color sets, respectively. Gold characters are powered up versions, Shadow characters have infinite tension. Both are banned from tournament play.
+
+
+Navigation
+To edit frame data, edit values in GGACR/Millia Rage/Data.
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR/Millia_Rage&oldid=375869"
+
+
+
+
+
+Contents
+
+
+
+Back to top
+
+Contents
+
+
+
+
+
+1
+						Overview
+					
+
+
+
+
+
+
+1.1
+					Pros And Cons
+				
+
+
+
+ 
+ 
+
+
+
+2
+						Normal Moves
+					
+
+
+
+
+
+
+2.1
+5P
+
+
+
+
+ 
+
+
+
+2.2
+5K
+
+
+
+
+ 
+
+
+
+2.3
+c.S
+
+
+
+
+ 
+
+
+
+2.4
+f.S
+
+
+
+
+ 
+
+
+
+2.5
+5H
+
+
+
+
+ 
+
+
+
+2.6
+5D
+
+
+
+
+ 
+
+
+
+2.7
+6P
+
+
+
+
+ 
+
+
+
+2.8
+6K
+
+
+
+
+ 
+
+
+
+2.9
+6H
+
+
+
+
+ 
+
+
+
+2.10
+2P
+
+
+
+
+ 
+
+
+
+2.11
+2K
+
+
+
+
+ 
+
+
+
+2.12
+2S
+
+
+
+
+ 
+
+
+
+2.13
+2H
+
+
+
+
+ 
+
+
+
+2.14
+2D
+
+
+
+
+ 
+
+
+
+2.15
+j.P
+
+
+
+
+ 
+
+
+
+2.16
+j.K
+
+
+
+
+ 
+
+
+
+2.17
+j.S
+
+
+
+
+ 
+
+
+
+2.18
+j.H
+
+
+
+
+ 
+
+
+
+2.19
+j.2H
+
+
+
+
+ 
+
+
+
+2.20
+j.D
+
+
+
+
+ 
+ 
+
+
+
+3
+						Universal Mechanics
+					
+
+
+
+
+
+
+3.1
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+3.2
+					Air Throw
+				
+
+
+
+ 
+
+
+
+3.3
+					Dead Angle Attack
+				
+
+
+
+ 
+ 
+
+
+
+4
+						Special Moves
+					
+
+
+
+
+
+
+4.1
+					Lust Shaker
+				
+
+
+
+ 
+
+
+
+4.2
+					Tandem Top
+				
+
+
+
+ 
+
+
+
+4.3
+					Bad Moon
+				
+
+
+
+ 
+
+
+
+4.4
+					Turbo Fall
+				
+
+
+
+ 
+
+
+
+4.5
+					Forward Roll
+				
+
+
+
+ 
+
+
+
+4.6
+					Iron Savior
+				
+
+
+
+ 
+
+
+
+4.7
+					Silent Force
+				
+
+
+
+ 
+
+
+
+4.8
+					Secret Garden
+				
+
+
+
+ 
+ 
+
+
+
+5
+						Force Breaks
+					
+
+
+
+
+
+
+5.1
+					Pretty Maze
+				
+
+
+
+ 
+
+
+
+5.2
+					FB Secret Garden
+				
+
+
+
+ 
+
+
+
+5.3
+					Longinus
+				
+
+
+
+ 
+ 
+
+
+
+6
+						Overdrives
+					
+
+
+
+
+
+
+6.1
+					Winger
+				
+
+
+
+ 
+
+
+
+6.2
+					Emerald Rain
+				
+
+
+
+ 
+ 
+
+
+
+7
+						Instant Kill
+					
+
+
+
+
+
+
+7.1
+					Iron Maiden
+				
+
+
+
+ 
+ 
+
+
+
+8
+						Colors
+					
+
+
+
+ 
+
+
+
+9
+						Navigation
+					
+
+
+
+ 
+
+
+
+Categories: Pages using Tabber parser tagGuilty Gear XX Accent Core + RMillia Rage
+
+
+Last modified
+ This page was last edited on 19 February 2023, at 16:25.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9347 @@
+
+
+
+
+GGACR - A.B.A Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR/A.B.A
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+< GGACR
+
+Overview
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Okizeme
+Matchups
+Strategy
+Resources
+
+
+
+
+Overview
+A.B.A is a pure Risk/Reward character who thrives on duality. She starts in Normal Mode (NM), in which she has neither great damage nor mobility, save for DraggingGuard:Startup:Recovery:Total 28Advantage:. By landing her command throw/hitgrab BondingGuard:All(65 pixels)Startup:13(4)Recovery:30Advantage:-32, or spending resources to perform InjectingGuard:Startup:Recovery:Total 38Advantage:,  she enters Moroha Mode (lit. Double-Edge Mode). While in Moroha, A.B.A gains a massive increase in the damage of her attacks, her overall speed, her pressure and ability to crank the guard bar, as well as several other bonuses that force the opponent to think twice about disrespecting her. Most notably, Moroha Mode gives A.B.A access to the best install super of the game, AltercationGuard:MidStartup:15+2Recovery:13Advantage:+5, allowing her to get into Goku Moroha Mode. With incredible running speed, two airdashes, and a full suite of jump-cancellable normals, Goku Moroha allows A.B.A to blitz her opponent to death before they can even blink.
+This comes at a cost, however. In Moroha and Goku Moroha mode, A.B.A's attacks will drain her own health whenever make contact with an opponent, whether that's a hit or block. She also has an active meter which will slowly drain towards empty, and will lose about 30% every time she is knocked down and goes into a wakeup animation. When the meter empties, she forcefully reverts back into NM with Suka MotionGuard:Startup:Recovery:Total 52Advantage:, a lengthy stance that makes her susceptible to eating a full combo or getting Instant Killed, more than any other character. She can avoid this vulnerability and regain some of her self-inflicted damage by exiting MM/GM manually via landing another keygrab, consuming a bloodpack, or entering GM. With these many options and resources, ABA can be fairly obtuse to learn, and despite her relatively low execution barrier, resource management is key to her gameplan so that her true risk/reward potentials can shine.
+A.B.A is best for players who love to balance risk against reward. Learn to love her double-edged playstyle.
+
+
+
+
+
+
+Damage Received Mod
+x0.89
+Guts Rating
+0/5
+Gravity Mod
+x0.98
+Stun Resistance
+80
+Prejump
+4F
+Backdash
+17F (1~8F Strike Invuln)
+Forwards Dash
+22F
+Wakeup Timing
+66F (Face Up)/ 52F (Face Down)
+Number of Jumps:
+2
+Number of Air Dashes:
+1
+Unique Movement Options
+Unable to Run
+Fastest Attack
+-
+Reversals
+-
+
+
+
+
+
+
+ A.B.A puts a strong emphasis on risk/reward by managing her slow, yet versatile, "Normal" Mode and her two incredibly oppressive, but life draining, "Moroha" and "Goku Moroha" Modes.
+
+
+
+Pros
+Cons
+
+
+Strong Anti-airs: A.B.A has access to powerful anti-airs in all 3 forms that can all lead to great damage, corner carry and knockdowns on hit, as well as cover a variety of aerial approach options that can force opponents to approach more carefully or simply stay grounded
+Deceptive Tangibility: A.B.A's hurtboxes are infamously weird, with many characters struggling to properly hit her. Combined with her super heavyweight nature, this can make A.B.A weirdly hard to combo.
+Burst Mobility: Normal Mode has slow walk speed, but gives A.B.A access to the extremely low profile DraggingGuard:Startup:Recovery:Total 28Advantage: to duck under things in neutral. Moroha and Goku Moroha, on the other hand, have best-in-class movement. Multiple airdashes, jump-cancellable normals, and one of the fastest runspeeds in the game all give Moroha A.B.A extreme threat in neutral.
+Great Installs: Normal Moroha mode gives ABA high mobility, oppressive pressure, decent mixups, strong pokes and great damage, not to mention access to Danzai and GM. On top of that, her Install super, Goku Moroha, is one of the best supers in the entire game, with even the activation itself being an oppressive attack, alongside the massive boost in offensive capabilities and life refill it leaves you with.
+Tanky: Despite her health drain mechanic in her installs, A.B.A's high defense modifier and stun resist allows her to survive longer than average. Additionally her ability to self heal when exiting Moroha with BloodpackGuard:Startup:Recovery:Total 40Advantage:, KeygrabGuard:All(65 pixels)Startup:13(4)Recovery:30Advantage:-32, or when activating Goku MorohaGuard:MidStartup:15+2Recovery:13Advantage:+5 can help to alleviate much of the health lost during her installs.
+Snowball Potential: Even in Normal Mode FB DraggingGuard:Startup:Recovery:Total 26Advantage: allows her to escape almost any offense and turn the tables. During installs she gains extremely oppressive frame-trap based offense which leads into very damaging and hard to burst combos.
+
+
+Normal Mode: ABA begins every round in Normal Mode, which has somewhat awkward normals, as well as generally poor and committal mobility. ABA often needs to RPS at the start of every round in order to gain access to her stronger tools in Moroha mode
+Health drain: During both Moroha and Goku Moroha, ABA will constantly take self inflicted damage as she hits the opponent, which can only be healed back by using Bloodpacks, Keygrab or Goku Moroha. Poor management of her health can often lead to sudden deaths by abare
+Limited Unique Resource: ABA uses her bloodpacks to enter and exit Moroha Mode safely, as well as to enter Goku Moroha, and mismanagement of these can leave her stuck in Normal Mode, or in a disadvantageous position in Moroha Mode with no means of safely escaping it
+Knockdown Vulnerability: If ABA exits Moroha Mode without using her command grab or spending a blood bag, she'll enter a very long animation called Suka Motion. This leaves her vulnerable long enough that she can be punished with big combos or even certain IKs.
+
+
+
+
+Unique Mechanics
+Mode Switch
+
+Mode Switch
+A.B.A starts every round in her Normal mode.
+A.B.A can switch to her Moroha mode by either successfully hitting the opponent with Bonding (keygrab) or by using Injecting (bloodpack). While in Moroha mode, all of A.B.A's normals (notably S and H) and specials are significantly changed for the better, but she must manage a constantly depleting unique meter, and she will inflict self damage upon hitting the opponent or making them block. Also, with 50 meter, A.B.A also has access to a heavily-improved version of this mode called Goku Moroha mode.
+
+
+Blood Packs
+
+Blood Packs 
+A.B.A starts each round with a limited resource known as Blood Packs.
+Blood packs can be used as a supplement to her Moroha/Goku Moroha mode and allow her to manually enter/exit said modes in neutral.
+
+
+Starter Guide
+
+ Starter Guide
+Need help getting started? Go to this page for information targeted at new players. It covers easy combos, key moves, and what to do after you knock the opponent down.
+
+
+Moroha Mode Movement Stat Changes
+
+Moroha Mode Movement Stat Changes
+Below is a basic overview of movement stats which change during each of A.B.A's modes. For a full list of movement values, check the full frame data page.
+
+Mode
+Backdash
+Air Dashes
+Initial Dash Speed
+Forwards Jump Speed
+Forwards Air Dash Speed
+
+
+A.B.A
+17F (1~8F Strike Invuln)
+1
+7.0
+5.5
+10.0
+
+
+A.B.A (Moroha)
+16F (1~8F Strike Invuln)
+1
+11.0
+5.5
+16.0
+
+
+A.B.A (Goku Moroha)
+20F (1~8F Strike Invuln)
+2
+14.0
+5.9
+16.0
+
+
+
+
+
+
+StartupThe time before an attack is active including the first active frame. For example, an attack with 10F startup means the attack will do nothing for 9 frames, then hit the opponent on the 10th frame. frames
+
+
+
+ActiveThe active frames of an attack refers to the amount of time an attack can hit the opponent. Frames
+
+
+
+InactiveFrames in the middle of multi-hit attacks which cannot hit the opponent, but are after the move has become active at least once. Frames
+
+
+
+RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before he may perform another action, even blocking. Frames
+
+
+
+Special RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before they may perform another action.Recovery frames which happen under abnormal conditions, such as after landing. Frames
+
+
+
+ProjectileIndicates an entity that exists separately from the character was spawned. Usually something like a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground.. Spawn.
+
+
+
+CancelA window in which to cancel a move. Can be varied in usage. Window
+
+Normal Moves
+
+   Normal
+   Moroha
+   Goku Moroha
+
+
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+3F is good
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+8
+Mid
+3
+2
+7
++1
+2~4F Upper Body
+
+
+
+ Total: 11
+While 5P isn't much of a traditional FG jab, it sees good use as a reactionary anti-air/counter-poke, with three frames of head invulnerability. Its speed also helps ABA convert falling j.H at any height into 2D > keygrab.
+On block, however, this is where the move really shines, as you have the option to mix them up with a proximity throw keygrab or with a frame trap, using either 5K, 2D or 6H, to prevent jump-outs.
+Whiffs on crouching Faust, Zappa, Kliff, Millia, and Anji (only when in hitstun)
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Average poke that moves ABA slightly forwards
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+Mid
+7
+5
+6
++1
+
+
+
+
+ Total: 17
+A go-to poke, balancing speed and range amongst Normal Mode's overall slow moveset. Being able to self-cancel on hit and staying plus on block very much helps.
+Gatling Options: 5K, c.S, f.S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+6
+7
+2
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+Mid
+7
+3
+12
+-1
+
+
+
+
+ Total: 21
+Proximity normal. Rather important for combos leading to keygrab or rekkas.
+Interestingly enough, you can do a reverse gatling cancel on block into 2P to remain more plus.
+Gatling Options: 2P, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Watch your shins!
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+Low
+9
+3
+14
+±0
+
+
+
+
+ Total: 25
+Standing low with acceptable speed. Will catch opponents off guard due to how far forward it moves, which makes a great frame trap after c.S.
+Being safe on block means you can try to go for big frame traps like 5H, 2H, 6H, or even an IAD j.H pressure reset.
+Gatling Options: 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+11
+6
+4
+
+
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 13-16
+
+
+
+
+
+
+Frames 17-19
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+Mid
+13
+7
+27
+-15
+
+
+
+
+ Total: 46
+A vital normal for Normal Mode ABA. Despite being slow, it practically covers 1/3 of a screen. Knocks down on CH, so it generally works in your favor on a trade. Don't whiff this.
+On hit, you can combo into keygrab or rekkas > bloodpack to enter MM. On block, thanks to its great pushback, you can cancel into bloodpack or whiff cancel 2D to reset back to neutral. You can also cancel into slide and remain fairly safe as a gimmicky way to stay close to the opponent.
+Gatling Options: 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+Floats on CH (untechable for 80F)
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+15
+High
+25
+4
+15
+-5
+
+
+
+
+ Total: 43
+Despite its decent nature, you probably won't use this much since you'll mostly be on the defensive in Normal Mode. If you land it, you should do a short air combo into Keygrab.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+20
+3
+
+
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 10-12)
+
+
+
+
+
+
+2nd hit (Frames 18-19)
+
+
+
+
+
+
+2nd hit (Frames 20-22)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+19×2
+Mid
+10
+3(5)5
+10
+-1
+1~9F Above Knees
+
+
+
+ Total: 32
+A relatively fast two-hitting 6P. Serves its purpose well enough as a situational AA. You can only combo this into 2S though, aside from jump and special cancels.
+Gatling Options: 2S
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+10×2
+7×2
+3
+
+
+Jump cancel on 2nd hit only
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Hail Mary
+
+
+
+
+
+ 
+
+
+
+
+Frames 18-21
+
+
+
+
+
+
+Frames 22-26
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+53
+Mid
+18
+9
+25
+-15
+
+
+
+
+ Total: 51
+A move just like ABA: A huge risk to throw out, but it comes with a 2.5x stun modifier, making it inflict CRAZY stun on CH. Land a counter, bloodpack or keygrab, land half a BnB, and watch them get dizzy.
+Since it hits at a slightly upwards angle, it makes for an OK preemptive AA and tags opponents out of airdashes. If blocked, you can try cancelling to 
+236K to remain somewhat safer. Don't whiff this.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+70%
+20
+18
+5
+
+
+Dizzy modifier x2.5
+On CH untechable for 80F: wallbounces midscreen, wallsticks in corner (stick for 25F)
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+6
+Mid
+5
+2
+6
++2
+
+
+
+
+ Total: 12
+2F slower than 5P, but more far-reaching and plus on block. Standard crouching jab.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+3
+8
+1
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Standard crouching low
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+8
+Low
+7
+4
+10
+-2
+
+
+
+
+ Total: 20
+A low poke with OK range. Leads to either rekkas or 2D > Keygrab on hit.
+Gatling Options: c.S, 2S, 5H, 2H, 6H, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+70%
+5
+7
+2
+
+
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+One of her best AAs
+
+
+
+
+
+ 
+
+
+
+
+Frames 8-10
+
+
+
+
+
+
+Frames 11-13
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22
+Mid
+8
+6
+13
+-5
+
+
+
+
+ Total: 26
+Fantastic hitboxes makes this move a great anti-air that leads to a short air combo ending with keygrab. Moves ABA slightly forward.
+Essentially an air KD on CH, so you often can combo into keygrab from trades.
+Gatling Options: 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+On CH untechable for 36F
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Danzai Jr.
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 14-17)
+
+
+
+
+
+
+1st hit (Frames 18-21)
+
+
+
+
+
+
+2nd hit (Frames 25-27)
+
+
+
+
+
+
+2nd hit (Frames 28-31)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22×2
+Mid
+14
+8(3)7
+10
+-3
+
+
+
+
+ Total: 41
+1st hit launches the opponent, which leads to easy combos ending with keygrab. Although 2H is slow, its hitboxes are rather disjointed, which can stuff things unexpectedly and might win against jump-ins and moves behind her, or trade with them favorably.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10×2
+7×2
+3
+
+
+1st floats and pulls opponent in on hit
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+Low
+10
+3
+15
+-4
+10~12F Low Profile
+
+
+
+ Total: 27
+Pretty typical. You'll usually end ground strings with this into keygrab.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Definitely NOT a standard air jab
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10
+High/Air
+5
+4
+14
+
+
+
+
+
+ Total: 22
+Excellent fast A2A with a good disjointed hitbox. You can do neutral/forward jump > j.P as rather safe roundstart option. On hit, you can confirm into (JC) j.P > keygrab.
+Gatling Options: j.P, j.K, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Surprisingly good
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+16
+High/Air
+6
+8
+12
+
+
+
+
+
+ Total: 25
+Hits directly above ABA, so this attack functions well as a rising anti-air. As it can launch grounded opponents with fairly generous untechable frames, you use this to convert stray IAD strings (i.e. IAD j.S j.P j.K) into a short air combo ending with keygrab. 
+Gatling Options: j.P, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Your main air-to-air
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-10
+
+
+
+
+
+
+Frames 11-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+21
+High/Air
+7
+8
+11
+
+
+
+
+
+ Total: 25
+Pretty safe to just throw this around in neutral. Works well in most situations due to its speed and good hitbox.
+Gatling Options: j.P, j.H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+High/Air
+15
+Until landing
+0
+
+
+
+
+
+One of the defining features of ABA's Normal mode. Shrinks her hurtbox down and stays active until landing. Certainly a good jump-in, with which you can also do crossups, though do note its small hitbox.
+Generally safe enough on standing block that you can cancel it to 5P to extend your pressure. If IB'd though, you can be punished by DPs or throws, though you can gamble with keygrab as a frametrap. High risk - high reward.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+11
+6
+4
+
+
+Causes very little pushback
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+35
+High/Air
+16
+4
+13+5 after landing
+
+
+
+
+
+ Total: 37
+Nice horizontal range, but very slow. Works mainly as a preemptive AA. On CH, provided you're close enough to the opponent, you might be able to get a keygrab. Otherwise, just use a bloodpack after hits.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+8
+9
+4
+
+
+Wallbounces on CH (untechable for 50F)
+
+Universal Mechanics
+Ground Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+45 pixels
+
+
+
+
+
+
+
+
+Tosses them away into a knockdown. Your best option after landing a grab is often to (dash) keygrab. Can wallbounce if you're near the corner.
+6H sends the opponent backward while 4H sends them forward. Best OSed with either 5K or c.S unless keeping the corner is necessary
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+Sends opponent on opposite side of throw direction
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+53
+88 pixels
+
+
+
+
+
+
+
+
+Standard airthrow. (Dash) keygrab is possible if you airthrow them close to the ground, for a burst safe mode switch.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+Good, but there's a better option
+
+
+
+
+
+ 
+
+
+
+
+Frames 12-15
+
+
+
+
+
+
+Frames 16-18
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22
+Mid
+12
+7
+29
+-22
+1~27F All28~41F Throw
+
+
+
+ Total: 47
+ABA's Dead angle is faster than most dead angles and comes with significantly more invulnerability and knocks down the opponent. However, it's usually a much better use of meter if you can IB > FB slide (see below) their pressure/oki, especially when your back is against the corner.
+On regular hit, you can keygrab out of the knockdown. Oddly enough, this is not possible on CH.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+
+Blue Burst
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+0
+All
+17
+6
+24+3 after landing
+-12
+1~31F Strike
+
+
+
+ Total: 49
+A.B.A has a unique Blue Burst. Unlike other characters, her Burst has 2F less startup and 3F shorter recovery.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+25%
+6
+20
+2
+
+
+Untech time does not change on CH
+Hitstop is one-sided like projectiles
+
+Special Moves
+Deletion
+236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Gets the job done at least
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20
+Mid
+12
+2
+17
+-5
+
+
+
+
+ Total: 30
+The start of ABA's rekkas. One of the better hitboxes in NM. Works great as a knockdown tool in case 2D > keygrab isn't possible.
+At midscreen, you should always go for the full rekkas to get enough frame advantage to use bloodpack, or FRC the last one for the keygrab. It's unsafe, but its long range and decent pushback can make it a bit safer. Otherwise, it's a rather slow poke that shouldn't be thrown around in neutral recklessly.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+Can cancel into followup on 21F on hit or block
+
+Ruin
+236S > 46S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Combo fodder
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+Mid
+6
+3
+19
+-8
+
+
+
+
+ Total: 27
+2nd part of the rekkas. Staggers on hit, but it’s rather wimpy in Normal Mode and requires an RC to get any sort of advantage. You can also frame trap with this, but can easily be disrespected by almost all reversal options, or just backdash.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+Can cancel into followup from 9F onwards
+Stagger lasts for 30 frames
+
+Condemnation
+46S > 63214S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+38
+Mid
+14
+3
+31
+-15
+
+
+
+
+ Total: 47
+The last part of her rekkas. Forces ground-slide state on hit. Has an FRC point just as Paracelsus gets slammed to the ground. Plays an important part in the standard Normal to Moroha Mode BnB, which is [xx > 1st rekka > 2nd rekka > 3rd rekka FRC > dash > filler > keygrab].
+In the corner, provided ABA's close enough to the opponent, you can do continue the combo meterlessly by linking with c.S/f.S/2S > keygrab, or 2K c.S > keygrab (on mids/heavies only), though both of this are rather tight.
+The frame trap between 2nd and 3rd rekka has a gap, so it is highly gimmicky and is generally unsafe, especially on block, so avoid overusing this.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+14~15F
+Forced 90%
+20
+6
+5
+
+
+Opponent's Burst is disabled on hit
+
+Bonding
+63214H (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 13-15, 19-21
+
+
+
+
+
+
+Frames 16-18, 22-24
+
+
+
+
+
+
+Air
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+63214H
+0, 10
+All(65 pixels)
+13(4)
+12(6)
+30
+-32
+
+
+
+j.63214H
+0, 30
+All
+10
+3
+Until landing
+
+
+
+
+
+ Total: 54
+Keygrab. The most important move in your arsenal. 
+Your top priority is to land or combo into this in Normal Mode, as it'll knock down, do some damage, and transform ABA into Moroha Mode.
+This move acts as both a command throw and a strike. If from anywhere from frames 4-9, the opponent is in a throwable state and the move is in range, it will grab them. Afterwards, it will turn into a strike for the remainder of its active frames, meaning that the move can also be combo'd into. If the strike is blocked, however, it becomes very unsafe.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+63214H
+N/A
+
+3
+8, 0(6)
+1
+
+
+j.63214H
+N/A
+
+3
+8, 0
+1
+
+
+63214H:
+
+Listed Recovery is for when the move is blocked. On hit the recovery is 38F
+Data in () is for the throw part
+ABA enters Moroha mode on hit
+Knocks down opponent on hit
+ABA in CH state during move
+Opponent's burst is disabled on hit
+Can only be RC'd on block
+j.63214H:
+
+ABA enters Moroha mode on hit
+Knocks down opponent on hit
+ABA is in CH state and air position remains constant from 1~31F
+Can only be RC'd on block
+
+Dragging
+236P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+A good dodge with a lot of invuln
+
+
+
+
+
+ 
+
+
+
+
+Frames 1-2
+
+
+
+
+
+
+Frames 3-6
+
+
+
+
+
+
+Frames 7-10
+
+
+
+
+
+
+Frames 11-13
+
+
+
+
+
+
+Frames 14-17
+
+
+
+
+
+
+Frames 18-21
+
+
+
+
+
+
+Frames 22-25
+
+
+
+
+
+
+Frames 26-28
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 28
+
+1~2F Above Knees3~25F Above Feet
+
+
+
+ Total: 28
+Vitally useful. Being an evasive slide, A.B.A. becomes very low-profile when executing this move, making it great for sliding under projectiles or anticipated pokes for a throw > Keygrab. You can even slide under stuff like 2Ps or Robo-Ky’s knee bazooka! Just beware of lows/being thrown before the slide is over.
+Has an FRC point just as A.B.A. tucks herself inward, which can be used as a last resort to cancel the slide if baited, or to bait your opponent into attempting a punish. At times, slide can also be a gimmicky movement option, especially after 5H on CH/block or 6H on hit.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+11~13F
+
+
+
+
+
+
+
+Retribution
+236K or 46S > 236K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+It's no Millia 6K, but it'll work
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+35
+High
+22
+3
+20
+-4
+6~27F Throw, High Profile
+
+
+
+ Total: 44
+A far reaching overhead. Throw and feet invincible mid kick, making for a good meaty. Slightly unsafe on hit/block, though it has a rather late FRC point, so you can use it to confirm into 5K/c.S > xxx > keygrab. Staggers on CH for quite a while, giving you a free keygrab. Can also be used in place of the 3rd Rekka (63214S).
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+28~30F
+90%
+15
+6
+5
+
+
+Staggers on CH (max 69F)
+
+Avoidance
+236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Doesn't disappear once it's out, even if ABA gets hit
+
+
+
+
+
+ 
+
+
+
+
+Active frames 1-3
+
+
+
+
+
+
+Active frames 4-6
+
+
+
+
+
+
+Active frames 7-12(ABA recovers on this frame)
+
+
+
+
+
+
+Active frames 13-15
+
+
+
+
+
+
+Active frames 16-18
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+11
+All
+35
+18
+Total 40
++18
+
+
+
+
+ Total: 40
+A slow-starting projectile that travels for a short distance before fading away with some lingering active frames, this move can be annoying to punish from a distance due to its fast recovery. After ending a Moroha combo with an air Keygrab, you can toss this out upon landing for a good oki tool. If you have 25%, you can FRC just as the projectile appears and Bloodpack for an almost entirely safe transformation back into Moroha.
+It's not guaranteed to come out if you get hit, but you'll sometimes get away with it in neutral to give your opponent something to deal with while you sneak in a quick Bloodpack, or bait them into your AAs.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+23~24F
+
+0
+7
+2
+
+
+Attack is guaranteed to activate after 23F
+
+Injecting
+63214P
+
+
+
+
+
+
+
+That's all it takes sometimes
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 38
+
+19~22F All23F Strike
+
+
+
+ Total: 38
+Bloodpack. Burns one blood bag to put ABA in Moroha mode without having to land a combo or Keygrab. Has some strange invulnerability near the end of the animation.
+This is just as important as keygrab, as it guarantees transformation on frame 23. Do this after max range 5H on block, from a distance, or if you're feeling ballsy and want to use the very late, very short invuln frames to go through something like Slidehead.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Consumes a blood pack on 20F and changes ABA to Moroha mode
+
+Force Breaks
+FB Dragging
+236D
+
+
+
+
+
+
+
+Get-out-of-jail card
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 26
+
+1~End All
+
+
+
+ Total: 26
+The best move in Normal Mode. Just like regular slide, except it's entirely invincible for its full duration, and thus completely unpunishable except against those who throw on the first frame it ends.
+It will evade oki, including meaty setups. It will slide through moves and supers, even stuff like Raou’s Bellows Malice, for easy Keygrabs. It has a huge FRC point, which is highly useful in certain situations since you can FRC to choose which side of the opponent A.B.A will appear on, or to buffer into a surprise Keygrab. A 25% "reversal" option never looked so good.
+
+Doesn't work out of dash normally, but can be done with a Negative Edge D held during dash startup then let go during it's cancel frames, giving you stronger control of positioning in situations such as going through Justice N.B. sets from further away and Testament Zeinest/HITOMI setups designed to catch normal FB Dragging distance.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+9~23F
+
+
+
+
+
+
+Can pass through opponent from 3F until end of move
+
+Overdrives
+Evidence: Concealment
+632146H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Mercury-infused blood is no joke
+
+
+
+
+
+ 
+
+
+
+
+Active frames 1-2
+
+
+
+
+
+
+Active frames 3-4
+
+
+
+
+GGACR ABA 632146aH Hitbox 3.png
+
+Active frames 5-6
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+632146H
+68
+Mid
+9+10
+6
+34
+-14
+1~14F All15~22F Throw, Above Feet23~49F Low Profile
+
+
+632146H > 236H
+68
+Mid
+23
+6
+34
+-14
+19~26F Above Feet27~53F Low Profile
+
+
+632146H > 236H > 236H
+108
+Mid
+23
+6
+34
+-14
+19~26F Above Feet27~53F Low Profile
+
+
+
+ Total: 58
+Normal mode exclusive. Despite not having full invul all the way through startup, it can kind of work as a reversal, sometimes.
+Better for damage if you can actually land a kill combo in normal mode, or delay the followup hits into a frametrap. It also has FRC points on every hit, in case you want to extend into pressure or make it safe. Note that the 2nd followup of this super has much less untechable frames, so you might want to end it after the 1st one for an easy keygrab.
+
+
+It's probably best to cancel into the followup hit this most of the time since it'll push the opponent back and make the move safer despite being -26.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+632146H
+19~22F
+Forced 50%
+20
+12
+5
+
+
+632146H > 236H
+23~26F
+Forced 50%
+20
+12
+5
+
+
+632146H > 236H > 236H
+23~26F
+Forced 50%
+20
+18
+5
+
+
+632146H:
+
+Can cancel into 2nd hit from 21~44F
+632146H > 236H:
+
+Can cancel into 3rd hit from 23~53F
+632146H > 236H > 236H:
+
+
+Evidence: Destruction
+j.632146P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Win air-to-air battles for 50% tension and not a lot of damage
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+35×4
+High/Air
+9+3
+24
+Until landing+11
+
+1~11F All
+
+
+
+ Total: 0
+Highly situational air super, with some startup invuln. You can use this as an expensive air-to-air to kill low health opponents, as it will beat almost any air normal and a lot of anti airs, though it will trade sometimes. You can also use this to end air combos with it if it'll kill, or extend ground ones via TK'ing after f.S.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+36~39F
+
+11×4
+6×4
+4
+
+
+Max 4 hits
+
+
+
+In Moroha mode, ABA's attacks receive slight to moderate damage boosts, along with different, greatly improved S, H, and D normals.
+
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+3F is great
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+11
+Mid
+3
+2
+7
++1
+2~4F Upper Body
+
+
+
+ Total: 11
+While 5P isn't much of a traditional FG jab, it sees good use as a reactionary anti-air/counter-poke, with three frames of head invulnerability. Its speed also helps ABA convert falling j.H at any height into MM c.S > 2H > etc, or f.S > rekkas.
+On block, you can mix the opponent up with tick throws, or extend your pressure into 2H to remain plus.
+Whiffs on crouching Faust, Zappa, Kliff, Millia, and Anji (only when in hitstun)
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Average poke that moves ABA slightly forwards
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+14
+Mid
+7
+5
+6
++1
+
+
+
+
+ Total: 17
+Not bad of a poke, but there are better options in Moroha mode, so this move is mostly situational. Being plus on block is still great though.
+Gatling Options: 6P, 5K, c.S, f.S, 2S, 5H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+6
+7
+2
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+33
+Mid
+9
+3
+14
+0
+7~22F Foot
+
+
+
+ Total: 25
+A great pressure starter/extender that cranks up their guardbar rather well. In Moroha mode, this normal gains a monstrous hitbox along with foot invuln during startup and active frames, while being just 2f slower than NM c.S. Cancel this into f.S, 5H, or 2H to continue your pressure.
+As it's 0 on block, you can also try to frametrap with her gatling options or with specials, or even Goku Moroha activation (6321463214S).
+Gatling Options: 6P, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+6
+4
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Footsies
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-10
+
+
+
+
+
+
+Frames 13-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+24×2
+Mid
+9
+2(2)2
+16
+-1
+
+
+
+
+ Total: 30
+With its amazing range and disjointed hitboxes, Moroha f.S is a staple for your neutral, and is also a beefy poke to start your pressure game.
+As it hits twice, you can throw this out to stuff hyper armored moves or familiars that eat hits (Little Eddie, Zappa's Dog, Dizzy's Fish), which nicely leads to 5H or rekkas. No longer hits low unlike in Normal mode.
+Gatling Options: 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14×2
+6×2
+4
+
+
+1st hit causes very little pushback
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 15-19)
+
+
+
+
+
+
+2nd hit (Frames 26-27)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30, 20
+Mid
+15
+5(6)2
+12
+±0
+
+
+
+
+ Total: 39
+Even though it's 2f slower than NM 5H, this move hits twice, builds a ridiculous amount of guard bar on block, and vacuums on the second hit, which is also an important part in your Moroha refresh combos (xxx > 5H with both hits > 1st rekka > 2nd rekka > double keygrab). On crouching opponents, you can also combo this into 6H for optimal damage and meter gain.
+Due to its lenient cancel window, you can also frame trap with Moroha ABA's various gatling options: either 2H, 6H, 2D, or even rekkas, allowing you to keep the opponent close and get their guard bar flashing in about a second. An excellent pressure tool that is somehow 0 on block.
+There is a gap between 5H 2nd hit and the first hit of 2H on block that can be reversaled through, but is unthrowable on normal block. 3 frame normals such as Sol and Order-Sols 5K or A.B.As 5P will beat this. 4 frame normals will trade with the second hit but will leave A.B.A at enough advantage for her to be able to combo dash c.S. 5H 1st hit to 2H is gapless unless IBed
+Gatling Options: 2S, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20, 10
+6×2
+5, 3
+
+
+1st hit staggers on ground CH (max 61F)
+2nd hit pulls opponent in
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Slightly bigger than normal mode
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+17
+High
+24
+4
+15
+-5
+
+
+
+
+ Total: 42
+A frame faster than the Normal mode version and fairly safe for a 5D at only -5. On normal hit can lead into impossible dust combos, but very useful against an opponent with flashing risc due to the automatic counter hit properties. On counter hit gives you any combo you want since its completely untechable. Not particularly noteworthy but important to keep your opponent from getting too comfortable just down-backing.
+
+Interestingly, you can cancel this into AltercationGuard:MidStartup:15+2Recovery:13Advantage:+5, to keep yourself plus on block or even get a free combo (provided you have the resources) by TKing the super input, cancelling the flash frame into dust Homing Jump and not using any meter or bloodpacks!
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+20
+3
+
+
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 10-12)
+
+
+
+
+
+
+2nd hit (Frames 13-15)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+23×2
+Mid
+10
+3,3
+17
+-6
+1~9F Upper Body10~12F Above Knees
+
+
+
+ Total: 32
+In Moroha mode, its hitbox is a little altered since Paracelsus' head changes shape, but functions the same as NM's. On block, you can now cancel it to 6H to reset or end pressure.
+Gatling Options: 2S, 6H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+10×2
+7×2
+3
+
+
+Jump cancel on 2nd hit only
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 15-18)
+
+
+
+
+
+
+1st hit (Frames 19-21)
+
+
+
+
+
+
+2nd hit (Frames 22-28)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+38×2
+Mid
+15
+7,7
+30
+-18
+
+
+
+
+ Total: 58
+No longer a slow CH stun fishing move in Moroha, 6H now hits twice, gains jump cancels, sports exceptional range, cranks the guardbar nicely, and hurts a lot more. The fact that you can jump cancel this means that on block, you get to do some gimmicky pressure resets via 6H (1) > IAD j.H. Alternatively, you can just do 236S to end pressure more safely.
+On its own, this move mostly sees use against people trying to backdash her oki on wakeup in the corner, or those trying to low profile f.S or 5H from far away. If you managed to land a hit from max range, rekkas or butt (421H, air hit only) are your only meterless options.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20×2
+6×2
+5
+
+
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+9
+Mid
+5
+2
+6
++2
+
+
+
+
+ Total: 12
+Mostly identical to NM version, though thanks to the speed boost ABA gains in Moroha, you can dash in and use this to pressure the opponent or just tick throw them.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+3
+8
+1
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Important for fuzzy high/low mixups
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+13
+Low
+6
+4
+10
+-2
+
+
+
+
+ Total: 19
+Aside from a slight damage boost, this move is virtually the same as the NM version. Useful for opening the opponent up during mixups.
+Gatling Options: 6P, c.S, f.S, 2S, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+70%
+5
+7
+2
+
+
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Crazy good
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+33
+Mid
+12
+6
+18
+-7
+
+
+
+
+ Total: 35
+A fantastic anti-air. Despite being 50% slower than NM 2S, it makes up for having ludicrous hitboxes and range. When done preemptively, this will hard punish most jump-ins. Great reward on CH. On block , you get a gimmicky high/low mixup with 5D and 2D, but going for 2D into rekkas is usually preferred.
+Gatling Options: 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+8
+4
+
+
+Floats on CH (untechable for 46F)
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 17-18)
+
+
+
+
+
+
+1st hit (Frame 19)
+
+
+
+
+
+
+2nd hit (Frames 20-30)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28×2
+Mid
+17
+3,11
+6
++2
+13~18F Throw
+
+
+
+ Total: 36
+One of the most oppressive normals in the game, it does practically everything: moving ABA forward, forcing crouching state on the 1st hit, launching on the 2nd hit, cranking the opponent's GB and being +2 on block. A great combo tool and pressure extender that the opponent will learn to respect in no time.
+Being slightly airborne before going active means ABA is throw-invuln during this window, so you can use this as a nice meaty button. To top it off, MM 2H also has an FRC point just as the axe touches the ground for the 2nd hit, which is excellent for applying baits or pressure. Insane.
+Gatling Options: 2S
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+20~22F
+
+20×2
+6,14
+5
+
+
+Jump cancel on 2nd hit only
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+The "skill issues" button
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+37
+Low
+12
+2
+23
+-6
+
+
+
+
+ Total: 36
+In Morohaville, 2D's range grows from standard to absurd. Near the corner, you can confirm into rekka loops (except on Axl, Baiken, Bridget, Millia, and May). At max range, you can use it to bait reversals, and include a hitstop OS with rekkas. It will convert on hit, but you'll be safe on whiff, as long as you space it properly.
+Notably, on CH or against light characters, you can combo this into GM activation, leading to a nice damaging combo with knockdown and oki.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+15
+6
+5
+
+
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+13
+High/Air
+5
+4
+14
+
+
+
+
+
+ Total: 22
+Mostly identical to NM version, but you can now chain it on block to the improved MM j.H to keep pressuring the opponent from air to ground.
+Gatling Options: j.P, j.K, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Even better than before
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20
+High/Air
+5
+8
+12
+
+
+
+
+
+ Total: 24
+Being 1f faster in Moroha mode means this move works rather nicely as a rising air-to-air now, even though 2S still yields far better rewards on CH. You will mostly use this move in tandem with her fuzzy high/low mixup along with j.S.
+Gatling Options: j.P, j.S, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+All around great
+
+
+
+
+
+ 
+
+
+
+
+Frames 10-11
+
+
+
+
+
+
+Frames 12-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+33
+High/Air
+10
+5
+12
+
+
+
+
+
+ Total: 26
+Excellent air-to-air. Slightly slower in comparison to NM j.S, but has much better range, damage, and attack level. Crucial for her fuzzy high/low mixups.
+Your standard setup for fuzzies is [j.S > dj.S > falling j.H > land] into more combos. These lead to BIG damage, upwards of 300+ depending on guard bar and available tension. Since it combos to j.P or j.K, you can fuzzy guard by doing  [j.S > j.K] or [j.S > j.P]. The latter isn't as useful since the hitstun on j.P is subpar, but the reward from j.S > j.K is superb. Knock an opponent down in the corner do [running j.S > j.K > dj.S > j.H]. Done properly, this is airtight, and if the opponent blocks low at any point, they're getting fuzzied. Other options include land > throw after the fuzzy, or do more j.Ps.
+Gatling Options: j.P, j.K, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+11
+6
+4
+
+
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 12-13
+
+
+
+
+
+
+Frames 14-15
+
+
+
+
+
+
+Frames 16-17
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+High/Air
+12
+6
+20
+
+
+
+
+
+ Total: 37
+ABA's notorious air normal. Aside from gaining huge hitboxes in Moroha, j.H also tucks her hurtbox upwards, making it great not just for air-to-air interactions, but also for jump-ins, especially crossups. The built-in OS with airthrow doesn't do your opponents any favors either, so don't hesitate throwing this out in neutral.
+On CH, you can easily confirm it into a short KD combo or ludicrous damage, despite its prorate. On normal hit/block from IAD height, you can link it to 5P, which easily leads to your ground strings. People hate this move.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+15
+6
+5
+
+
+Slams down opponent on air hit
+Slides on CH (untechable for 100F, slides for 30F)
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+42
+High/Air
+13
+4
+13+5 after landing
+
+
+
+
+
+ Total: 34
+Faster and more far-reaching than NM version, so j.D can occasionally be used as a CH fishing move in neutral, as you have higher rewards in Moroha. This move is also a key ingredient in A.B.A.’s Orb loop. Otherwise, there are better air-to-air options.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+8
+9
+4
+
+
+Wallbounces on CH (untechable for 50F)
+
+Universal Mechanics
+
+Ground Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+45 pixels
+
+
+
+
+
+
+
+
+Moroha and Goku Moroha version slams into a ground bounce on hit. Standard range, but easily leads into a lot of damage, especially with a raised Guard Bar. Tick throw with any fast normals (5P, 2P, 2K) or after vacuuming them in with 5H. A crucial part of A.B.A's offensive gameplan.
+6H sends the opponent backward while 4H sends them forward. Can be OSed with 5K or c.S, but even 5H and 6H are surprisingly good at catching jump-outs and backdashes, though are much slower.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+Sends opponent on opposite side of throw direction
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+57
+88 pixels
+
+
+
+
+
+
+
+
+Identical to NM version. As usual, (dash) keygrab is possible if you airthrow them close to the ground, for a burst safe mode switch.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 10-11
+
+
+
+
+
+
+Frames 14-15
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+Mid
+10
+2(2)2
+20
+-12
+1~15F All16~27F Throw
+
+
+
+ Total: 35
+The Moroha and Goku Moroha versions are faster than NM's. Useful if you're low on Moroha meter and under pressure so you can get them off of you, or to keep them in the corner, but don't go and get it baited. You can't really combo out of it on regular hit, but you can go for a tech trap afterwards. On CH, you can easily combo out of it as long as your back isn't to the corner for a nice, albeit heavily prorated, combo.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+Max 1 hit
+
+Special Moves
+
+Deletion
+236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Now that's a poke
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+21
+Mid
+11
+2
+17
+-5
+
+
+
+
+ Total: 29
+The start of ABA's rekkas. Having better hitboxes and startup, along with the forward momentum boost before its active frames, Moroha 236S is a rather nice poke you often can throw out in neutral that's difficult to low profile. It's unsafe, but its long range and decent pushback make it safe-ish from afar.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+Can cancel into followup on 20F on hit or block
+
+Ruin
+236S > 46S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+A bit better in Moroha
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+Mid
+6
+3
+19
+-8
+
+
+
+
+ Total: 27
+2nd part of the rekkas. In Moroha, this move plays an important part in rekka loops/juggles, aside from the usual frame trap after 1st rekka.
+You can also immediately cancel it to GM activation 6321463214S, with 50 meter. Notably, you can do a short combo [xxx > 2nd rekka > keygrab x2] to refresh her Moroha gauge, thanks to its stagger effect on ground hit.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+Can cancel into followup from 9F onwards
+Stagger lasts for 45 frames
+
+Condemnation
+46S > 63214S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+We got loops!
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+42
+Mid
+14
+3
+28
+-12
+
+
+
+
+ Total: 44
+The last part of her rekkas. In Moroha, it gain even more groundslide time, which allows you to do rekka loops [xx > 2D > 1st rekka > 2nd rekka > delayed 3rd rekka] x 2/3. Still pretty unsafe on block, but the opponent still has to respect it due to its FRC point, as well as the fact you can activate GM as late as possible.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+14~15F
+Forced 90%
+20
+6
+5
+
+
+Opponent's burst is disabled on hit
+
+Bonding
+63214H (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Handy Moroha refresh
+
+
+
+
+
+ 
+
+
+
+
+Frames 13-15, 19-21
+
+
+
+
+
+
+Frames 16-18, 22-24
+
+
+
+
+
+
+Air
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+63214H[m]
+0, 10 [1, 9]
+All(65 pixels)
+13(4)
+12(6)
+30
+-32
+
+
+
+j.63214H[m]
+1, 30
+All
+10
+3
+Until landing
+
+
+
+
+
+ Total: 54
+In Moroha, keygrab heals ABA for 80% of the self inflicted damage she sustained, while switching her back to Normal mode. You'll want to go into this when comboing to end it, but specifically when your Moroha meter is close to empty: generally better to play it safe than sorry.
+If the move initially lands as a throw, ABA can follow up with another keygrab, meaning that going into a raw throw keygrab will let you OTG another and go right back into Moroha mode if you were in it to start with. This allows you to refresh Moroha mode with double keygrabs via 2nd rekka stagger [xxx > 2nd rekka > keygrab x2]. However, this double pickup doesn't work if the first lands as a strike (except on ABA herself), but she can instead do some combos that lead into Bloodpack FRC > keygrab.
+
+On block, can cancel to AltercationGuard:MidStartup:15+2Recovery:13Advantage:+5, or be RC'd.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+63214H[m]
+N/A
+
+3
+8, 0(6)
+1
+
+
+j.63214H[m]
+N/A
+
+3
+8, 0
+1
+
+
+63214H[m]:
+
+Listed Recovery is for when the move is blocked. On hit the recovery is 38F
+Data in () is for the throw part
+Data in [] is in Goku Moroha
+ABA enters Normal mode on hit
+ABA regains 80% of the self-inflicted damage generated by Moroha/Goku Moroha mode
+Knocks down opponent on hit
+ABA is in CH state during move
+Opponent's burst is disabled on hit
+Can only be RC'd on block
+j.63214H[m]:
+
+Data in [] is in Goku Moroha
+ABA enters Normal mode on hit
+ABA regains 80% of the self-inflicted damage generated by Moroha/Goku Moroha mode
+Knocks down opponent on hit
+ABA is in CH state and air position remains constant from 1~31F
+Can only be RC'd on block
+
+Engorgement
+421H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Ground KD tool
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+48
+Mid
+21
+11
+14
+-6
+
+
+
+
+ Total: 45
+Headbutt, aka butt. ABA hops forward along with Paracelsus. Works well as a combo ender, and is a staple of Butt loops. Its long active time can make it safe when it makes contact late, but otherwise it doesn't see much use in neutral. With meter, you can RC on hit or block to double jump or airdash afterwards.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+85%
+20
+6
+5
+
+
+ABA is airborne from 12~31F
+ABA is in CH state from 1~38F
+Auto Jump Install
+
+Judgment
+623H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Judge, Jury,
+
+
+
+
+
+
+and Executioner
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 18-20)
+
+
+
+
+
+
+1st hit (Frames 21-23)
+
+
+
+
+
+
+2nd hit (Frames 44-46)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25, 35
+Mid
+18
+6(20)3
+25
+-9
+1~20F Throw1~24F Armor
+
+
+
+ Total: 71
+Danzai. Having throw invuln and a single hit of armor on the upswing, launching on both hits, sporting huge hitboxes and huge pushback on block to help make this one of the best specials in the game. It will blow up pokes or telegraphed poke out attempts, can AA, beat reversals or throws, or even absorb blue Burst!
+Just be sure to keep the following in mind: it only absorbs one hit, so multi-hitters or fast attacks will beat it. This move also loses to supers, and gets punished by the gap inbetween the hits, if the opponent blocks the first one. Some characters also have char-specific ways to deal with Danzai as well, so keep in mind to not overuse it. Additionally, the armor won't keep you alive if you're already near death.
+As Danzai is a special move, it is also cancellable to GM activation (with 50 meter), making it a particularly dangerous offensive option.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%, Forced 70%
+14, 20
+6×2
+4, 5
+
+
+Armor absorb one non-super hit for half damage
+2nd hit disables opponent's burst on hit
+
+Displacement
+63214P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 40
+
+9F All10~13F Strike
+
+
+
+ Total: 40
+Bloodpack exit. Spends one pack to return to Normal Mode and restore 120% of self-inflicted damage. Has an FRC point to make recovery less punishable.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+10~13F
+
+
+
+
+
+
+Consumes a blood pack, changes ABA to normal mode, and restores 1.2x of the self inflicted Moroha damage on 10F
+
+Blunder
+41236K or 46S > 236K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+Air
+28
+1
+29
+
+11~24F Lower Body25~30F Foot11~30F Throw
+
+
+
+ Total: 57
+Flipkick. Throw/low invincible overhead/pseudo-unblockable (can be air blocked) which ground bounces on hit and staggers the opponent on standing block. Most commonly used in tandem with FB BloodballGuard:AllStartup:51Recovery:Total 38Advantage:+45 for an expensive but very powerful unblockable setup into Goku MorohaGuard:MidStartup:15+2Recovery:13Advantage:+5
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+20
+6
+5
+
+
+Staggers when blocked high (max 55F)
+Does not count as hit when blocked high, deals no damage or self damage
+
+Eradication
+j.41236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+"Prepare for trouble!"
+
+
+
+
+
+ 
+
+
+
+
+Frames 16-18 (17-19)
+
+
+
+
+
+
+Frames 19-21 (20-21)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+38(58)
+All
+16(17)
+6(5)
+Until landing+12
+
+
+
+
+
+Orbs. A slow but rather far-reaching air special, you should use this move preemptively in neutral to deter the opponent from being too mash-happy during air-to-air situations. Since this move creates projectiles, they’ll linger and sometimes trade (usually with the rear orb) when you get hit first. On CH, you usually get a short air combo or a short ground one ending with butt.
+You can also use this move low to the ground as a meaty to bait wake-up throw attempts. Moreover, it's possible for both orbs to touch the opponent on oki situations, which will hurt a LOT on hit, though this is usually not reversal safe. Has an FRC point to remain safe, though, just as A.B.A. begins to tuck her outstretched leg back in, right when the orbs become active. Dash jump at downed opponent > orbs (FRC) on top of them > 2K, 5D, etc. to begin pressure.
+Where this move shines the most is as a crucial component of several of A.B.A's combos. Due to the fact that it has a uniquely high amount of air untech time while launching the opponent up, A.B.A is allowed enough time to land and continue the combo in several situations, even moreso with the FRC. Because they are projectiles, performing the move on top of the opponent can allow both to hit the opponent at the same time, dealing massive damage and giving increased untech time.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+22~23F
+
+0
+10(2)
+4
+
+
+Data in () is for rear orb
+Attack is guaranteed to activate after 10F
+
+Suka Motion
+Moroha Gauge reaches 0
+
+
+
+
+
+
+
+9/10, would IK again
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 52
+
+
+
+
+
+ Total: 52
+Occurs when the Moroha gauge completely empties. ABA is stuck in a lengthy recovery animation that isn't cancelable into anything. If this happens to you, it's very likely that you'll lose the round.
+Suka Motion will not activate while ABA is in the middle of another move's animation., so you can continue to perform gatlings and special cancels after the Moroha gauge disappears, as long as she:
+
+Is in the middle of an attack animation
+Follows regular Moroha's gatling rules (you will not be able to do gatlings that are only possible in Goku Moroha)
+Does not return to neutral state on the ground (you can still jump cancel after the gauge runs out, but Suka Motion will activate upon the next landing)
+If your Moroha gauge runs out mid-combo/blockstring, you can end it quickly with keygrab, bloodpack exit, or activate GM to recover safely.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Happens if Moroha gauge drops to 0
+
+Force Breaks
+
+FB Avoidance
+236D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+A bit expensive in Moroha mode
+
+
+
+
+
+ 
+
+
+
+
+Slightly smaller than normal version
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18, 10×5
+All
+51
+1(3)×5,1
+Total 38
++45
+7~11F, 20~22F Above Knees12~19F Upper Body
+
+
+
+Moroha-exclusive bloodball. A lingering projectile that hits 6 times. Thanks to its FRC point (identical to NM version), you get to set up some cheesy setups by doing FB bloodball FRC > dash in, followed up by either throw or flipkick, though this can be backdashed. However, it's better to save that meter for GM activation most of the time. 
+The multihit part of the projectile has a weird property where the gap will always be the same, ignoring hitstop when it hits. This means against Jam's parry and SB the projectile will still lock them in hitstop preventing them from even using a reversal option.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+23~24F
+
+0
+7×6
+2
+
+
+Attack is guaranteed to activate after 23F
+
+FB Judgment
+623D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 12-13)
+
+
+
+
+
+
+1st hit (Frames 14-15)
+
+
+
+
+
+
+2nd hit (Frames 30-31)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25, 35
+Mid
+18
+6(20)3
+25
+-11
+1~20F Throw1~24F Armor
+
+
+
+ Total: 71
+FB Danzai launches higher on hit and gets hyper armor for the upswing till Christmas, plowing through pretty much anything as long as you still have life left. Obscene.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%, Forced 80%
+14×2
+6×2
+4
+
+
+2nd hit removes OTG status from opponent on hit
+Armor absorbs non-super attacks for half damage
+
+Overdrives
+
+Evidence: Destruction
+j.632146P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+j.632146P[m]
+26×4
+Mid
+9+3
+24
+Until landing+11
+
+1~14F All
+
+
+j.632146P > 214K
+26×4
+High, High/Air×3
+2+5
+38
+Until landing+11
+
+1~8F All
+
+
+
+No longer hits overhead, but now allows you to follow up with additional hits by inputting j.214K for some extra damage. Its usage is identical to NM version, though, and there's an even better super you can do in Moroha mode for which you should really save up meter.
+
+
+The follow up travels backwards and hits overhead again. Will often whiff most or all of its hits, and will not really do a lot of damage either way. Keep in mind that using this at ALL, including on block, hit, or whiff, will cause A.B.A's next Danzai, INCLUDING FB Danzai, to lose armor, or in FB Danzai's case, super armor. Not amazing by any means.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+j.632146P[m]
+36~39F
+
+20×4
+6×4
+5
+
+
+j.632146P > 214K
+N/A
+
+15×4
+6×4
+5
+
+
+j.632146P[m]:
+
+Can cancel into Followup from 41F until landing
+Max 4 hits
+j.632146P > 214K:
+
+Max 4 hits
+
+Altercation
+6321463214S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+"ABA no"
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10
+Mid
+15+2
+3
+13
++5
+1~15F All
+
+
+
+ Total: 32
+Your win condition.  Provided you have one bloodpack and enough meter, ABA performs an aggressive mode switch attack with hitboxes completely surrounding her, then switches her to Goku Moroha mode, replenishing her Moroha gauge and turning it blue in the process. It's invulnerable from frames 1-15, staggers on ground hit, wallbounces or knocks down on air hit, and cannot be interrupted. You can cancel into this super from anything grounded (normals/specials, except EngorgementGuard:MidStartup:21Recovery:14Advantage:-6), rendering Moroha ABA a constant threat whenever she has 50 meter.
+In this state, ABA gains a tremendous speed boost for both her movement and her attacks, double airdash, jump cancels for most of her normals, extra FRC points for many of her specials along with wider FRC windows, and extra properties for some of her moves. But most importantly, her gatling limitations are removed, as she can now cancel any normal into anything, as well as reverse cancel them (i.e. 6P > 5H > 6P > 5H > etc). Let them know fear.
+Do note that in GM, ABA also inflicts more self-damage on hit/block, so make sure to not overextend in pressure.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+10
+5
+
+
+Costs 1 Blood Pack
+Cannot be interrupted
+Can pass through projectiles
+Can be cancelled from any move except aerial moves, 63214H and 421H
+Puts A.B.A into Goku Moroha mode and fills Moroha Gauge to 100%
+Staggers for 45 frames on hit
+
+
+
+In Goku Moroha mode, almost all of ABA's normals gain jump cancel points, and also can chain into either themselves or each other, letting you reverse cancel strings you normally couldn't in Moroha mode.
+
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+3F is insane
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+11
+Mid
+3
+2
+6
++2
+2~4F Upper Body
+
+
+
+ Total: 10
+5P reaches its full potential in Goku Moroha mode thanks to its unrestricted gatling routes, allowing you to whiff cancel this move from virtually any other normal on block to remain completely safe. For instance, you can do xx > f.S > 5P > whiff cancel f.S > 5P > whiff cancel etc, which is an airtight blockstring if done correctly. On block, you can mix the opponent up with tick throws, or extend your pressure into S or H normals for frame traps/remaining plus. A more detailed explanation on this can be found here
+Gatling Options: (any other normal, including itself)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Even faster now
+
+
+
+
+
+ 
+
+
+
+
+Frames 6-7
+
+
+
+
+
+
+Frames 8-10
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+14
+Mid
+6
+5
+4
++3
+
+
+
+
+ Total: 14
+With the general GM gatling and speed buffs, this move becomes far more useful as a pressure extender and a safe-ish frame trap that can be DAA/burst-safe, while still being plus on block.
+Gatling Options: (any other normal, including itself)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+6
+7
+2
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+33
+Mid
+7
+3
+9
++5
+6~17F Foot
+
+
+
+ Total: 18
+Multipurpose normal. Good for throw OSes at 7 frames, amazing for pressure due to being +5 on block, jump cancels for IAD pressure, gatlings to lows with 2K and 2D and overheads with flipkickGuard:AirStartup:28Recovery:19Advantage: and 5D. Great for reverse gatlings to create burst safe routing from any hit and provide stability without sacrificing damage. From further out some gatlings may go into f.SGuard:MidStartup:7Recovery:12Advantage:+3 so be prepared to adjust combos on the fly in case of that. Can occasionally be used as a proximity anti-air due to its speed but is occasionally prone to trading due to a larger upward hurtbox than 2SGuard:MidStartup:9Recovery:9Advantage:+2. Trades are usually in your favor but shouldn't be overly relied upon
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+6
+4
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 7-8)
+
+
+
+
+
+
+2nd hit (Frames 11-12
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+24×2
+Mid
+7
+2(2)2
+12
++3
+
+
+
+
+ Total: 24
+A 7F-startup normal that is completely disjointed for the first hit, is +3 on its own, and ALSO jump-cancellable, this move retains all of what makes MM f.S good, combined with all the juicy GM buffs ABA receives. Your party starter.
+On hit/block, it leads nicely to 5H, which you can reverse chain back into f.S again, or go for a pressure reset with 5P whiff cancels.
+Gatling Options: (any other normal except c.S)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14×2
+6×2
+4
+
+
+1st hit causes very little pushback
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 11-14)
+
+
+
+
+
+
+2nd hit (Frames 19-20)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30, 20
+Mid
+11
+4(4)2
+11
++1
+
+
+
+
+ Total: 31
+While still a tad slow at 11 frames, Goku Moroha 5H is still a fantastic and multipurpose normal. Still serves its purpose well as a poke and counterpoke, particularly due to its ability to RebeatCanceling into a normal on a up-the-alphabet, or weaker button direction. into 5P on block to create huge frame advantage from far away, or if it counterhits avoid the 2nd hit undoing your stagger and allowing you to dash up and continue your combo. Also gains natural frame advantage on block due to the marginally shorter recovery
+There is a gap between 5H 2nd hit and the first hit of 2H on block that can be reversaled through, but is unthrowable on normal block. 3 frame normals such as Sol and Order-Sols 5K or A.B.As 5P will beat this. 4 frame normals will trade with the second hit but will leave A.B.A at enough advantage for her to be able to combo dash c.S. 5H 1st hit to 2H is gapless unless IBed
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20, 10
+6×2
+5, 3
+
+
+1st hit staggers on ground CH (max 61F)
+2nd hit pulls opponent in
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+17
+High
+22
+4
+15
+-5
+
+
+
+
+ Total: 40
+Another two frames shaved off the startup puts Goku 5D at the second fastest dust in the game after  Sol Dragon Install 5D. Still decently safe, leads to impossible dust on normal hit, and extremely good when used on an opponent with high risc to cash out on damage. Even unoptimized 5D combos with high risc are liable to do an excess of 50%. Faster than her other overhead in Goku but a bit more situational. Still good to keep your opponent from trying to block everything
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+20
+3
+
+
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 7-8);2nd hit (Frames 9-11)
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+23×2
+Mid
+7
+2,3
+12
+-1
+1~6F Upper Body7~8F Above Knees
+
+
+
+ Total: 23
+In Moroha mode, its hitbox is a little altered since Paracelsus' head changes shape, but functions the same as NM's. On block, you can now cancel it to 6H to reset or end pressure.
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+10×2
+7×2
+3
+
+
+Jump cancel on 2nd hit only
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 11-14)
+
+
+
+
+
+
+1st hit (Frames 15-17)
+
+
+
+
+
+
+2nd hit (Frames 18-24)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+38×2
+Mid
+11
+7,7
+24
+-12
+
+
+
+
+ Total: 48
+No longer a slow CH stun fishing move in Moroha, 6H now hits twice, gains jump cancels, sports exceptional range, cranks the guardbar nicely, and hurts a lot more. The fact that you can jump cancel this means that on block, you get to do some gimmicky pressure resets via 6H (1) > IAD j.H. Alternatively, you can just do 236S to end pressure more safely.
+On its own, this move mostly sees use against people trying to backdash her oki on wakeup in the corner, or those trying to low profile f.S or 5H from far away. If you managed to land a hit from max range, rekkas or butt (421H, air hit only) are your only meterless options.
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20×2
+6×2
+5
+
+
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+9
+Mid
+5
+2
+6
++2
+
+
+
+
+ Total: 12
+Mostly identical to NM version, though thanks to the speed boost ABA gains in Moroha, you can dash in and use this to pressure the opponent or just tick throw them.
+Gatling Options: (any other normal, including itself)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+3
+8
+1
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Important for fuzzy high/low mixups
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+13
+Low
+5
+4
+10
+-2
+
+
+
+
+ Total: 18
+Aside from a slight damage boost, this move is virtually the same as the NM version. Useful for opening the opponent up during mixups.
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+70%
+5
+7
+2
+
+
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Crazy good
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+33
+Mid
+9
+6
+9
++2
+
+
+
+
+ Total: 23
+Goku 2S loses 3 frames of startup and half its recovery compared to Moroha 2SGuard:MidStartup:12Recovery:18Advantage:-7 putting this at just a frame slower than Normal 2SGuard:MidStartup:8Recovery:13Advantage:-5, and with significantly less risk associated with whiffing this move. It also gains a self gatling, though this is rarely used compared to its special cancels and reverse gatlings into all of her other normals
+Gatling Options: (any other normal, including itself)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+8
+4
+
+
+Floats on CH (untechable for 46F)
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 17-18)
+
+
+
+
+
+
+1st hit (Frame 19)
+
+
+
+
+
+
+2nd hit (Frames 20-30)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28×2
+Mid
+17
+3,11
+6
++2
+13~18F Throw
+
+
+
+ Total: 36
+One of the most oppressive normals in the game, it does practically everything: moving ABA forward, forcing crouching state on the 1st hit, launching on the 2nd hit, cranking the opponent's GB and being +2 on block. A great combo tool and pressure extender that the opponent will learn to respect in no time.
+Being slightly airborne before going active means ABA is throw-invuln during this window, so you can use this as a nice meaty button. To top it off, MM 2H also has an FRC point just as the axe touches the ground for the 2nd hit, which is excellent for applying baits or pressure. Insane.
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+20~22F
+
+20×2
+6,14
+5
+
+
+Jump cancel on 2nd hit only
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+The "skill issues" button
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+37
+Low
+9
+2
+23
+-6
+
+
+
+
+ Total: 33
+In Morohaville, 2D's range grows from standard to absurd. Near the corner, you can confirm into rekka loops (except on Axl, Baiken, Bridget, Millia, and May). At max range, you can use it to bait reversals, and include a hitstop OS with rekkas. It will convert on hit, but you'll be safe on whiff, as long as you space it properly. In Goku can start pressure from halfscreen with 5P whiff rebeat pressure in order to give yourself better frame advantage on block. Against certain characters (Potemkin, Robo-Ky, Anji, Testament and Johnny) 2D->whiff 5P->f.S is a link that allows you to confirm into rekkas from max range on hit and is + enough on block for f.S to be a true blockstring
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+15
+6
+5
+
+
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Blazing fast
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+13
+High/Air
+4
+4
+4
+
+
+
+
+
+ Total: 11
+1 frame faster than the NM or MM version puts this at the fastest air-to-air in the game tied with Order-Sol, Justice, Jam and Millia
+
+Speed makes it impossible to IB>Throw when self gatlinged
+Very disjointed. Difficult to contest due to the speed and hitbox
+Very strong as a guts crush due to the self gatling. Good for closing out rounds
+Gatlings to every air normal she has for easy air-to-air confirms
+Gatling Options: (any other normal, including itself)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Even better than before
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20
+High/Air
+4
+8
+12
+
+
+
+
+
+ Total: 23
+Being 1f faster in Moroha mode means this move works rather nicely as a rising air-to-air now, even though 2S still yields far better rewards on CH. You will mostly use this move in tandem with her fuzzy high/low mixup along with j.S.
+Gatling Options: (any other normal, including itself)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+All around great
+
+
+
+
+
+ 
+
+
+
+
+Frame 10
+
+
+
+
+
+
+Frames 11-13
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+33
+High/Air
+10
+4
+2
+
+
+
+
+
+ Total: 15
+Excellent air-to-air. Slightly slower in comparison to NM j.S, but has much better range, damage, and attack level. Crucial for her fuzzy high/low mixups.
+Your standard setup for fuzzies is [j.S > dj.S > falling j.H > land] into more combos. These lead to BIG damage, upwards of 300+ depending on guard bar and available tension. Since it combos to j.P or j.K, you can fuzzy guard by doing  [j.S > j.K] or [j.S > j.P]. The latter isn't as useful since the hitstun on j.P is subpar, but the reward from j.S > j.K is superb. Knock an opponent down in the corner do [running j.S > j.K > dj.S > j.H]. Done properly, this is airtight, and if the opponent blocks low at any point, they're getting fuzzied. Other options include land > throw after the fuzzy, or do more j.Ps.
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+11
+6
+4
+
+
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-10
+
+
+
+
+
+
+Frames 11-12
+
+
+
+
+
+
+Frames 13-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+High/Air
+9
+6
+20
+
+
+
+
+
+ Total: 34
+ABA's notorious air normal. Aside from gaining huge hitboxes in Moroha, j.H also tucks her hurtbox upwards, making it great not just for air-to-air interactions, but also for jump-ins, especially crossups. The built-in OS with airthrow doesn't do your opponents any favors either, so don't hesitate throwing this out in neutral.
+On CH, you can easily confirm it into a short KD combo or ludicrous damage, despite its prorate. On normal hit/block from IAD height, you can link it to 5P, which easily leads to your ground strings. People hate this move.
+Gatling Options: (any other normal)
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+15
+6
+5
+
+
+Slams down opponent on air hit
+Slides on CH (untechable for 100F, slides for 30F)
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+42
+High/Air
+7
+4
+10+5 after landing
+
+
+
+
+
+ Total: 25
+Significantly faster than the other versions of j.D at 7 frames makes this a very nice air-to-air addition for ABA that's significantly rewarding on counter hit due to the wallbounce. Bear in mind that unlike her other air normals this cannot reverse gatling to other jump normals, but a cancel into OrbGuard:AllStartup:12(13)Recovery:Until landing+12Advantage: with the FRC will generally keep you safe if your opponent blocks this
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+8
+9
+4
+
+
+Wallbounces on CH (untechable for 50F)
+
+Universal Mechanics
+
+Ground Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+45 pixels
+
+
+
+
+
+
+
+
+Moroha and Goku Moroha version slams into a ground bounce on hit. Standard range, but easily leads into a lot of damage, especially with a raised Guard Bar. Tick throw with any fast normals (5P, 2P, 2K) or after vacuuming them in with 5H. 
+6H sends the opponent backward while 4H sends them forward. Best OSed with either 5K or c.S unless keeping the corner is necessary
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+Sends opponent on opposite side of throw direction
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+57
+88 pixels
+
+
+
+
+
+
+
+
+Identical to NM version. As usual, (dash) keygrab is possible if you airthrow them close to the ground, for a burst safe mode switch.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 10-11
+
+
+
+
+
+
+Frames 14-15
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+Mid
+10
+2(2)2
+20
+-12
+1~15F All16~27F Throw
+
+
+
+The Moroha and Goku Moroha versions are faster than NM's. Useful if you're low on Moroha meter and under pressure so you can get them off of you, or to keep them in the corner, but don't go and get it baited. You can't really combo out of it on regular hit, but you can go for a tech trap afterwards. On CH, you can easily combo out of it as long as your back isn't to the corner for a nice, albeit heavily prorated, combo.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+Max 1 hit
+
+Special Moves
+
+Deletion
+236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Now that's a poke
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+21
+Mid
+10
+2
+17
+-5
+
+
+
+
+ Total: 28
+The start of ABA's rekkas. Having better hitboxes and startup, along with the forward momentum boost before its active frames, Moroha 236S is a rather nice poke you often can throw out in neutral that's difficult to low profile. It's unsafe, but its long range and decent pushback make it safe-ish from afar.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+10~13F
+
+10
+7
+3
+
+
+Can cancel into followup on 19F on hit or block
+
+Ruin
+236S > 46S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+A bit better in Moroha
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+Mid
+5
+3
+19
+-8
+
+
+
+
+ Total: 26
+Largely identical to the Moroha version aside from the FRC point added just before the attack hits which can be used to OS whiffs or extend juggles and ground combos that would otherwise be difficult or impossible to extend. Less used due to her better combo options in Goku but still a vital part of Rekka loops in the corner, and can still refresh moroha due to the stagger effect on the 2nd hit allowing a combo into KeygrabGuard:All(65 pixels)Startup:13(4)Recovery:30Advantage:-32
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+5~8F
+
+10
+7
+3
+
+
+Can cancel into followup from 8F onwards
+
+Condemnation
+46S > 63214S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+We got loops!
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+42
+Mid
+14
+3
+23
+-7
+
+
+
+
+ Total: 39
+Gains even more groundslide time in Goku Moroha, allowing for up to 4(!) reps of Rekka loops in the corner against most characters that Rekka loops work on. The FRC point is also wider and it has less recovery in general, but is still rather unsafe on block. Generally less favored than butt loops due to lower damage but still builds a lot of meter for A.B.A and gives her conversions from a lot of ranges
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+14~17F
+Forced 90%
+20
+6
+5
+
+
+Opponent's burst is disabled on hit
+
+Bonding
+63214H (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Handy Moroha refresh
+
+
+
+
+
+ 
+
+
+
+
+Frames 13-15, 19-21
+
+
+
+
+
+
+Frames 16-18, 22-24
+
+
+
+
+
+
+Air
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+63214H[m]
+0, 10 [1, 9]
+All(65 pixels)
+13(4)
+12(6)
+30
+-32
+
+
+
+j.63214H[m]
+1, 30
+All
+10
+3
+Until landing
+
+
+
+
+
+In Moroha, keygrab heals ABA for 80% of the self inflicted damage she sustained, while switching her back to Normal mode. You'll want to go into this when comboing to end it, but specifically when your Moroha meter is close to empty: generally better to play it safe than sorry.
+If the move initially lands as a throw, ABA can follow up with another keygrab, meaning that going into a raw throw keygrab will let you OTG another and go right back into Moroha mode if you were in it to start with. This allows you to refresh Moroha mode with double keygrabs via 2nd rekka stagger [xxx > 2nd rekka > keygrab x2]. However, this double pickup doesn't work if the first lands as a strike (except on ABA herself), but she can instead do some combos that lead into Bloodpack FRC > keygrab.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+63214H[m]
+N/A
+
+3
+8, 0(6)
+1
+
+
+j.63214H[m]
+N/A
+
+3
+8, 0
+1
+
+
+63214H[m]:
+
+Listed Recovery is for when the move is blocked. On hit the recovery is 38F
+Data in () is for the throw part
+Data in [] is in Goku Moroha
+ABA enters Normal mode on hit
+ABA regains 80% of the self-inflicted damage generated by Moroha/Goku Moroha mode
+Knocks down opponent on hit
+ABA is in CH state during move
+Opponent's burst is disabled on hit
+Can only be RC'd on block
+j.63214H[m]:
+
+Data in [] is in Goku Moroha
+ABA enters Normal mode on hit
+ABA regains 80% of the self-inflicted damage generated by Moroha/Goku Moroha mode
+Knocks down opponent on hit
+ABA is in CH state and air position remains constant from 1~31F
+Can only be RC'd on block
+
+Engorgement
+421H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Ground KD tool
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+48
+Mid
+20
+11
+10
+-2
+
+
+
+
+ Total: 40
+Essential combo tool in Goku Moroha, leads to many of your max damage routes due to the jump cancel this move gains during Goku Moroha. Doing this move into 412369S will give you an auto-timed TK OrbGuard:AllStartup:12(13)Recovery:Until landing+12Advantage: that will land both hits on most characters and gives easy extensions due to the widened FRC on Goku Orbs. Also useful for meterless extensions midscreen with the jump cancel, and gives you access to enormous damage and conversions that otherwise wouldn't be possible
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+ABA is airborne from 11~30F
+ABA is in CH state from 1~35F
+Auto Jump Install
+
+Judgment
+623H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Judge, Jury,
+
+
+
+
+
+
+and Executioner
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 12-13)
+
+
+
+
+
+
+1st hit (Frames 14-15)
+
+
+
+
+
+
+2nd hit (Frames 30-31)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25, 35
+Mid
+12
+4(14)2
+21
+-4
+1~13F Throw1~16F Armor
+
+
+
+ Total: 52
+Danzai becomes even better in Goku Moroha, as it becomes a whopping 6 frames faster, with a shorter gap between the hits and less recovery, making it better for anti-airing, defense and generally just pestering your opponent with enormous armored hitboxes. Best of all, in Goku it gains an FRC point just as the first hit connects, which can make your opponent guess as to whether you'll let it rip or FRC it on block to get free plus frames to continue your pressure with, as well as allowing you to bypass the 2nd hits heavy forced proration for the cost of 25 meter. The FRC can also be done on whiff, potentially saving you from a whiffed danzai
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+12~14F
+100%, Forced 70%
+14, 20
+6×2
+4, 5
+
+
+Armor absorb one non-super hit for half damage
+2nd hit disables opponent's burst on hit
+
+Displacement
+63214P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 40
+
+9F All10~13F Strike
+
+
+
+ Total: 40
+Bloodpack exit. Spends one pack to return to Normal Mode and restore 120% of self-inflicted damage. Has an FRC point to make recovery less punishable.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+10~13F
+
+
+
+
+
+
+Consumes a blood pack, changes ABA to normal mode, and restores 1.2x of the self inflicted Moroha damage on 10F
+
+Blunder
+41236K or 46S > 236K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+Air
+28
+1
+19
+
+11~24F Lower Body25~30F Foot11~30F Throw
+
+
+
+ Total: 47
+Flipkick. Throw/low invincible overhead/pseudo-unblockable (can be air blocked) which ground bounces on hit and staggers the opponent on standing block. Has significantly less recovery than regular flipkick making combos out of it on both hit and block much more standard. Gains an FRC point in Goku point which can be used to safely bait things that would normally beat her unblockable setups like a Dead AngleAn attack in Guilty Gear that is done during blockstun that has invincibility and is used to stop the opponent's pressure., backdash, certain Dragon PunchA move that has invulnerability during its startup, long recovery, and a rising motion.es or low profile moves like Grand ViperGuard:Low×7, MidStartup:17Recovery:37Advantage:-21
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+28~30F
+80%
+20
+6
+5
+
+
+Staggers when blocked high (max 55F)
+Does not count as hit when blocked high, deals no damage or self damage
+
+Eradication
+j.41236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+"Make it double!"
+
+
+
+
+
+ 
+
+
+
+
+Frames 12-14 (13-15)
+
+
+
+
+
+
+Frames 15-17 (16-17)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+38(58)
+All
+12(13)
+6(5)
+Until landing+12
+
+
+
+
+
+ Total: 34
+Orbs. A slow but rather far-reaching air special, you should use this move preemptively in neutral to deter the opponent from being too mash-happy during air-to-air situations. Since this move creates projectiles, they’ll linger and sometimes trade (usually with the rear orb) when you get hit first. On CH, you usually get a short air combo or a short ground one ending with butt.
+You can also use this move low to the ground as a meaty to bait wake-up throw attempts. Moreover, it's possible for both orbs to touch the opponent on oki situations, which will hurt a LOT on hit, though this is usually not reversal safe. Has an FRC point to remain safe, though, just as A.B.A. begins to tuck her outstretched leg back in, right when the orbs become active. Dash jump at downed opponent > orbs (FRC) on top of them > 2K, 5D, etc. to begin pressure.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+15~18F
+
+0
+10(2)
+4
+
+
+Data in () is for rear orb
+Attack is guaranteed to activate after 6F
+
+Suka Motion
+Moroha Gauge reaches 0
+
+
+
+
+
+
+
+9/10, would IK again
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 52
+
+
+
+
+
+Occurs when the Moroha gauge completely empties. ABA is stuck in a lengthy recovery animation that isn't cancelable into anything. If this happens to you, it's very likely that you'll lose the round.
+Suka Motion will not activate while ABA is in the middle of another move's animation., so you can continue to perform gatlings and special cancels after the Moroha gauge disappears, as long as she:
+
+Is in the middle of an attack animation
+Follows regular Moroha's gatling rules (you will not be able to do gatlings that are only possible in Goku Moroha)
+Does not return to neutral state on the ground (you can still jump cancel after the gauge runs out, but Suka Motion will activate upon the next landing)
+If your Moroha gauge runs out mid-combo/blockstring, you can end it quickly with keygrab or bloodpack exit to recover safely.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Happens if Moroha gauge drops to 0
+
+Force Breaks
+
+FB Avoidance
+236D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+A bit expensive in Moroha mode
+
+
+
+
+
+ 
+
+
+
+
+Slightly smaller than normal version
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18, 10×5
+All
+51
+1(3)×5,1
+Total 38
++45
+7~11F, 20~22F Above Knees12~19F Upper Body
+
+
+
+Moroha-exclusive bloodball. A lingering projectile that hits 6 times and is often used in conjunction with A.B.A's flipkickGuard:AirStartup:28Recovery:19Advantage: to create difficult to escape unblockable setups. In the corner its even possible to loop these setups using a j.HGuard:High/AirStartup:9Recovery:20Advantage: ender to set up a meaty bloodball and repeat the sequence afterward. The projecile will stay out even if A.B.A gets hit after a certain point, and the multihit nature means that opponents that Faultless DefenseA special type of blocking in Guilty Gear that negates chip damage and pushes the opponent back further than usual. This type of blocking comes at the cost of a resource. this attack will burn through a lot of tension, forcing opponents who are low on health to sacrifice their meter to stay alive if they block this attack. Can be very useful vs characters with limited grounded mobility to give them something extra to think about when attempting to approach, as fireballs tend to be
+The multihit part of the projectile has a weird property where the gap will always be the same, ignoring hitstop when it hits. This means that against Jam's parry and SB the projectile will still lock them in hitstop preventing them from even using a reversal option.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+23~24F
+
+0
+7×6
+2
+
+
+Attack is guaranteed to activate after 23F
+
+FB Judgment
+623D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 12-13)
+
+
+
+
+
+
+1st hit (Frames 14-15)
+
+
+
+
+
+
+2nd hit (Frames 30-31)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25, 35
+Mid
+12
+4(14)2
+21
+-6
+1~13F Throw1~16F Armor
+
+
+
+ Total: 52
+Everything good about regular FB Danzai becomes better in Goku due to the faster startup allowing you to more easily blow through and punish things. Coupled with the FRC point that's identical to meterless Goku Danzai gives ABA a disgustingly powerful callout tool at the cost of 50 meter, that on block is completely safe and on hit gives her an unscaled launcher. Everything you could want in a special and then some
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+12~14F
+100%, Forced 80%
+14×2
+6×2
+4
+
+
+2nd hit removes OTG status from opponent on hit
+Armor absorbs non-super attacks for half damage
+
+Overdrives
+
+Evidence: Destruction
+j.632146P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+j.632146P[m]
+26×4
+Mid
+9+3
+24
+Until landing+11
+
+1~14F All
+
+
+j.632146P > 214K
+26×4
+High, High/Air×3
+2+5
+38
+Until landing+11
+
+1~8F All
+
+
+
+No longer hits overhead, but now allows you to follow up with additional hits by inputting j.214K for some extra damage. Its usage is identical to NM version, though, and there's an even better super you can do in Moroha mode for which you should really save up meter.
+
+
+The follow up travels backwards and hits overhead again. Will often whiff most or all of its hits, and will not really do a lot of damage either way. Keep in mind that using this at ALL, including on block, hit, or whiff, will cause A.B.A's next Danzai, INCLUDING FB Danzai, to lose armor, or in FB Danzai's case, super armor. Not amazing by any means.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+j.632146P[m]
+36~39F
+
+20×4
+6×4
+5
+
+
+j.632146P > 214K
+N/A
+
+15×4
+6×4
+5
+
+
+j.632146P[m]:
+
+Can cancel into Followup from 41F until landing
+Max 4 hits
+j.632146P > 214K:
+
+Max 4 hits
+
+
+Instant Kill
+Darkness of Ignorance
+During IK Mode: 236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Congrats, you just got robbed
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Fatal
+All
+6+30
+5
+40
+-28
+6~10F All
+
+
+
+ Total: 80
+Standard IK. Rather useful after CH NM 6H punish attempts.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+
+4
+
+
+IK Mode activation: 68F
+
+Colors
+
+
+
+
+Default P
+
+
+
+
+
+
+Default K
+
+
+
+
+
+
+Default S
+
+
+
+
+
+
+Default H
+
+
+
+
+
+
+Default D
+
+
+
+
+
+
+EX P
+
+
+
+
+
+
+EX K
+
+
+
+
+
+
+EX S
+
+
+
+
+
+
+EX H
+
+
+
+
+
+
+EX D
+
+
+
+
+
+
+Slash P
+
+
+
+
+
+
+Slash K
+
+
+
+
+
+
+Slash S
+
+
+
+
+
+
+Slash H
+
+
+
+
+
+
+Slash D1
+
+
+
+
+
+
+Reload P
+
+
+
+
+
+
+Reload K
+
+
+
+
+
+
+Reload S
+
+
+
+
+
+
+Reload H
+
+
+
+
+
+
+Reload D1
+
+
+
+
+
+
+
+
+Gold2
+
+
+
+
+
+
+Shadow2
+
+
+
+
+To select your color, press the corresponding button while in the designated "color set". Color sets can be toggled through by hitting the Respect button.
+
+Only selectable on the Arcade and PC-Rollback versions of the game.
+Available on home ports, and are selected by pressing the Rec. Enemy button on the Slash or Reload color sets, respectively. Gold characters are powered up versions, Shadow characters have infinite tension. Both are banned from tournament play.
+
+
+Navigation
+To edit frame data, edit values in GGACR/A.B.A/Data.
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR/A.B.A&oldid=376535"
+
+
+
+
+
+Contents
+
+
+
+Back to top
+
+Contents
+
+
+
+
+
+1
+						Overview
+					
+
+
+
+ 
+
+
+
+2
+						Unique Mechanics
+					
+
+
+
+
+
+
+2.1
+Mode Switch
+
+
+
+
+ 
+ 
+
+
+
+3
+Blood Packs
+
+
+
+
+ 
+
+
+
+4
+Starter Guide
+
+
+
+
+ 
+
+
+
+5
+Moroha Mode Movement Stat Changes
+
+
+
+
+ 
+
+
+
+6
+						Normal Moves
+					
+
+
+
+
+
+
+6.1
+5P
+
+
+
+
+ 
+
+
+
+6.2
+5K
+
+
+
+
+ 
+
+
+
+6.3
+c.S
+
+
+
+
+ 
+
+
+
+6.4
+f.S
+
+
+
+
+ 
+
+
+
+6.5
+5H
+
+
+
+
+ 
+
+
+
+6.6
+5D
+
+
+
+
+ 
+
+
+
+6.7
+6P
+
+
+
+
+ 
+
+
+
+6.8
+6H
+
+
+
+
+ 
+
+
+
+6.9
+2P
+
+
+
+
+ 
+
+
+
+6.10
+2K
+
+
+
+
+ 
+
+
+
+6.11
+2S
+
+
+
+
+ 
+
+
+
+6.12
+2H
+
+
+
+
+ 
+
+
+
+6.13
+2D
+
+
+
+
+ 
+
+
+
+6.14
+j.P
+
+
+
+
+ 
+
+
+
+6.15
+j.K
+
+
+
+
+ 
+
+
+
+6.16
+j.S
+
+
+
+
+ 
+
+
+
+6.17
+j.H
+
+
+
+
+ 
+
+
+
+6.18
+j.D
+
+
+
+
+ 
+ 
+
+
+
+7
+						Universal Mechanics
+					
+
+
+
+
+
+
+7.1
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+7.2
+					Air Throw
+				
+
+
+
+ 
+
+
+
+7.3
+					Dead Angle Attack
+				
+
+
+
+ 
+
+
+
+7.4
+					Blue Burst
+				
+
+
+
+ 
+ 
+
+
+
+8
+						Special Moves
+					
+
+
+
+
+
+
+8.1
+					Deletion
+				
+
+
+
+ 
+
+
+
+8.2
+					Ruin
+				
+
+
+
+ 
+
+
+
+8.3
+					Condemnation
+				
+
+
+
+ 
+
+
+
+8.4
+					Bonding
+				
+
+
+
+ 
+
+
+
+8.5
+					Dragging
+				
+
+
+
+ 
+
+
+
+8.6
+					Retribution
+				
+
+
+
+ 
+
+
+
+8.7
+					Avoidance
+				
+
+
+
+ 
+
+
+
+8.8
+					Injecting
+				
+
+
+
+ 
+ 
+
+
+
+9
+						Force Breaks
+					
+
+
+
+
+
+
+9.1
+					FB Dragging
+				
+
+
+
+ 
+ 
+
+
+
+10
+						Overdrives
+					
+
+
+
+
+
+
+10.1
+					Evidence: Concealment
+				
+
+
+
+ 
+
+
+
+10.2
+					Evidence: Destruction
+				
+
+
+
+ 
+
+
+
+10.3
+5P
+
+
+
+
+ 
+
+
+
+10.4
+5K
+
+
+
+
+ 
+
+
+
+10.5
+c.S
+
+
+
+
+ 
+
+
+
+10.6
+f.S
+
+
+
+
+ 
+
+
+
+10.7
+5H
+
+
+
+
+ 
+
+
+
+10.8
+5D
+
+
+
+
+ 
+
+
+
+10.9
+6P
+
+
+
+
+ 
+
+
+
+10.10
+6H
+
+
+
+
+ 
+
+
+
+10.11
+2P
+
+
+
+
+ 
+
+
+
+10.12
+2K
+
+
+
+
+ 
+
+
+
+10.13
+2S
+
+
+
+
+ 
+
+
+
+10.14
+2H
+
+
+
+
+ 
+
+
+
+10.15
+2D
+
+
+
+
+ 
+
+
+
+10.16
+j.P
+
+
+
+
+ 
+
+
+
+10.17
+j.K
+
+
+
+
+ 
+
+
+
+10.18
+j.S
+
+
+
+
+ 
+
+
+
+10.19
+j.H
+
+
+
+
+ 
+
+
+
+10.20
+j.D
+
+
+
+
+ 
+
+
+
+10.21
+					Universal Mechanics
+				
+
+
+
+ 
+
+
+
+10.22
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+10.23
+					Air Throw
+				
+
+
+
+ 
+
+
+
+10.24
+					Dead Angle Attack
+				
+
+
+
+ 
+
+
+
+10.25
+					Special Moves
+				
+
+
+
+ 
+
+
+
+10.26
+					Deletion
+				
+
+
+
+ 
+
+
+
+10.27
+					Ruin
+				
+
+
+
+ 
+
+
+
+10.28
+					Condemnation
+				
+
+
+
+ 
+
+
+
+10.29
+					Bonding
+				
+
+
+
+ 
+
+
+
+10.30
+					Engorgement
+				
+
+
+
+ 
+
+
+
+10.31
+					Judgment
+				
+
+
+
+ 
+
+
+
+10.32
+					Displacement
+				
+
+
+
+ 
+
+
+
+10.33
+					Blunder
+				
+
+
+
+ 
+
+
+
+10.34
+					Eradication
+				
+
+
+
+ 
+
+
+
+10.35
+					Suka Motion
+				
+
+
+
+ 
+
+
+
+10.36
+					Force Breaks
+				
+
+
+
+ 
+
+
+
+10.37
+					FB Avoidance
+				
+
+
+
+ 
+
+
+
+10.38
+					FB Judgment
+				
+
+
+
+ 
+
+
+
+10.39
+					Overdrives
+				
+
+
+
+ 
+
+
+
+10.40
+					Evidence: Destruction
+				
+
+
+
+ 
+
+
+
+10.41
+					Altercation
+				
+
+
+
+ 
+
+
+
+10.42
+5P
+
+
+
+
+ 
+
+
+
+10.43
+5K
+
+
+
+
+ 
+
+
+
+10.44
+c.S
+
+
+
+
+ 
+
+
+
+10.45
+f.S
+
+
+
+
+ 
+
+
+
+10.46
+5H
+
+
+
+
+ 
+
+
+
+10.47
+5D
+
+
+
+
+ 
+
+
+
+10.48
+6P
+
+
+
+
+ 
+
+
+
+10.49
+6H
+
+
+
+
+ 
+
+
+
+10.50
+2P
+
+
+
+
+ 
+
+
+
+10.51
+2K
+
+
+
+
+ 
+
+
+
+10.52
+2S
+
+
+
+
+ 
+
+
+
+10.53
+2H
+
+
+
+
+ 
+
+
+
+10.54
+2D
+
+
+
+
+ 
+
+
+
+10.55
+j.P
+
+
+
+
+ 
+
+
+
+10.56
+j.K
+
+
+
+
+ 
+
+
+
+10.57
+j.S
+
+
+
+
+ 
+
+
+
+10.58
+j.H
+
+
+
+
+ 
+
+
+
+10.59
+j.D
+
+
+
+
+ 
+
+
+
+10.60
+					Universal Mechanics
+				
+
+
+
+ 
+
+
+
+10.61
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+10.62
+					Air Throw
+				
+
+
+
+ 
+
+
+
+10.63
+					Dead Angle Attack
+				
+
+
+
+ 
+
+
+
+10.64
+					Special Moves
+				
+
+
+
+ 
+
+
+
+10.65
+					Deletion
+				
+
+
+
+ 
+
+
+
+10.66
+					Ruin
+				
+
+
+
+ 
+
+
+
+10.67
+					Condemnation
+				
+
+
+
+ 
+
+
+
+10.68
+					Bonding
+				
+
+
+
+ 
+
+
+
+10.69
+					Engorgement
+				
+
+
+
+ 
+
+
+
+10.70
+					Judgment
+				
+
+
+
+ 
+
+
+
+10.71
+					Displacement
+				
+
+
+
+ 
+
+
+
+10.72
+					Blunder
+				
+
+
+
+ 
+
+
+
+10.73
+					Eradication
+				
+
+
+
+ 
+
+
+
+10.74
+					Suka Motion
+				
+
+
+
+ 
+
+
+
+10.75
+					Force Breaks
+				
+
+
+
+ 
+
+
+
+10.76
+					FB Avoidance
+				
+
+
+
+ 
+
+
+
+10.77
+					FB Judgment
+				
+
+
+
+ 
+
+
+
+10.78
+					Overdrives
+				
+
+
+
+ 
+
+
+
+10.79
+					Evidence: Destruction
+				
+
+
+
+ 
+ 
+
+
+
+11
+						Instant Kill
+					
+
+
+
+
+
+
+11.1
+					Darkness of Ignorance
+				
+
+
+
+ 
+ 
+
+
+
+12
+						Colors
+					
+
+
+
+ 
+
+
+
+13
+						Navigation
+					
+
+
+
+ 
+
+
+
+Categories: Pages using Tabber parser tagGuilty Gear XX Accent Core + RA.B.AHidden category: Unga
+
+
+Last modified
+ This page was last edited on 24 February 2023, at 06:33.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+
+

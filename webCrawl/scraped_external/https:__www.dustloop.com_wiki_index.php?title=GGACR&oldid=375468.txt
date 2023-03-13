@@ -1,0 +1,535 @@
+
+
+
+
+Guilty Gear +R Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363.1K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+Revision as of 01:02, 18 February 2023 by PrivateTarkus (talk | contribs)(diff) ← Older revision | Latest revision (diff) | Newer revision → (diff)
+
+Characters
+
+
+
+
+Guilty Gear XX Accent Core Plus R is the final revision of Guilty Gear XX. Released six years after the previous installment: Guilty Gear XX Accent Core, Accent Core Plus R contains a large amount of balance changes. Some characters have had minor tweaks while other characters have been completely reworked.
+
+ Getting StartedIf you are new to +R, or Guilty Gear in general, then take a look at the Starter Guide and FAQ. If you play on Hitbox, keyboard, or any other leverless input device, consider reading the  Leverless Input Guide. If you need help using training mode, there is a guide for that.
+
+
+System Links
+
+System Mechanics
+
+
+Starter Guide
+FAQ
+Tech
+Frame Data
+Damage Data
+Esoterica
+Tier Lists
+Misc.
+
+
+
+About Accent Core Plus R
+
+
+Publisher
+
+Arc System Works 
+Aksys Games 
+
+
+Release Dates
+
+Arcade : September 20, 2012
+Vita : March 19, 2013
+PS3/X360 : August 7, 2013
+Vita : April 23, 2013
+PS3/X360 : March 3, 2014
+Steam : May 26, 2015
+Nintendo Switch : May 16, 2019
+
+
+Guilty Gear Series
+Preceded By
+Guilty Gear XX Accent Core
+Followed By
+Guilty Gear Xrd -SIGN-
+
+
+
+Community Links
+
+
+Keep on Rockin' Video Database (EN)
+Horibuna Video Archive (JP)
+FrameOne Replay Database
+
+
+
+EX Characters
+
+EX Characters are unique, unlockable versions of characters which are not tournament legal.
+In order to select an EX character, highlight the character you wish to play on the Character Select Screen and press the Start button. For detailed information on how to unlock these characters, and the differences between them and standard characters, refer to this guide.
+
+EX Character pages:
+
+
+GGACR/A.B.A/EX
+GGACR/Anji Mito/EX
+GGACR/Axl Low/EX
+GGACR/Baiken/EX
+GGACR/Bridget/EX
+GGACR/Chipp Zanuff/EX
+GGACR/Dizzy/EX
+GGACR/Eddie/EX
+GGACR/Faust/EX
+GGACR/I-No/EX
+GGACR/Jam Kuradoberi/EX
+GGACR/Johnny/EX
+GGACR/Justice/EX
+GGACR/Kliff Undersn/EX
+GGACR/Ky Kiske/EX
+GGACR/May/EX
+GGACR/Millia Rage/EX
+GGACR/Order-Sol/EX
+GGACR/Potemkin/EX
+GGACR/Robo-Ky/EX
+GGACR/Slayer/EX
+GGACR/Sol Badguy/EX
+GGACR/Testament/EX
+GGACR/Venom/EX
+GGACR/Zappa/EX
+
+
+
+
+
+Selecting +R mode on console
+To change it to AC+R, navigate to Help & Options > Game Settings > Version and select AC+R. Afterwards, you should see ver R on the bottom right of the main menu. 
+
+
+
+
+
+Select AC+R from Game Settings
+
+
+
+
+
+
+ver R will now appear on the main menu
+
+
+
+
+
+
+
+Load videoYouTubeYouTube might collect personal data. Privacy PolicyContinueDismiss
+
+
+
+Patch Notes
+Patch History
+
+version
+date
+summary
+
+
+Ver1.10
+2013-01-12
+Major balance changes
+
+
+Ver1.01
+2012-11-06
+Bug fixes
+
+
+Ver1.00
+2012-09-24
+Launch Version
+
+
+
+
+
+Navigation
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR&oldid=375468"
+
+
+Category: Guilty Gear
+
+
+Last modified
+ This page was last edited on 18 February 2023, at 01:02.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+

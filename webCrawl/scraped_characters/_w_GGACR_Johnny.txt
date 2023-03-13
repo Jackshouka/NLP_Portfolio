@@ -1,0 +1,4557 @@
+
+
+
+
+GGACR - Johnny Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR/Johnny
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+< GGACR
+
+Overview
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Matchups
+Strategy
+Resources
+
+
+
+
+Overview
+Johnny is a character with big, safe buttons, unusual but high air mobility, and high burst damage with resources. He can get around most of the cast while airborne, has large range on his pokes, and has one of the best projectiles in the game, coin, which is plus on block and covers two very oppressive arcs. Mist Finer Cancels and dash/stance Jackhound give him some difficult and unorthodox, but cool means of cancels and conversions. If you can get a handle on Johnny's movelist, then you'll gain access to some incredible offensive capabilities.
+The operative word there is "if", though. Johnny is one of the more difficult characters to play in +R thanks to high execution and few quirks. Many of Johnny's optimal combos are highly character specific and require a good amount of height management to perform, meaning players may need to grind more than usual on finding combos that work for him. His ground mobility is limited without wavedashing or proper transport use, and some of his hitboxes are very awkward, meaning Johnny must often play patiently and considerately to win neutral. 
+If you're willing to commit to getting used to these issues and love the idea of playing one of the coolest characters in the game, Johnny might be your man.
+
+
+
+
+
+
+Damage Received Mod
+x1
+Guts Rating
+4/5
+Gravity Mod
+x0.98
+Stun Resistance
+70
+Prejump
+4F
+Backdash
+11F (1~7F Strike Invuln)
+Forwards Dash
+22F
+Wakeup Timing
+53F (Face Up)/ 49F (Face Down)
+Number of Jumps:
+2
+Number of Air Dashes:
+1
+Unique Movement Options
+Step DashDivine BladeKiller Joker
+Fastest Attack
+5P (5F)2P (5F)2H (5F)
+Reversals
+632146H (8F)
+
+
+
+
+
+
+ Johnny is defined by a multitude of large, safe attacks and tricky movement and cancel options, requiring a form of precision to effectively cut down his foes at the slightest of exposed gaps.
+
+
+
+Pros
+Cons
+
+
+Long Horizontal Range: Johnny has strong options for controlling horizontal space such as f.S, Mist Finer, and more.
+Good Anti-airs: 6P, 5P, and Mist Finer are potent anti-airs when used at the appropriate spacings.
+High Damage Potential: Can find multiple conversions into complicated-yet-extensively rewarding combos. Leads to making his strike/throw game being far more threatening.
+Very Strong Air Options: Divine Blade, Ensenga, Unchou's Iai, Killer Joker, and Johnny's air normals are all excellent tools for neutral and combos.
+Unblockables: Using level 2 Mist Finer, Enkasu, and Bacchus Sigh, Johnny can set up unblockables during OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups..
+Strike/Throw Mixups: Johnny's step dash and up-coin help him create throw mixups that are hard to avoid, and lead to decent reward.
+Good Mobility: Despite not having a run, Johnny's step dash can be applied in creative ways to bolster his offense. Furthermore, his jump and superjump pair well with his strong air attacks to make it difficult for opponents to contest his air options from the ground.
+
+
+Susceptible to Low Profile: Some of Johnny's best pokes, such as f.S, can be low profiled due to their thin hitboxes.
+Damage Requires Resources: Johnny's high damage combos will often require coins, meter, or both.
+Committal Pokes: In spite of his threatening tools, mishandling of any of them leads to much of his own gaps being easily exposed.
+Stability: Johnny can have difficulty securing hard knockdowns without level 2 Mist Finer, and even then will sometimes have to choose between knockdown and damage. This problem is exacerbated by the difficulty of performing his good combo routes which can lead to the character having stability issues in competitive play.
+Struggles with Zoning: Johnny's movement options, although great for offense, are flawed in terms of avoiding zoning tools. Furthermore, Johnny can struggle when the opponent has better normals than him in a given situation.
+
+
+
+
+Unique Mechanics
+Mist Cancel
+
+Mist Cancel
+
+
+Mist Cancel Advantage  
+
+
+Normal
+Raw
+Level 1
+Level 2
+Level 3
+
+
+5P
+0
+-2
++1
++3
+
+
+5K
+-2
+0
++3
++5
+
+
+c.S
++3
++2
++5
++7
+
+
+f.S
+-7
++5
++8
++10
+
+
+5H
+-16
++7
++10
++12
+
+
+5D
+0
+N/A
+
+
+6P
+-2
++2
++5
++7
+
+
+6K
+-3
++5
++8
++10
+
+
+6H
+-15
++7
++10
++12
+
+
+3H
+-14
++7
++10
++12
+
+
+2P
++1
+-2
++1
++3
+
+
+2K
++2
+-2
++1
++3
+
+
+2S
+-4
++2
++5
++7
+
+
+2H
+-15
+N/A
+
+
+2D
+-8
++5
++8
++10
+
+Although not explicitly a mechanic, Mist Canceling is an important part of Johnny's character identity. By special canceling a normal into Mist Finer StanceGuard:Startup:Recovery:See notesAdvantage:, and then exiting Mist Finer Stance by pressing the H button, Johnny can get the effects of a special cancel without committing fully to a special move. This, in practice, allows the player to modify Johnny's frame advantage on block and on hit substantially. Some moves that are substantially minus on block can become plus on block through Mist Canceling.For example: 5HGuard:MidStartup:11Recovery:33Advantage:-16/+7/+10/+12 is normally -16 on block. When Mist Canceled it becomes +7 — turning the move from punishable to advantaged.The frame advantage from Mist Canceling becomes better as the level for Mist Finer increases. This is because the startup for Mist Finer Stance becomes faster as the level of the move goes up.
+
+
+
+Starter Guide
+
+ Starter Guide
+Need help getting started? Go to this page for information targeted at new players. It covers easy combos, key moves, and what to do after you knock the opponent down.
+
+
+
+
+
+StartupThe time before an attack is active including the first active frame. For example, an attack with 10F startup means the attack will do nothing for 9 frames, then hit the opponent on the 10th frame. frames
+
+
+
+ActiveThe active frames of an attack refers to the amount of time an attack can hit the opponent. Frames
+
+
+
+InactiveFrames in the middle of multi-hit attacks which cannot hit the opponent, but are after the move has become active at least once. Frames
+
+
+
+RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before he may perform another action, even blocking. Frames
+
+
+
+Special RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before they may perform another action.Recovery frames which happen under abnormal conditions, such as after landing. Frames
+
+
+
+ProjectileIndicates an entity that exists separately from the character was spawned. Usually something like a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground.. Spawn.
+
+
+
+CancelA window in which to cancel a move. Can be varied in usage. Window
+
+Normal Moves
+Values for On-Block for ground normals have 4 values separated by "/":
+
+First value is the normals standard frame data without performing a Mist Cancel
+Second-Fourth values are for  Level 1/2/3 Mist Cancel
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+Mid
+5
+4
+6
+0/-2/+1/+3
+
+
+
+
+ Total: 14
+Sparkles. Whiffs over most crouchers.
+
+A decent anti-air, though lacking the invincibility of 6P, it has faster startup and less scaling and proration.
+On air counter-hit, can jump-cancel for an air combo. Otherwise chain to c.S, or cancel to Coin. Has similar animation to Coin.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+16
+Mid
+6
+5
+9
+-2/+0/+3/+5
+
+
+
+
+ Total: 19
+All around good move. Your main poke. Good attack box, and not easily punished on whiff. The focal point of your ground game. 
+
+Getting around your 5K should be the thought that permeates your opponent's mind.
+Does not prorate, making it a good hit-confirm for combos.
+On block, can cancel to a number of higher level moves to then Mist Cancel for greater frame advantage.
+Gatling Options: 6P, c.S, f.S, 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+6
+7
+2
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+Mid
+6
+3
+8
++3/+2/+5/+7
+
+
+
+
+ Total: 16
+Sort of an intermediary between 2P and 5K. One frame slower than 2P and less range than 5K, but more frame advantage on block, and a larger hitbox, vertically. 
+
+A great move to use as your throw option select.
+Gatling Options: 6P, 2K, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+34
+Mid
+8
+3
+21
+-7/+5/+8/+10
+
+
+
+
+ Total: 31
+Hits farther and harder than 5K, but whiffs over some characters and many crouchers, and even some runs. Sometimes intermittently.
+
+Risky to use, but has excellent reach for its speed, so it is usually your best option for burst and whiff punishes.
+Nifty combo tool as it confirms Mist Finer Jackhound and Mist Finer at good ranges, and can set up Divine Blade enders.
+Gatling Options: 2S, 2H, 6H, 3H, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+6
+4
+
+
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frame 11
+
+
+
+
+
+
+Frame 12
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+42
+Mid
+11
+2
+33
+-16/+7/+10/+12
+
+
+
+
+ Total: 45
+Controls a lot of space, ground-wise and air-wise. Great for stopping jump-outs and as a pressure tool.
+
+Extends your hurtbox forward, be mindful of this and its startup.
+Easily backdashed, and horrible if whiffed. Can be low profiled.
+Combo staple for applying damage before going into Mist Finer.
+Gatling Options: 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+Attack is fully extended on 12F
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22
+High
+30
+8
+6
+0
+
+
+
+
+ Total: 43
+Very slow overhead. Johnny's only true standing overhead. 
+
+On block, neutral at worst, +7 at best.
+Deceptive reach.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+20
+3
+
+
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+Mid
+11
+6
+10
+-2/+2/+5/+7
+1~4F Upper Body5~16F Above Knees
+
+
+
+ Total: 26
+Your 'go-to' anti-air. Has upper body invincibility on startup. Also a good counter-poke due to the above knee invincibility in the later frames.
+
+Can either start a combo or go to coin when you need to hit Level 2.
+Gatling Options: 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+10
+10
+3
+
+
+
+6K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Mid
+16
+4
+16
+-3/+5/+8/+10
+7~13F Upper Body
+
+
+
+ Total: 35
+A dashing, upwards kick that covers similar ground to Johnny's forward dash. Hits sooner than a normal-cancelled dash, making it good for pressure and chasing opponents. It goes over most mid pokes, but is easily called out by low-hitting pokes. It also has some upper body invincibility in the middle of its startup, but is still more of a ground-to-air poke than an anti-air. 
+
+FRC window on frames 12~13f makes it useful for tick throws.
+Can be hard to contest on block, especially with MFC. On hit can give combo or quick coin level up.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+12~13F
+
+14
+20
+4
+
+
+Wall sticks on CH (untechable for 90F, sticks for 30F)
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+64
+Mid
+18
+2
+32
+-15/+7/+10/+12
+
+
+
+
+ Total: 51
+Long range poke, controls a lot of ground space. 
+
+Hit box moves back slightly at startup.
+The highest damage you can get in a single hit. Also your slowest poke.
+Jump cancellable.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+9
+5
+
+
+Blows back opponent on air hit
+
+3H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 11-18)
+
+
+
+
+
+
+2nd hit (Frames 21-22)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28×2
+Mid
+11
+8(2)2
+31
+-14/+7/+10/+12
+
+
+
+
+ Total: 53
+Johnny's classic 2H from GGX originally exclusive to his EX Mode in all XX iterations, now added back as an addition to his base version moveset.
+
+2 hits. First hit hits around the feet, where 5H doesn't. Also has a lot of active frames.
+Second hit is like a 5H. Solid meaty at max range, as it will clash with Sol's Volcanic Viper, but somewhat gimmicky as the range needed to induce a clash is a giveaway to what you are trying to do.
+If you have ample time after your corner Bacchus Sigh setups, this is one move you can use to make sure your opponent stays in place on wakeup.
+Can special cancel at any time, as long as the first hit has made contact.
+Gatling Options: 5H, 6H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10×2
+6×2
+5
+
+
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10
+Mid
+5
+3
+6
++1/-2/+1/+3
+
+
+
+
+ Total: 13
+Like a close range version of your 5K. 
+
+Is all around faster than 5K, but has a little bit of proration.
+Tends to beat and lose to the same moves as 5K.
+Natural frame advantage on block.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+3
+8
+1
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+Low
+8
+4
+4
++2/-2/+1/+3
+
+
+
+
+ Total: 15
+Hits low. Compliments your 5K. 
+
+Good frame advantage on block, and has a long cancel window.
+Naturally strong pressure tool, but is slow for its range, making it a poor choice when poking in neutral, but a good dash-in move in Johnny's effective range.
+Properly meatied, 2K is reversal safe against many reversals.
+Gatling Options: 6P, c.S, f.S, 2S, 2H, 3H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+75%
+3
+8
+1
+
+
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Frames 12-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Low
+9
+6
+12
+-4/+2/+5/+7
+
+
+
+
+ Total: 26
+What 2K is to 5K, 2S is to f.S. 
+
+Hits low. Good active frames, good meaty, good neutral poke when f.S would whiff.
+Prorates a lot, but still has application in combos, especially for ease of execution.
+Proper use of 2S is essential to many matchups.
+Gatling Options: 5H, 2H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+75%
+8
+7
+3
+
+
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+48
+Mid
+5
+6
+29
+-16
+
+
+
+
+ Total: 39
+Very fast and lots of reach, both horizontally and a little bit vertically, can be a mash button. Otherwise an awkward move with niche match-up applications, as its whiff and block recovery are enormous and it can be punished on normal hit.
+
+Moves you backwards and poses you out of harm's way.
+Staggers on CH.
+Gatling Options: 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+Staggers on ground CH (max 41F)
+Johnny is in CH state 1~35F
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-10
+
+
+
+
+
+
+Frames 14-16
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25×2
+Low
+9
+2(3)3
+22
+-8/+5/+8/+10
+
+
+
+
+ Total: 38
+2 hits, both low. Second hit knocks down. 2D(1)>Coin will connect on most of the cast at most ranges.
+
+Good to Mist Cancel off of.
+Good blockstring filler, to train them in to the habit of blocking low.
+Mixup which hit you Mist Cancel, to keep them wary.
+Has a little bit more reach than 2S and it doesn't prorate, so it can be a good substitute, But it's also worse to whiff.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+11×2
+6×2
+4
+
+
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+High/Air
+6
+5
+9
+
+
+
+
+
+ Total: 19
+Your fastest air normal. Useful for air combos against certain characters to ensure j.K lands.
+Gatling Options: j.P, j.K, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 8-10
+
+
+
+
+
+
+Frames 11-13
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20
+High/Air
+8
+6
+8
+
+
+
+
+
+ Total: 21
+Crossup, decent air-to-ground, and all around combo tool in the air.
+Gatling Options: j.P, j.S, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+5
+7
+2
+
+
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+High/Air
+10
+2
+23
+
+
+
+
+
+ Total: 34
+Good air-to-air. Also good air-to-ground when spaced. Can be used to zone out a lot of space. 
+
+Crossup. Whiffs on crouching hit boxes.
+Fast recovery allows for additional movements or attacks afterwards.
+Gatling Options: j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+An air-to-ground you're gonna be using
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+High/Air
+13
+5
+21
+
+
+
+
+
+ Total: 38
+Excellent air-to-ground. When spaced such that it hits at the tip, it is very hard to anti-air.
+
+Offers extra damage in optimized, height/character specific air combos.
+Typically used to combo into Divine Blade when you're looking to knock down.
+Gatling Options: j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+Staggers on ground CH (max 35F)
+Slams down opponent on air hit
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 8-10
+
+
+
+
+
+
+Frames 11-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+44
+High/Air
+8
+7
+14+5 after landing
+
+
+
+
+
+ Total: 33
+Best air-to-air for hitting opponents above you, can also be used to snuff out opponents trying to jump out. Crosses up. 
+
+Johnny's highest damage air normal
+De facto combo ender as it wallbounces and goes into Ensenga/Enkasu, and will also catch opponents going upwards as you combo.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+Universal Mechanics
+Ground Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+45 pixels
+
+
+
+
+
+
+
+
+Slightly above average range. Causes techable float. Heavy forced proration. Due to its aggressive proration, it is advised to either coin, go for knockdown, or both when you land it. Following up with damage combos is generally not worth it.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+36~39F
+Forced 40%
+
+6
+
+
+
+Johnny has 18F to hit opponent (40F on FRC)
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+88 pixels
+
+
+
+
+
+
+
+
+Average range. Wallbounces. Heavy forced proration. Bacchus Sigh, recoin, LV2 Mid combos and more are possible when opponent is air thrown into the corner.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+Sends opponent on opposite side of throw direction
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+All
+14
+10
+10
+-6
+1~13F All14~23F Above Knees14~28F Throw
+
+
+
+ Total: 33
+Wallbounces. On counter-hit, a knockdown causes an un-OTG-able state.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+
+Dash
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 1-3, 12-14
+
+
+
+
+
+
+Frames 4-11
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 22
+
+1~14F Feet
+
+
+
+Johnny's unique step dash has some below knee invul, allowing him to go over lows.
+It also has the unique property that Johnny is considered airborne during it which means he will get floated on hit as if he was hit airborne, this can both be an advantage and a disadvantage depending on the opponent. Despite this he is still able to cancel the dash into a jump.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+
+
+
+
+
+Airborne 1~10F
+Cancellable into jump at any point
+Cancellable into attacks or FD/SB 13F onwards
+
+Special Moves
+Mist Finer Stance
+236[P] or 236[K] or 236[S]
+
+
+
+
+
+
+
+Character-defining
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236[P/K/S]
+
+
+
+
+See notes
+
+
+
+
+Stance 66
+
+
+
+
+14
+
+
+
+
+Stance 44
+
+
+
+
+14
+
+
+
+
+Stance H
+
+
+
+
+3
+
+
+
+
+
+Johnny's most important tool. It's an essential Johnny technique.
+
+Observe: 5H on block is -16, punishable by many characters. When Mist Canceled, it becomes +7. Better than safe, it's advantage!
+How to Mist Cancel
+1. Do a move that is special cancelable.
+2. Special cancel in to a Mist Finer.
+3. Hold button to stay in Mist Stance.
+4. While holding button, press H to Stance Cancel (Note: Holding the button when mist cancelling is not mandatory as of Accent Core. If H is inputted during the window of mist stance startup, it will cancel at the first possible frame. However, if H is not inputted during that window, the actual Mist Finer will come out. While this technique makes it easier to perform the fastest possible mist cancelling, it is much easier to make a mistake. Thus, it is recommended to hold the button unless you have a good grasp of the timing and have good execution.)
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236[P/K/S]
+N/A
+
+
+
+
+
+
+Stance 66
+N/A
+
+
+
+
+
+
+Stance 44
+N/A
+
+
+
+
+
+
+Stance H
+N/A
+
+
+
+
+
+
+236[P/K/S]:
+
+In CH state during stance
+Can input Mist Stance Cancel from 2F onwards
+Startup: LV1: 8F, LV2: 5F, LV3: 3F
+Mist Stance Step Forward and Step Backwards cannot be performed for an additional two frames, and thus are available at: LV1: 10F, LV2: 7F, LV3: 5F
+Stance 66:
+
+Can cancel into another Step Forward from 2~9F
+Can cancel into Mist Stance Cancel from 10F onwards
+Can cancel into Jackhound from 3F onwards
+Can cancel into all Mist Stance followups from 12F onwards
+Stance 44:
+
+Can cancel into Mist Stance Cancel from 10F onwards
+Can cancel into Jackhound from 3F onwards
+Can cancel into all Mist Stance followups from 12F onwards
+Stance H:
+
+Fastest possible Mist Stance Cancels per level are LV1: 11(8F+3F), LV2: 8(5F+3F), LV3: 6(3F+3F)
+
+Mist Finer: Upper
+236]P[
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Active frame 1
+
+
+
+
+
+
+Active frame 2
+
+
+
+
+
+
+Active frame 3
+
+
+
+
+
+
+Active frame 4
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236P Lv1
+35
+Mid
+9+4
+4
+17
+-4
+
+
+
+236P Lv2
+38
+Mid
+6+4
+4
+22
+-7
+
+
+
+236P Lv3
+20×9
+Mid
+4+4
+See notes
+20
+-5
+
+
+
+
+Level 1
+Good anti-air for when your opponent is out of 6P range and/or is doing a move that will beat 6P. 
+
+Scores knockdown on air CH, recoin possible when near corner.
+Removes one point of durability from projectiles, but loses hit potential.
+
+Level 2
+Causes a wallbounce on hit, vital combo tool.
+
+Good anti-air and combo starter.
+Removes one point of durability from projectiles, and does not lose hit potential, whether the projectile is deleted or not.
+
+Level 3
+A swift barrage of high and mid slashes.
+
+Causes a long float state on hit.
+Excellent anti-air. Eats about 20% meter when air blocked, and many opponents will let go of FD too early and get hit.
+Removes one point of durability per hit from projectiles, and does not lose hit potential, whether the projectile is deleted or not.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236P Lv1
+N/A
+70%
+14
+6
+4
+
+
+236P Lv2
+19~20F
+
+20
+6
+5
+
+
+236P Lv3
+N/A
+
+20×9
+3×9
+5
+
+
+236P Lv1:
+
+Untechable on air CH for 100F
+See note ※1
+236P Lv2:
+
+See note ※2
+236P Lv3:
+
+Active frames are: {4(3)}×3,{3(4)4(3)}×2,3(4)4
+Forward/Backwards movement possible during attack
+See note ※2
+
+Mist Finer: Middle
+236]K[
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Active frame 1
+
+
+
+
+
+
+Active frame 2
+
+
+
+
+
+
+Active frame 3
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236K Lv1
+32
+All
+9+6
+3
+33
+-19
+
+
+
+236K Lv2
+40
+All
+6+4
+3
+23
+-7
+
+
+
+236K Lv3
+18×9
+See notes
+4+4
+See notes
+25
+-8
+
+
+
+
+Level 1
+
+Knocks down on hit.
+Useful as a poke in some match-ups.
+Removes one point of durability from projectiles, but loses hit potential.
+
+Level 2
+
+Causes a groundslide on hit, enabling follow-ups in the corner.
+Important conversion tool in the corner.
+Removes one point of durability from projectiles, and does not lose hit potential, whether the projectile is deleted or not.
+
+Level 3
+
+A swift barrage of mid and low slashes.
+The final hit causes a stagger state, but an FRC will usually be required to follow up if the opponent wiggles out.
+Because of its range and ridiculous active time, it is useful as a sure-fire counter to virtually any sort of AbareAn attack during the opponent's pressure, intended to interrupt it..
+Removes one point of durability per hit from projectiles, and does not lose hit potential, whether the projectile is deleted or not.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236K Lv1
+N/A
+85%
+14
+10
+4
+
+
+236K Lv2
+19~20F
+Forced 90%
+20
+6
+5
+
+
+236K Lv3
+All active frames
+
+See notes
+3×9
+5
+
+
+236K Lv1:
+
+See note ※1
+236K Lv2:
+
+See note ※2
+236K Lv3:
+
+3rd, 5th, 6th, and 9th hits have a GB+ of 15, and must be blocked Low
+All other hits have a GB+ of 20, and can be blocked All
+Active frames are: 3(4)4(4)2(4)3(5)2(4)3(4)3(5)2
+Forward/Backwards movement possible during move
+See note ※2
+
+Mist Finer: Lower
+236]S[
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Active frame 1
+
+
+
+
+
+
+Active frame 2
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236S Lv1
+29
+Low
+9+11
+2
+29
+-14
+
+
+
+236S Lv2
+35
+Low
+6+5
+2
+23
+-6
+
+
+
+236S Lv3
+17×9
+See notes
+4+5
+See notes
+27
+-10
+
+
+
+
+Level 1
+Sends the opponent flying towards you on hit, but they can tech quite early.
+
+Removes one point of durability from projectiles, but loses hit potential.
+Upcoin can be linked on normal hit.
+
+Level 2
+Causes the same behavior on hit as at level 1, but with greater untech time, higher float and less recovery. 
+
+Vital conversion tool at midscreen and when cornered.
+Removes one point of durability from projectiles, and does not lose hit potential, whether the projectile is deleted or not.
+
+Level 3
+A swift barrage of low slashes.
+
+Knocks down on hit
+Removes one point of durability per hit from projectiles, and does not lose hit potential, whether the projectile is deleted or not.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236S Lv1
+N/A
+70%
+11
+6
+4
+
+
+236S Lv2
+19~20F
+85%
+15
+6
+5
+
+
+236S Lv3
+N/A
+
+See notes
+3×9
+5
+
+
+236S Lv1:
+
+See note ※1
+236S Lv2:
+
+See note ※2
+236S Lv3:
+
+7th and 8th hits have GB+ of 20, can be blocked All
+All other hits have GB+ of 15, must be blocked Low
+Active frames are: {2(5)}×5,2(4)3(4)3(5)2
+Forward/Backward movement possible during move
+See note ※2
+
+Glitter Is Gold
+236H or 214H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236H
+10
+All
+5
+33
+Total 20
++4
+
+
+
+214H
+10
+All
+5
+65
+Total 20
++4
+
+
+
+
+You start each round with 8 Coins. Depletes one Coin on use. On hit, increases Mist Level by one. On block, it offers good frame advantage and a way to continue pressure, but be wary of the arc the coin travels in. If used thoughtlessly, some characters may be able to hit you and/or avoid the move with moves that have low-profile properties(e.g. Ky's Stun Dipper, Sol's 2D or Grand Viper).
+
+The coin spawns at Johnny's finger tips, so using it too close will cause Johnny's hand to go through the opponent and spawn the coin behind them.
+Has its uses as a zoning tool, with the 214H version as a recent addition to +R being a good way to call-out aerial approaches or to prevent liberal occurrences of them.
+For the most part, in combos, the coins often serve more to extend them into repeated Level 2 Mist Finers in the hands of dexterous players, given the benefits of the said Level 2 versions as combo tools on their own.
+Even then, trying to throw coins randomly may exhaust your options, but the best reward is always finding a way to stick them into a combo of any sort.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236H
+N/A
+
+0
+12
+3
+
+
+214H
+N/A
+
+0
+12
+3
+
+
+236H:
+
+Increases Mist Finer by 1 level on hit
+Consumes 1 Coin
+214H:
+
+Increases Mist Finer by 1 level on hit
+Consumes 1 Coin
+
+Bacchus Sigh
+214P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+First active is behind Johnny
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+9
+100
+Total 53
+
+
+
+
+
+Causes no hitstun or blockstun. On "hit", attaches to opponent. Opponent cannot block Mist Finer attacks for as long as Bacchus Sigh is attached.
+
+Projectile moves rather slowly, but has some slight tracking. Even then, trying to rely on this to land on your foe in the open isn't going to do any wonders.
+Will attach to downed opponents, thus it's a prime oki tool should Johnny score a valuable knockdown with time to act.
+FRC: 41f~46f - Use this to land a meaty when your knockdown is not advantegous enough.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+41~46F
+
+
+
+
+
+
+Causes Mist Finer to becomes unblockable for 357F if the Mist touches the opponent
+Fastest the Mist can touch the opponent at point blank range is 28F (Tested on Sol)
+
+Ensenga
+j.41236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Enkasu
+
+
+
+
+
+
+Ensenga
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-10
+
+
+
+
+
+
+Frames 13-15
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+6, 62
+High/Air
+9
+2(2)3
+Until landing+16
+-25
+
+
+
+
+ Total: 31
+Overhead. Not a projectile. Connecting with only the first hit gives an advantageous knockdown. This is called an Enkasu.
+
+Can be tiger-kneed for a quick overhead. Leads to damaging combos when RCd.
+First hit scores knockdown at most heights against the entire cast.
+Second hit causes a Blowback effect, which can score knockdown at low heights.
+Note that when both hits connect, the knockdown of the first hit is canceled out by the Blowback of the second.
+Halts and/or slightly carries some of Johnny's aerial momentum in the air; the latter case is often so whenever this move is TK'd.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+8×2
+7×2
+3
+
+
+Johnny is in a crouching state during landing recovery
+Listed Frame Adv is for TK Ensenga performed as fast as possible (2nd hit has startup 17F)
+
+Divine Blade
+623S > S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Hitbox size scales with sprite
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+623S
+
+
+
+
+35+5 after landing
+
+5~17F Strike
+
+
+623S > S
+50
+All
+5+7
+10
+Until landing+7
+
+
+
+
+
+Invincible from frames 5 to 17, goes away if you use Divine Blade.
+
+Automatically jump-installs. Has some potential as a mix-up tool when the attack is FRCd.
+FRC: Both on the transport itself and the attack. The trajectory of the transport is retained.
+The FRC on the transport must be inputted with P+K+H, as S will instead perform the attack.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+623S
+8~10F
+
+
+
+
+
+
+623S > S
+9~10F
+80%
+0
+12
+5
+
+
+623S:
+
+Performing FRC or Divine Blade removes invincibility
+Johnny is airborne from 5F onwards
+Johnny is in CH state until landing
+Can cancel to Divine Blade from 6~34F
+Auto Jump Install
+623S > S:
+
+Ground bounces on CH (untehcable for 30F)
+FRCing restores jump options
+
+Air Divine Blade
+j.236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+See note on transport
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+50
+All
+13
+10
+Until landing+13
+-7
+
+
+
+
+One of your primary anti-anti airs, as it stalls your momentum when performed. Also used in shorter air combos to land an easier knockdown than performing an enkasu. Ground bounces on counter hit, allowing for a followup combo afterwards.
+
+FRC: 15f~16f - Cancels out projectiles.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+15~16F
+80%
+0
+12
+5
+
+
+Listed Frame Adv is for TK Air Divine Blade perfomed as fast as possible (startup 17F)
+Ground bounces opponent on CH (untechable for 30F)
+
+Killer Joker
+421S > S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+421S
+
+
+
+
+29+5 after landing
+
+
+
+
+421S > S
+40
+All
+8+10
+3
+Until landing+14
+
+
+
+
+
+An excellent combo tool when the attack is FRC'd. Has use as a pressure reset and commital neutral tool.
+
+FRC: Both on the transport itself and the attack. The trajectory of the transport is retained.
+The FRC on the transport must be inputted with P+K+H, as S will instead perform the attack.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+421S
+10~12F
+
+
+
+
+
+
+421S > S
+13~15F
+
+14
+9
+4
+
+
+421S:
+
+Johnny is airborne from 8F onwards
+Johnny is in CH state until landing
+Can cancel into Killer Joker from 9~28F
+421S > S:
+
+
+Air Killer Joker
+j.214S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+All
+9
+3
+Until landing+13
+
+
+
+
+
+ Total: 24
+Important air combo tool when used with FRC. Also good for baiting out anti-airs.
+
+FRC: 12f~14f - On FRC, restores air movement. Can only be done once while in the air.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+12~14F
+90%
+14
+6
+4
+
+
+RCing and FRCing restores jump options
+Can only perform once per jump
+
+Force Breaks
+Jackhound
+214D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Go through them
+
+
+
+
+
+ 
+
+
+
+
+Second active is further out
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+214D
+50
+Mid
+13
+2
+35
+-20
+13~15F Strike
+
+
+Stance > 214D
+50
+Mid
+6
+2
+35
+-20
+6~8F Strike
+
+
+Stance Step > 214D
+50
+Mid
+3
+2
+35
+-20
+3~5F Strike
+
+
+
+A mid-ranged call-out that's excellent for cutting through single-hit projectiles or just punishing someone for pressing a button. Consumes 25% Tension.
+
+Staggers on ground hit (47F max). 46F float on air hit. 60% initial proration.
+Despite its speed, it can be easily mishandled into exposing Johnny for a punish; trying to use it as a form of cross-ups is rather ill-advised.
+(During Mist Stance) - Staggers on ground hit (52F max). 51F float on air hit. 70% initial proration. 
+(During Mist Stance Dash) - Staggers on ground hit (65F max). 47F float on air hit. 80% initial proration.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+214D
+N/A
+60%
+14
+8
+4
+
+
+Stance > 214D
+N/A
+70%
+14
+8
+4
+
+
+Stance Step > 214D
+N/A
+80%
+14
+8
+4
+
+
+214D:
+
+Can pass through the opponent
+Johnny is in CH state during move
+Can cancel into Return Jack from 28F onwards
+Staggers on normal hit for max 47F
+Stance > 214D:
+
+Can pass through the opponent
+Johnny is in CH state during move
+Can cancel into Return Jack from 21F onwards
+Fastest possible Mist Stance Jackhound per level (includes entering Mist Stance)- LV1: 14F (8+6), LV2: 11F (5+6), LV3: 9F (3+6)
+Fastest possible Mist Stance Jackhound per level (includes getting into Mist Stance)- LV1: 14F (8+6), LV2: 11F (5+6), LV3: 9F (3+6)
+Staggers on normal hit for max 56F
+Stance Step > 214D:
+
+Can pass through the opponent
+Johnny is in CH state during move
+Can cancel into Return Jack from 18F onwards
+Fastest total startup possible, assuming you are already in Mist Stance, is 6F (3F Step Forward+3F Jackhound startup)
+Fastest possible Mist Stance Step Jackhound per level (includes getting into Mist Stance)- LV1: 16F (10+6), LV2: 13F (7+6), LV3: 11F (5+6)
+Fastest total startup possible, assuming you are already in Mist Stance, is 4F (1F Step Forward+3F Jackhound startup)
+Staggers on normal hit for max 68F
+
+Return Jack
+214D > 236D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Do it again!
+
+
+
+
+
+ 
+
+
+
+
+Goes to the other side
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+Mid
+13+5
+2
+65
+-48
+14~23F Strike
+
+
+
+The extra addition to Jackhound added in since AC, where it helps Johnny score solid knockdowns and to help build his Mist Finer levels should he run out of coins (or wants to either conserve or combine them for a huge damage setup). Consumes 25% Tension.
+
+On hit, increases Mist Level by one.
+Despite the input technically being different, bear in mind that it's actually the same motion twice because you're now facing the opposite direction. Doing 214D > 214D after crossing up will result in another normal jackhound.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 60%
+20
+11
+5
+
+
+Can pass through the opponent
+Johnny is in CH state during move
+Increases Mist Finer by 1 level on hit
+
+Overdrives
+That's My Name
+632146H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Don't Forget It
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20, 65×2
+Mid
+4+4
+3
+22
+-6
+1~8F All9~10F Throw9~17F Above Knees
+
+
+
+Johnny's only true reversal. Think of the active hitbox as looking like a baseball bat. Always places the opponent to the right of Johnny just to line the slash trails up properly as a J.
+
+The explosion is just for show. Only the slashes deal damage.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6×3
+5
+
+
+Knocks down opponent on hit
+Roman Cancel possible on 1st hit only
+1st hit forces opponent into standing state on ANY hit
+RCing the first hit on hit has Frame Adv +25
+2nd and 3rd hits do not occur if 1st hit is blocked
+
+Uncho's Iai
+j.236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+50×2
+High/Air
+5+3
+3
+Until landing+24
+
+1~9F All10~10F Throw
+
+
+
+A new addition in +R previously only available to his EX mode, Unchou is a unique air super. On hit it resets both Johnny and the opponent to a static vertical position (although horizontal distance is the same as when it connects) allowing you to stabilize air combos to either continue the combo, end in a level up, or further extend your damage. 
+On whiff or block, Johnny will land and pause a moment to sheathe his katana, leaving him in a prolonged state of vulnerability. Be sure of yourself when you throw this out.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+15
+6×2
+5
+
+
+
+Instant Kill
+Joker Trick
+During IK Mode: 236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Fatal
+Mid
+7+10
+177
+9
++4
+
+
+
+
+Johnny tosses a playing card that captures his opponent, then slices it in half. On hit, Johnny will move to the left side and both characters will be shifted toward the center of the screen. Stance activation and startup are among the fastest in the game. Whiffs on crouchers and characters with small hurtboxes. 
+
+Does not hit dizzied: JA, DI, AB, SO, BA, HO, KL, AX, CH
+Counts as a projectile.
+Similar to coin toss, the projectile for this will spawn just ahead of Johnny's finger tips. Don't waste your chance to IK by getting too close to the opponent.
+The card will travel across the screen for the listed active frames, unless Johnny gets hit or it touches an opponent.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+
+3
+
+
+IK Mode activation: 54F
+Card disappears if Johnny is hit
+Card will keep going off screen for all active frames or until it touches opponent
+
+Colors
+
+
+
+
+Default P
+
+
+
+
+
+
+Default K
+
+
+
+
+
+
+Default S
+
+
+
+
+
+
+Default H
+
+
+
+
+
+
+Default D
+
+
+
+
+
+
+EX P
+
+
+
+
+
+
+EX K
+
+
+
+
+
+
+EX S
+
+
+
+
+
+
+EX H
+
+
+
+
+
+
+EX D
+
+
+
+
+
+
+Slash P
+
+
+
+
+
+
+Slash K
+
+
+
+
+
+
+Slash S
+
+
+
+
+
+
+Slash H
+
+
+
+
+
+
+Slash D1
+
+
+
+
+
+
+Reload P
+
+
+
+
+
+
+Reload K
+
+
+
+
+
+
+Reload S
+
+
+
+
+
+
+Reload H
+
+
+
+
+
+
+Reload D1
+
+
+
+
+
+
+
+
+Gold2
+
+
+
+
+
+
+Shadow2
+
+
+
+
+To select your color, press the corresponding button while in the designated "color set". Color sets can be toggled through by hitting the Respect button.
+
+Only selectable on the Arcade and PC-Rollback versions of the game.
+Available on home ports, and are selected by pressing the Rec. Enemy button on the Slash or Reload color sets, respectively. Gold characters are powered up versions, Shadow characters have infinite tension. Both are banned from tournament play.
+
+
+Navigation
+ Johnny
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Matchups
+Strategy
+Resources
+
+
+To edit frame data, edit values in GGACR/Johnny/Data.
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR/Johnny&oldid=364742"
+
+
+
+
+
+Contents
+
+
+
+Back to top
+
+Contents
+
+
+
+
+
+1
+						Overview
+					
+
+
+
+
+
+
+1.1
+					Unique Mechanics
+				
+
+
+
+
+
+
+1.1.1
+					Mist Cancel
+				
+
+
+
+ 
+ 
+
+
+
+1.2
+					Starter Guide
+				
+
+
+
+ 
+ 
+
+
+
+2
+						Normal Moves
+					
+
+
+
+
+
+
+2.1
+5P
+
+
+
+
+ 
+
+
+
+2.2
+5K
+
+
+
+
+ 
+
+
+
+2.3
+c.S
+
+
+
+
+ 
+
+
+
+2.4
+f.S
+
+
+
+
+ 
+
+
+
+2.5
+5H
+
+
+
+
+ 
+
+
+
+2.6
+5D
+
+
+
+
+ 
+
+
+
+2.7
+6P
+
+
+
+
+ 
+
+
+
+2.8
+6K
+
+
+
+
+ 
+
+
+
+2.9
+6H
+
+
+
+
+ 
+
+
+
+2.10
+3H
+
+
+
+
+ 
+
+
+
+2.11
+2P
+
+
+
+
+ 
+
+
+
+2.12
+2K
+
+
+
+
+ 
+
+
+
+2.13
+2S
+
+
+
+
+ 
+
+
+
+2.14
+2H
+
+
+
+
+ 
+
+
+
+2.15
+2D
+
+
+
+
+ 
+
+
+
+2.16
+j.P
+
+
+
+
+ 
+
+
+
+2.17
+j.K
+
+
+
+
+ 
+
+
+
+2.18
+j.S
+
+
+
+
+ 
+
+
+
+2.19
+j.H
+
+
+
+
+ 
+
+
+
+2.20
+j.D
+
+
+
+
+ 
+ 
+
+
+
+3
+						Universal Mechanics
+					
+
+
+
+
+
+
+3.1
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+3.2
+					Air Throw
+				
+
+
+
+ 
+
+
+
+3.3
+					Dead Angle Attack
+				
+
+
+
+ 
+
+
+
+3.4
+					Dash
+				
+
+
+
+ 
+ 
+
+
+
+4
+						Special Moves
+					
+
+
+
+
+
+
+4.1
+					Mist Finer Stance
+				
+
+
+
+ 
+
+
+
+4.2
+					Mist Finer: Upper
+				
+
+
+
+ 
+
+
+
+4.3
+					Mist Finer: Middle
+				
+
+
+
+ 
+
+
+
+4.4
+					Mist Finer: Lower
+				
+
+
+
+ 
+
+
+
+4.5
+					Glitter Is Gold
+				
+
+
+
+ 
+
+
+
+4.6
+					Bacchus Sigh
+				
+
+
+
+ 
+
+
+
+4.7
+					Ensenga
+				
+
+
+
+ 
+
+
+
+4.8
+					Divine Blade
+				
+
+
+
+ 
+
+
+
+4.9
+					Air Divine Blade
+				
+
+
+
+ 
+
+
+
+4.10
+					Killer Joker
+				
+
+
+
+ 
+
+
+
+4.11
+					Air Killer Joker
+				
+
+
+
+ 
+ 
+
+
+
+5
+						Force Breaks
+					
+
+
+
+
+
+
+5.1
+					Jackhound
+				
+
+
+
+ 
+
+
+
+5.2
+					Return Jack
+				
+
+
+
+ 
+ 
+
+
+
+6
+						Overdrives
+					
+
+
+
+
+
+
+6.1
+					That's My Name
+				
+
+
+
+ 
+
+
+
+6.2
+					Uncho's Iai
+				
+
+
+
+ 
+ 
+
+
+
+7
+						Instant Kill
+					
+
+
+
+
+
+
+7.1
+					Joker Trick
+				
+
+
+
+ 
+ 
+
+
+
+8
+						Colors
+					
+
+
+
+ 
+
+
+
+9
+						Navigation
+					
+
+
+
+ 
+
+
+
+Categories: Pages using Tabber parser tagGuilty Gear XX Accent Core + RJohnny
+
+
+Last modified
+ This page was last edited on 8 January 2023, at 21:59.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+
+

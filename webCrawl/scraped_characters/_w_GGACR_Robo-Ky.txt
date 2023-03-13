@@ -1,0 +1,4287 @@
+
+
+
+
+GGACR - Robo-Ky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR/Robo-Ky
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+< GGACR
+Overview
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Matchups
+Strategy
+Resources
+
+
+
+
+Overview
+Robot. Ky. Gimmic-ky. Ky's robotic doppelganger, and probably the weirdest character in the game. 
+Despite having a few similar normals, Robo-Ky plays very differently than his human counterpart. Robo-Ky plays a fairly well-rounded strike/throw game, but in addition, requires managing his unique meter systems. His electric meter system changes the strengths and utility of much of his moveset, ranging from weak and pitiable moves to high damage and very quick stun output. His heat gauge affects some of his other moves by changing their hitstun and damage output, but Robo-Ky needs to take care to ensure that this meter doesn't hit 100%, otherwise he'll self destruct, get knocked down, and lose all of his momentum.
+Thus, Robo-Ky is a bit of a balancing act. While his use of meter is great, he often has to spend a lot of time looking for ways to charge it. While his damage is great, his meter-burn combos often put him at high heat and with no electricity, making it difficult to continue putting on the pressure. And while his neutral is really solid, he tends to struggle when put on the defensive.
+Robo has the potential to be a tricky and damaging character once you become strong at managing his resources.
+
+
+
+
+
+
+Damage Received Mod
+x0.89
+Guts Rating
+0/5
+Gravity Mod
+x0.95
+Stun Resistance
+80
+Prejump
+5F
+Backdash
+14F (1~10F Strike Invuln)
+Wakeup Timing
+51F (Face Up)/ 49F (Face Down)
+Number of Jumps:
+2
+Number of Air Dashes:
+1
+Unique Movement Options
+Today's S-KY's Beautiful
+Fastest Attack
+5K (5F)5H (5F)236236S (4F)
+Reversals
+623H (Level 2,3) (3F)
+
+
+
+
+
+
+ Robo-Ky manages unique meter systems in order to surprise, and frustrate until his opponent or he himself explodes.
+
+
+
+Pros
+Cons
+
+
+Disruptive: With tools like Robo DashGuard:MidStartup:13Recovery:19Advantage:0 and Wrist RocketsGuard:AllStartup:7Recovery:Total 31+14 after landingAdvantage:, Robo can frustrate opponents in neutral. Additionally, Robo-Ky's command grabGuard:70 pixelsStartup:7Recovery:37Advantage: robs the opponent of their tension, making it uniquely disruptive. Furthermore, Delayed Wakeup and a great backdash can throw off the opponent's auto-pilot okizeme.
+Stunning Damage: Robo has the ability to touch-of-stun some characters, and can situationally blast out obscene amounts of damage.
+Pop Quiz!: This character has potential for a lot of weird and unusual setups that catch most opponents off guard. A lab rat who learns their Stormlockables and gimmicks can bombard people with knowledge checks.
+Durable: Thanks to his high defense, high stun resistance, and small hurtbox, Robo-Ky can be difficult to kill—affording him more mistakes per round.
+
+
+Meter Dependence: No character cares as much about meter as Robo. It is his character defining trait, and his heat gauge doubles down on this. Everything has an opportunity cost. Robo players must skillfully manage both meters, and sometimes will have to make hard choices to avoid locking themselves out of other options or digging their own graves.
+Consistency, Consistency, Consistency: One of the best things a +R Character can be is consistent, and Robo is one of the most variable characters in the game. As he gains and spends meter, and raises and lowers heat his strength fluctuates and hurts his consistency.
+Anti-Air Woes: In a vacuum, while moves like Leveled up DPDragon Punch A move that has invulnerability during its startup, long recovery, and a rising motion. and 2HGuard:MidStartup:14Recovery:Total 51Advantage:-7 are strong anti-airs, they aren't always reliable, and his 6P is not a conventionally strong AA.
+Defense Caveats: Due to a 5f jump startup and one of the most stubby backwards airdashes in the game, Robo can struggle to get space to breathe, or to escape throw RPS without risk. Additionally, since Robo wants to accumulate meter to be effective, spending tension on FD can be problematic.
+Lack of Air Combo Knockdowns: Although Robo-Ky can score good damage off of air combos, it is rare for them to end with a knockdown.
+
+
+
+
+Unique Mechanics
+Electric Gauge
+
+Electric Gauge
+ Robo-Ky's Electric and Heat Gauges
+After picking Robo, one can clearly see that his tension gauge looks different from everybody else’s.  Instead of the standard bar, his only indicates meter in increments of 10%. His special moves change properties based on this meter, which can be charged mainly by using and standing over his 2D Mat move (his sweep is instead allocated to his 2S).
+For the following meter ranges, his specials are set to corresponding levels:
+
+0 bars = Lvl 1 specials
+1-4 bars = Lvl 2 specials
+5-10 bars = Lvl 3 specials
+Overall, his Lvl 1 specials are pretty useless and have minimal use, while his Lvl 2 and 3 specials each have their particular uses.
+
+
+Heat Gauge
+
+Heat Gauge
+Robo-Ky has a second, circular gauge that tells his temperature with tick marks for every 10°C.
+This gauge representing heat changes the properties of his 6H, 2S and 2H.  In addition to building heat from various normal and special attacks, Robo-Ky also gains heat from backdashing and blocking, with the amount depending on the level of the blocked attack; the amount built does not change between normal block, faultless defense, instant block or even slashback. In addition to moves that reduce his heat gauge, running also slightly reduces temperature. At 80+ heat, Robo's non-projectile attacks do 10% more damage and have 6 more hitstun and 8 more untech, giving him combos limited to high heat. Additionally, and often overlooked, at 80+ heat all his normals will do chip damage! This catches many people off guard!
+
+30-49 heat, 30 is the lowest default value of heat.
+50-79 heat.
+80-99 heat.
+At 100 heat, Robo-Ky overheats and does self inflicted damage, gets knocked down, and has his heat reset back to 30.
+
+Starter Guide
+
+ Starter Guide
+Need help getting started? Go to this page for information targeted at new players. It covers easy combos, key moves, and what to do after you knock the opponent down.
+
+
+
+
+
+StartupThe time before an attack is active including the first active frame. For example, an attack with 10F startup means the attack will do nothing for 9 frames, then hit the opponent on the 10th frame. frames
+
+
+
+ActiveThe active frames of an attack refers to the amount of time an attack can hit the opponent. Frames
+
+
+
+InactiveFrames in the middle of multi-hit attacks which cannot hit the opponent, but are after the move has become active at least once. Frames
+
+
+
+RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before he may perform another action, even blocking. Frames
+
+
+
+Special RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before they may perform another action.Recovery frames which happen under abnormal conditions, such as after landing. Frames
+
+
+
+ProjectileIndicates an entity that exists separately from the character was spawned. Usually something like a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground.. Spawn.
+
+
+
+CancelA window in which to cancel a move. Can be varied in usage. Window
+
+Normal Moves
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Very disjointed and safe, (counter)poke away!
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+Mid
+6
+4
+3
++7
+
+
+
+
+Very oppressive jab. Go-to button for pressure.
+
++7 on block. Great as a meaty, frame trap, tick throw, burst bait, timing device & lockdown tool.
+Great move to raise guard gauge.
+Link into 5K/2K/2S on block for mixup.
+Combo into S normals for B&B.
+Can be ducked by smaller/certain characters (Faust, Kliff, Zappa).
+Gatling Options: c.S, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+7
+3
+
+
+Untechable on air CH for 40F
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Pestering standing low
+
+
+
+
+
+ 
+
+
+
+
+Frames 5-6
+
+
+
+
+
+
+Frames 7-9
+
+
+
+
+
+
+Frames 10-11
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+16
+Low
+5
+7
+7
+-4
+
+
+
+
+The other go-to button for pressure, which unlike Ky's 5K, can self-cancel into itself.
+
+Standing low, always a pain to deal with.
+-4 on block, but has a delay gatling into 5P/2P, which can set up tick throws.
+Self cancelling.
+Spam it to try and get them to stand up, or just generally annoy them.
+Jump cancel allows for an unreactable high/low mixup between another 5K or lvl 2/3 TK 623H.
+Because Robo does not have a 6K, he can press 6 K+H to option select throw.
+Gatling Options: 5P, 2P, 5K, c.S, f.S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+85%
+3
+8
+1
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Multipurpose normal
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Mid
+9
+2
+18
+-3
+
+
+
+
+Mainly used for pressure and combos.
+
+Chain into 2P, f.S or ground/air missile for further lockdown/mixup options.
+Chains into both normals that give knockdown (2S and 6P).
+On an already launched opponent, can be used in place of another 5H FRC on most characters (not Sol) to position them properly for an air combo.
+Combos into 5D on counterhit.
+Gatling Options: 2P, 6P, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+6
+4
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 10-11
+
+
+
+
+
+
+Frames 12-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+38
+Mid
+10
+5
+20
+-8
+
+
+
+
+Robo's most consistent long ranged poke.
+
+Lets Robo poke into 2D for basic neutral.
+Causes a slow, floaty, and convertable knockdown on Counter Hit
+Tends to trade in Robo's advantage. Loses combo opportunity, but has time to run in and 2D.
+Can be late gatling canceled into a 5H FRC, 6H at 50+ heat, or into 2H to fish for a counterhit.
+Gatling Options: 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+6
+4
+
+
+Floats on CH (untechable on ground hit for 56F)
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Clutchest
+
+
+
+
+
+ 
+
+
+
+
+Frames 5-7
+
+
+
+
+
+
+Frames 8-11
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+41
+Mid
+5
+7
+29
+-17
+
+
+
+
+The blessing and the curse.
+
+5F startup makes this a common mash button while holding back. Will nab a throw when close, or tend to CH or trade in RK's favor when the 5H comes out. However, this habit is extremely punishable when baited.
+Due to its speed, it can be used as a good frame trap button, even off of moves that are slightly disadvantageous.
+In very specific situations, can be used as an anti-air.  An aerial counterhit can be followed up without spending meter.
+5H FRC is a pretty important tool. It can be used for pressure strings and is the primary launcher off of 2S and a lvl 3 214S.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+5~8F
+
+28
+6
+5
+
+
+Staggers on ground CH (max 50F)
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+Great Dust!
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+15
+High
+24
+4
+22
+-12
+
+
+
+
+No longer impossible to block.
+
+Better range than f.S so difficult to punish by many on block at maximum range.
+Try using a blocked 2H FRC to camouflage your attempt at sneaking in a 5D during the explosion.
+A corner dust combo into a missile loop can do lots of damage and even potentially stun.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+20
+3
+
+
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+6P (1)
+30
+Mid
+11
+2
+36
+-4
+1~3F Upper Body4~18F Above Knees
+
+
+6P (2-3)
+20
+Mid
+5
+2
+36
+-4
+4~6F Above Knees
+
+
+
+The elbow shotgun.
+
+Can be chained into itself up to 2 more times.  Each 6P builds more heat than the previous in this chain.
+Pretty good horizontal range and can be used as a poke in neutral.
+Counterhit 6P can be confirmed into a combo near the corner.
+Has longer range than 2S, so can be used after a c.S hits to give a knockdown at ranges 2S wouldn’t. It has a large amount of knockback, so your pressure options after the knockdown are different from a 2S knockdown.
+Counts as a projectile and can be used to cancel other projectiles out. At close ranges, it is possible to cancel out a projectile with a single 6P, then hit the opponent out of recovery with a chained second 6P.
+If only a single 6P is done, it will give an untechable knockdown.  This allows for 6P loops in the corner off a juggle.
+Has upper body invincibility, so can be used as a possible anti-air. Unfortunately, due to the fact that the hitbox is so far forward and does not have a great vertical hitbox, spacing the move out to be used as an anti-air can be difficult.
+
+The followup hits are mainly for building excessive levels of heat, in order to get Robo up to a certain level.
+
+Maintains the upper body invincibility of the first hit, which can be used to bait punish attempts or try for another AA if the first one whiffs.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+6P (1)
+N/A
+90%
+20
+6
+5
+
+
+6P (2-3)
+N/A
+90%
+20
+6
+5
+
+
+6P (1):
+
+Blows back opponent on hit
+Robo-Ky is in CH state 1~28F
+Projectile
+Projectile disappears immediately if Robo-Ky is hit
+Can cancel into 6P (2nd hit) 19~32F
+Raises the temperature gauage by 10 C on 10F
+6P (2-3):
+
+Blows back opponent on hit
+Robo-Ky is in CH state 1~22F
+Projectile
+Projectile disappears immediately if Robo-Ky is hit
+2nd hit can cancel into 3rd 14~26F
+Temperature increase occurs on 4F (2nd hit raises by 18 C, 3rd hit by 22.5)
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Level 1
+
+
+
+
+
+
+Level 2
+
+
+
+
+
+
+Level 3
+
+
+
+
+
+ 
+
+
+
+
+Level 1
+
+
+
+
+
+
+Level 2
+
+
+
+
+
+
+Level 3
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+6H Lv1
+12
+All
+13
+12
+12
+-6
+
+
+
+6H Lv2
+30
+All
+16
+14
+7
++3
+
+
+
+6H Lv3
+50
+All
+19
+11
+17
+-1
+
+
+
+
+Primary Heat management tool.
+
+Level 1 exists between 30-49 Heat.
+This move has limited uses due to its short range and the fact that lowering heat at this point has no real benefit.
+Can be used to cancel out projectiles, although better options exist.
+
+Level 2 exists between 50-79 Heat.
+The most useful version of 6H.
+Amazing as a meaty.  If you do not have enough time to 2D and 236S, 6H at this temperature range is a very good option.  Leads to a good frame trap or tick throw.
+Staggers on Counter Hit, long enough to go for a combo or a command throw if you are not too far away from the opponent.
+Also functions as an amazing poke in neutral.  Although it is slower than f.S or 6P, it makes up for it by having an FRC point and it does not extend Robo’s hurtbox as far out.
+A blockstring like 5K, 6H, run up, command grab is particularly effective. On subsequent attempts you can substitute in a Ground Bazooka instead of the command grab.
+
+Level 3 exists between 80-99 Heat.
+This is generally used for blockstrings and combos.
+The extended stagger on hit lets Robo do a damaging 6H loop (run up 5P > 6H, repeat) while lowering his heat. If you FRC one of the Level 3 steams early on, you will have more time to land additional hits of the loop in high heat.
+Still safe on block, but not advantageous like Lvl 2.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+6H Lv1
+10~12F
+
+0
+8
+1
+
+
+6H Lv2
+13~14F
+
+0
+7
+2
+
+
+6H Lv3
+16~17F
+
+0
+7
+3
+
+
+6H Lv1:
+
+Staggers on ground CH (max 30F)
+Robo-Ky is in CH state 1~32F
+Projectile
+Projectile disappears immmediately if Robo-Ky gets hit
+Lowers heat by 2.7 C on frame 7, followed by 4 decreases of 2.7 C every 3 frames (total temperature decrease of 13.5 C)
+6H Lv2:
+
+Staggers on ground CH (max 40F)
+Robo-Ky is in CH state 1~32F
+Projectile
+Projectile disappears immmediately if Robo-Ky gets hit
+Lowers heat by 2.7 C on frame 10, followed by 4 decreases of 2.7 C every 3 frames (total temperature decrease of 13.5 C)
+6H Lv3:
+
+Staggers on ground CH (max 50F)
+Robo-Ky is in CH state 1~41F
+Projectile
+Projectile disappears immmediately if Robo-Ky gets hit
+Lowers heat by 2.7 C on frame 13, followed by 6 decreases of 2.7 C every 3 frames (total temperature decrease of 18.9 C)
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Good poke for smaller characters
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18
+Mid
+6
+4
+5
++3
+
+
+
+
+A decent short range poke.
+
+Its primary use is to keep pressure after a c.S due to the fact that it is the only consistent normal Robo can chain into that is plus on block.
+Because 2P is +3 on block you have a few options after a blocked 2P.
+Chain into another c.S or 2K to maintain pressure.
+Attempt a tick throw.
+Frame trap with 5K, 5P, 5H, 2H.
+Useful as a meaty against the characters that duck under 5P (Faust, Kliff, Zappa).
+Gatling Options: 2K, c.S, f.S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+85%
+6
+7
+2
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Combo starter and evasion-based normal
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+Low
+7
+11
+9
+-8
+7~22F Low Profile
+
+
+
+The move everyone seems to hate, which is what basically happens when you take one half of Stun Dipper for your own purposes.
+
+Is -8 on block but still ok for tick throw. Can be spaced to made safe or plus.
+Has a very low profile that allows it to go under moves such as Ky’s fireballs.
+Combo into 2S for B&B.
+Will build heat, so must be used in moderation at high heat.
+Gatling Options: 2S, 2H, 6H, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+5
+7
+2
+
+
+Robo-Ky is in CH state during move
+Raises heat by 3.6 C on frame 1, followed by 2 increases of 3.6 C every 3 frames (total temperature decrease of 10.8 C)
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Minus on block
+
+
+
+
+
+
+Plus on block
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 10-12)
+
+
+
+
+
+
+2nd hit (Frames 13-15)
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+2S
+34
+Low
+10
+3
+20
+-9
+
+
+
+2S Heat
+37, 20
+Low
+10
+3,3
+17
++1
+
+
+
+
+Robo-Ky's actual sweep.
+
+Cancel into 5H FRC on block or hit to stuff/continue pressure/BnB.
+Late 5H after a blocked 2K~2S is a decent frame trap. If 5h counterhits and staggers, knockdown and keep annoying them. Subsequent attempts can be blocked 2K tick~command grab, blocked 2K~2S~2D and blocked 2K~2H (FRC optional).
+Cancel on hit into 2D for mat on knockdown into 236S okizeme.
+If the opponent is blocking 236S, you can attempt a combo starter with 2S~5H FRC instead of 2K, as it does not prorate!
+Gatling Options: 5H, 2H, 2D
+
+
+In 80+ heat, this badboy is +1 on block! Be careful as it generates heat, but ONLY WHILE IN 80+ heat.
+
+Hits twice and launches opponent. It is possible to then jump or superjump after your opponent to combo. This is ideal as you do not need to spend tension to 5H FRC or the combo like you normally do in lower heat mode.
+In 80+ heat, this move will give small amounts of meter.
+If the second hit counterhits, it gives an untechable launch that can lead to a massive combo.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+2S
+N/A
+
+8
+7
+3
+
+
+2S Heat
+N/A
+
+8, 10
+7×2
+3
+
+
+2S:
+
+Can cancel into 5H after 22F
+2S Heat:
+
+Raises heat by 2.4 C on frame 1
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+What goes up
+
+
+
+
+
+
+Must come down
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+2H
+50
+Mid
+14
+
+Total 51
+-7
+
+
+
+2H Heat
+50
+Mid→ All
+14
+
+Total 51
+-7
+
+
+
+
+Projectile.
+
+Since the Knee-Rocket emanates from Robo-Ky, while he is grounded, the projectile itself MUST be blocked in the air utilizing Faultless Defense! This catches many people off guard!
+Gives small amounts of meter on hit and block.
+Good for controlling the opponent’s air actions.  Great as soon as an opponent jumps with some distance between you, or if they are at the top of the screen.
+Despite being negative on block, it can be used as a frame trap with the dragon punch.
+On whiff, the opponent has lots of time to approach or punish due to the large recovery time unless FRC'd.
+At close ranges, will combo from 2S on most characters. Use this opportunity to 2D or harass with more 2H as they fall or tech in more predictable trajectories.
+After a blocked 2K, throw out a 2H every once in a while. The delay can catch people off guard. If they block both the 2K and 2H, try FRC'ing into a 5D! This is sneaky as the explosion from the knee rocket quasi-camouflages your 5D, and many times they'll still be blocking low as a result of you starting the whole process with a 2K!
+
+In 80+ heat, the missile will come back down based on the initial position and direction Robo was facing.  This is a good tool to try and restrict the opponent’s movement farther.  Due to the fact that while in high heat, 2H also builds heat, this move cannot be abused and must be used with a little more caution.
+
+The downward missile from the 80 heat missile is a true projectile and does not need to be FDed in the air.  On hit, it causes a very fast knockdown that generally cannot be converted into damage, but gives enough time for okizeme in most cases.
+Fishing for a counterhit 2H on a grounded opponent may give them opportunities to escape, but the reward for landing one can drastically shift the round in your favor.
+CH Robert 2H guide: https://www.youtube.com/watch?v=pjrk81E32R4
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+2H
+19~21F
+
+0
+6
+4
+
+
+2H Heat
+19~21F
+
+0
+6
+4
+
+
+2H:
+
+Robo-Ky is in CH state 1~33F
+Projectile
+Missile disappears immediately if Robo-Ky is hit
+2H Heat:
+
+Missile lands after 113F
+Missile disappers immediately if Robo-Ky is hit
+Raises heat by 6.2 C on frame 1
+
+2D
+Gimmic-KY
+
+
+
+
+
+
+
+You'd think he'd run on solar, but he's just that tired
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+38
+106
+Total 24
+
+
+
+
+
+The meter mat. You're gonna be throwing this puppy out a lot.
+
+Generates roughly 3 blocks of your battery gauge if you stand on it for its whole duration. Does not disappear when hit.
+Standing on a mat while doing something that would give meter increases that meter gain (Robodash, command throw, instant block, slashback).
+This mat also gives the opponent meter if they stand on it too.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Robo-Ky is in crouching state during move
+From frame 9 on, mat will be layed, even if Robo-Ky is hit
+Listed startup and active frames are for the mat
+Staying above the mat raises Robo-Ky's Electricity Gauge by 0.3% every frame, TG by 0.1% per frame
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-10
+
+
+
+
+
+
+Frames 11-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20
+High/Air
+7
+8
+4
+
+
+
+
+
+Robo's best air to air normal, acts as excellent rising air normal aswell as air to air interactions that can easily convert into robo more damaging air combos.
+Very fast with low recovery makes this a great air normal.
+Jump and special cancellable and gatlings into all air normals including itself.
+Unfortunately, does not function as a good air to ground due to the lack of a good vertical hitbox.
+Gatling Options: j.P, j.K, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+5
+7
+2
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Go to normal for Tiger Knee Force Break shenanigans
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-9, 12, 15-16
+
+
+
+
+
+
+Frames 10-11, 13-14, 17-18
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22
+High/Air
+7
+12
+16
+
+
+
+
+
+Robo’s go to air combo starter.
+
+Jump cancellable, special cancellable, and gatlings into all his other air normals.
+Has similar uses as j.P but has longer active frames and a better horizontal hitbox.
+Can be used as a jump in, but needs to hit pretty deep because it does not have a very good vertical hitbox.
+From a TK j.214D, can be used in a very tricky mixup.
+j.K for instant overhead.
+Whiff j.K land 5K for fake overhead low.
+Whiff j.K throw/command throw.
+Gatling Options: j.P, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+5
+7
+2
+
+
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Enlarges Robo's hurtbox a lot in startup & active frames
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+High/Air
+9
+2
+23
+-7
+
+
+
+
+This is his “big damage” air normal.
+
+Is a pretty good air to ground, but has a blind spot along the shaft of the hammer.
+Counterhit j.S gives a ground bounce that is easy to convert into big damage.
+Gatling Options: j.P, j.H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+Groundbounces on CH (untechable for 130F)
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+"Hot" alternative to j.D for ending air combos
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+High/Air
+8
+3
+41
+-7
+
+
+
+
+A good air to air normal.
+
+Has long horizontal range and a rewarding counterhit.
+Very fast, so it is possible to miss the airthrow, but still land the counterhit.
+Builds large amounts of heat.  This can be both a good and a bad thing.
+Special cancellable, so can be used to fix the opponent’s positioning for a missile loop.
+Does not have a very good vertical hitbox.  It can be used as a jump in, but mileage may vary.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+11
+6
+4
+
+
+Wall sticks on CH (untechable for 100F, sticks for 27F)
+Robo-Ky is in CH state 1~33F
+Raises heat by 21.6 C on frame 1
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+Your best hope against Chipp's teleports
+
+
+
+
+
+ 
+
+
+
+
+One of 4 hitboxes
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10×12
+High/Air
+8
+2×12
+12+8 after landing
+
+
+
+
+
+An air normal that is generally used at the end of an air combo.  
+
+You can steer forward or backwards during the move, allowing you to run away if you can build the momentum, or cut it down slowly if you steer into the opposite direction. It can also be used in neutral to slow his descent, as he gets a slight upward momentum while he does the move.
+If you end a combo that allows your opponent to air-tech, you can attempt to punish by superjumping in the expected direction and using j.D.
+It isn't as flexible as the force break version, but has it's uses. Example: Super jump j.D over Millia's secret garden, she will need to make a call out on this with either the orb itself or by preemptively jumping. Robo-ky can comfortably travel from one corner to the other with super jump j.D due to the incredible momentum from the jump, while still retaining his air dash for shenanigans.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8×12
+1×12
+2
+
+
+
+Universal Mechanics
+Ground Throw
+
+
+
+
+
+
+Proper use in the corner can get you the round
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+45 pixels
+
+
+
+
+
+
+
+
+Above average ranged throw, converts with meter.
+
+Robo has pretty good tick throw options off of 5K, 5P, and even 2K.
+After landing a throw, Robo can decide to 2D and apply pressure or FRC into a combo.
+In the corner with 75-100 meter, robo can instantly dizzy most of the cast.
+Examples: https://youtu.be/U7CV2ZOa1nY
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+59~60F
+Forced 50%
+
+6×2
+
+
+
+Ground bounces higher on CH
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+88 pixels
+
+
+
+
+
+
+
+
+Due to the fact that Robo lacks standard anti-air options, jumping up to instant block jump ins and punish with air throw is a decent option.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 4-6
+
+
+
+
+
+
+Frames 7-10
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+Mid
+4
+7
+29
+-22
+1~10F All
+
+
+
+Causes untechable wallbounce on counterhit and allows for followup without RC'ing near the corner.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+
+Special Moves
+Overheat Explosion
+
+
+
+
+
+
+痛い
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+35 to self
+Unblockable
+1
+Until it hits
+
+
+
+
+
+
+Mostly a bad thing.  Try to manage heat, so that you don’t overheat.  
+
+In certain situations when you know that you will be taking damage, (about to eat an unblockable) overheating intentionally to force additional combo scaling and to try and screw up the opponent’s combo timing is an option.
+As overheating is considered a hit, it is possible to slashback the explosion in the air only.  Doing this will restore your air options.
+Overheat sets an unblockable hitbox on top of Robo. In a case where Robo gets knocked down and overheats while downed, he can delay the explosion a little by using a move with invicibility, such as backdash or wakeup dp, delaying for as long as the invul lasts. Against opponents that are aware of Robo's imminent overheat, a wake up lvl 3 dp can steal a round or end up with both players taking a knockdown.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+7 to self
+3
+
+
+This attack hits only Robo-Ky and not the opponent
+Initial prorate 50% for the opponent
+Resets heat to 30.0 C afterwards
+
+Delayed Getup
+[P+K] while knocked down
+
+
+
+
+
+
+
+Might as well talk some shit while you're down there
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 58
+
+1~End All
+
+
+
+Gives opponent a slight amount of tension and drains a slight amount of tension from Robo-Ky. As long as the delay animation starts, you can stop holding buttons.
+Robo can still delay his wakeup as usual if he gets stunned, unless hit OTG. This is useful on the rare instances that you get stunned, as you can mash a lot, delay wakeup and start mashing again as soon as the animation starts, allowing robo to escape many Instant Kills, and possibly even avoiding stun combos if the opponent doesn't OTG you.
+
+Use this to mess with opponent’s wakeup pressure.
+Cannot be performed if Robo is hit OTG.
+Use sparingly against characters that can abuse the delay time for setplay (Dizzy, Venom, Faust, Testament etc...)
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Extends Robo-Ky's knockdown time
+Robo-Ky loses 0.4% from Electricity Gauge, Opponent gains 2% Tension
+
+Don't Get Coc-KY!
+236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Blockstun Bazooka
+
+
+
+
+
+ 
+
+
+
+
+Level 1
+
+
+
+
+
+
+Level 2
+
+
+
+
+
+
+Level 3
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236S Lv1
+10×3
+All
+24
+4×3
+Total 57
++22
+
+
+
+236S Lv2
+14×4
+All
+24
+4×4
+Total 57
++38
+
+
+
+236S Lv3
+18×5
+All
+24
+4×5
+Total 57
++54
+
+
+
+
+Bazooka. Use this to keep your enemies in blockstun, especially after knocking them down. After a bazooka, use the blockstun to lay a 2D, set up a tick throw, go for frame traps, or go for a high/low situation off of a jump.
+
+All versions can be low profiled, keep wary of characters who can go under it.
+As with most of the level 1 specials, level 1 bazooka doesn’t see as much use.
+
+Level 2 bazooka is significantly more plus than the level 1 version due to an extra hit.
+
+More time to run the oki gamut.
+Range is not that great, so it won’t get much mileage if done from a blockstring.
+
+Level 3 bazooka is generally the go-to move after a knockdown.
+
+Substantially plus, giving you plenty of time to run the mixup.
+Longer range makes this version viable to use after a c.S or f.S from farther out.
+Be wary of opponents jumping over it when used this way.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236S Lv1
+N/A
+
+0
+7×3
+2
+
+
+236S Lv2
+N/A
+
+0
+7×4
+2
+
+
+236S Lv3
+N/A
+
+0
+7×5
+2
+
+
+236S Lv1:
+
+Robo-Ky is in CH state 1~43F
+Robo-Ky is in crouching state during move
+Projectile disappears immediately if Robo-Ky is hit
+Raises heat by 5.0 C on frame 1
+236S Lv2:
+
+Robo-Ky is in CH state 1~43F
+Robo-Ky is in crouching state during move
+Projectile disappears immediately if Robo-Ky is hit
+Raises heat by 4.8 C on frame 1
+236S Lv3:
+
+Robo-Ky is in CH state 1~43F
+Robo-Ky is in crouching state during move
+Projectile disappears immediately if Robo-Ky is hit
+Raises heat by 5.0 C on frame 1
+
+Fun-KY
+214S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Joust
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+214S Lv1
+30
+Mid
+21
+12
+7+4 after landing
++2
+7~39F Feet
+
+
+214S Lv2
+40
+Mid
+13
+19
+7+6 after landing
++5
+7~38F Feet
+
+
+214S Lv3
+50
+Mid
+11
+24
+7+3 after landing
++8
+7~41F Feet
+
+
+
+Pony. Useful for pressure and combos.
+
+Lvl 1 is of very little value.  It is extremely slow on startup and has very little horizontal range.
+Despite being +2, it's quite a risk to go for. Avoid it.
+
+Lvl 2 is substantially better. Robo gains some actual momentum.
+
+Can be used after c.S or on an opponent’s wakeup as a throw bait.
+A 'pseudo low-crush' since it has no hurtbox associated below. Beware that it will go over low-profile moves like  Sol Badguy's Ground ViperGuard:Low×7, MidStartup:17Recovery:37Advantage:-21
+On Counter Hit, causes a ground slide that can combo into a Robodash.
+At high heat, it can be looped on standing or aerial opponents for big damage.
+
+Lvl 3 is far more dangerous.
+
+Plus on block, causes a launch on hit, and a wallbounce on counterhit.
+If the opponent is too far away from the wall, they can tech before they get back to you.
+Can be used after c.S or f.S to get in and reapply pressure along with baiting wakeup throws from opponents.
+Works as a decent neutral tool, but if done too far away from the opponent, it’s not too difficult to slashback or counterpoke.
+• Also high-profile that can beat some low-hitting attacks.
+
+At 80+ heat, it can be looped for massive damage and a knockdown.
+Has the ability to cross over a downed opponent's body. This can lead to many different potential mixups as opponent is waking up.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+214S Lv1
+N/A
+
+6
+7
+3
+
+
+214S Lv2
+N/A
+
+6
+6
+5
+
+
+214S Lv3
+N/A
+
+6
+6
+5
+
+
+214S Lv1:
+
+Airborne from 7F onwards
+Immediately enters recovery animation on hit or block
+Raises heat by 20.0 C on frame 1
+214S Lv2:
+
+Airborne from 7F onwards
+Immediately enters recovery animation on hit or block
+Slides opponent on CH (untechable for 60F, slides for 37F)
+214S Lv3:
+
+Airborne from 7F onwards
+Immediately enters recovery animation on hit or block
+Wall bounches opponent on CH (untechable for 40F)
+
+Hun-KY Homerun
+623H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Underwhelming until level 3
+
+
+
+
+
+ 
+
+
+
+
+1st hit (levels 2 and 3 only)
+
+
+
+
+
+
+2nd hit
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+623H Lv1
+30
+Mid
+9
+3
+38+8 after landing
+-35
+1~8F Throw
+
+
+623H Lv2
+30, 50
+Mid
+3
+2(4)3
+35+8 after landing
+-29
+1~7F All
+
+
+623H Lv3
+16, 50
+Mid
+3
+4(6)4
+29+8 after landing
+-22
+1~17F All
+
+
+
+Robo’s dragon punch.  
+Grounded and air versions are nearly identical with the primary difference being that the 1st hit of the lvl 2 and 3 air versions are overheads. Only the grounded Lvl 3 version will cancel into the super version.
+
+Lvl 1 DP is of little use while grounded.
+Has no strike invincibility, pretty weak.
+Has a passable level of throw invuln, but you're still better off just jumping in that case.
+Has a FRC point, even though it's impossible to use, since you have no meter to get lvl 1 dp.
+
+Lvl 2 is an actual Dragon Punch.
+
+While this one does have invincibility, it does not have much horizontal range and is fairly easy to bait out.
+
+Lvl 3 is your most reliable "get outta dodge" move.
+
+Will auto follow up into a super if the first hit connects.
+If the second hit Counter Hits, there is a long untechable window that can be converted into a big damage combo.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+623H Lv1
+24~25F
+
+10
+7
+3
+
+
+623H Lv2
+22~23F
+
+6, 14
+7, 6
+2, 4
+
+
+623H Lv3
+23~24F
+
+20×2
+6×2
+5×2
+
+
+623H Lv1:
+
+Airborne from 9F onwards
+On CH untechable for 24F
+Robo-Ky is in CH state until landing
+Auto Jump Install
+Raises heat by 20.0 C on 1F
+623H Lv2:
+
+Airborne from 9F onwards
+Robo-Ky is in CH state until landing
+Auto Jump Install
+623H Lv3:
+
+Airborne from 13F onwards
+Robo-Ky is in CH state until landing
+Automatically cancels into super followup if 1st hits (not blocked)
+Auto Jump Install
+
+Air Hun-KY Homerun
+j.623H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+At levels 2 and 3 this is a completely unreactable overhead. Use it and abuse it.
+
+
+
+
+
+ 
+
+
+
+
+1st hit (levels 2 and 3 only)
+
+
+
+
+
+
+2nd hit
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+j.623H Lv1
+30
+All
+9
+3
+Until landing+8
+-35
+1~8F Throw
+
+
+j.623H Lv2
+30, 50
+High/Air, All
+3
+2(4)3
+Until landing+8
+-29
+1~7F All
+
+
+j.623H Lv3
+40, 50
+High/Air, All
+3
+4(6)4
+Until landing+8
+-22
+1~17F All
+
+
+
+Lvl 1 is mostly used to end air combos where applicable.
+
+At high altitudes there should be a small possibility of being punishable on hit, by certain characters.
+Also has an impossible FRC.
+
+Lvl 2 hits overhead, can be followed up when FRC'd.
+
+Vital to Robo's mixup game. TK DP hits as a completely unreactable overhead.
+
+Lvl 3 is equally invincible air version of the grounded Lvl 3, however, this one will not convert into the super on hit.
+
+Can still be RCed into a big combo even if you miss the FRC.
+Instant overhead air DP can be inputted with 923H!
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+j.623H Lv1
+24~25F
+
+10
+7
+3
+
+
+j.623H Lv2
+23~24F
+90%, 100%
+5, 14
+7, 6
+3
+
+
+j.623H Lv3
+23~24F
+90%, 100%
+15, 20
+6×2
+5×2
+
+
+j.623H Lv1:
+
+Robo-Ky is in CH state until landing
+On CH untechable for 24F
+Raises heat by 13.5 C on 1F
+j.623H Lv2:
+
+Robo-Ky is in CH state until landing
+j.623H Lv3:
+
+Robo-Ky is in CH state until landing
+
+Jun-KY Bargain
+j.236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+From Limp to Stunning
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Level 3 splits
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+j.236S Lv1
+20
+All
+11
+
+Total 47+14 after landing
+
+
+
+
+j.236S Lv2
+60
+All
+7
+
+Total 31+14 after landing
+
+
+
+
+j.236S Lv3
+75
+All
+9
+
+Total 39+14 after landing
+
+
+
+
+
+The air missile. This move has various uses depending on its level.
+
+Lvl 1 missile, goes limp and falls down almost immediately. While mostly useless, can still be used to try and chip out an opponent, but generally should not be used.
+For all levels: The landing recovery frames of the air missile can be cancelled in two ways:
+The easier way is to neutral jump after the missile.
+The more difficult, but more useful way is to land during the active frames of a jump cancellable air normal.
+
+Lvl 2 is the most versatile version.
+
+7 frames of startup, can be used as an air to air option.
+High stun on Counter Hit and wallbounce, which can lead to a high damaging combo or an instant stun on characters with low stun resist.
+Corner missile loops. These do lots of damage and have a chance to stun. Watch your initial meter and heat to see if this is a possible route.
+
+Lvl 3 missiles are mostly used lock an opponent down or to try and control their air movement in your favor.  
+
+Cancelling your landing recovery off the air normal from an air dash makes this a great approach tool.
+Note that almost every character has tools to deal with missile spamming, so it’s important to learn the ranges that each character can punish it with.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+j.236S Lv1
+N/A
+
+0
+7
+2
+
+
+j.236S Lv2
+N/A
+
+0
+7
+3
+
+
+j.236S Lv3
+N/A
+
+0
+6
+5
+
+
+j.236S Lv1:
+
+Knocks down opponent on ground hit
+Robo-Ky is in CH state 1~34F
+Robo-Ky is in crouching state during landing recovery
+Missile disappears immediately if Robo-Ky is hit
+Missile trajectory changes until 43F
+Raises heat by 27.8 C on 11F
+j.236S Lv2:
+
+Wall bounces opponent on CH
+Robo-Ky is in CH state 1~21F
+Robo-Ky is in crouching state during landing recovery
+Dizzy modifier x2
+Missile tracks opponent until 25F
+Missile disappears immediately if Robo-Ky is hit
+Raises heat by 4.1 C on 7F
+j.236S Lv3:
+
+Wall bounces opponent if missile hits from 9~26 (untechable for 24F)
+Missile disappears on 27F and splits into 4 mini-missiles on 28F
+Each mini-missiles have attack level 3, damage 25, gbm 7, and are homing
+Both the big missile and mini-missiles have a chip damage modifier of 0.1875
+Raises heat by 9.0 C on 9F
+
+Spi-KY
+Running > P or K or S or H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+THE Robo Dash
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+50
+Mid
+13
+9
+19
+0
+5~8F Upper Body9~18F All
+
+
+
+After running for a minimum of 20 frames, press any attack button that isn’t D. Strong, invincible dash attack which is very difficult to contest.
+
+Good tool at full screen or from a knockdown.
+First half of the attack is great for swatting opponents out of the air, while the latter half will hit tricky low profile moves like Sol's 2D.
+Once the conditions or met for robodashing, the opponent will have to guess between an invincible attack or a potential throw.
+On hit you have to choose between the meter gain or cancelling for damage.
+The power up stance has invulnerability from 1-26F, so unaware opponents can end up wasting their burst, if they do it too soon on hit.
+Has a FRC point right before the hit. Questionable utility, since an experienced player will probably evade robo dash completely, instead of blocking the mixup.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+9~11F
+
+20
+6
+5
+
+
+Wall bounces on CH
+On block, performs a special recovery animation (total animation length 18F)
+Frames 1~5 are strike invul
+Increases temperature gauge by 4.5 C on 1F
+Robo-Ky must run for at least 20F before he can use this attack
+On hit, enters a power-up stance
+Power-up statnce is fully invincible 1~26F
+Power-up stance can be cancelled into any action other than blocking or moving from 2F onwards
+Power-up stance increases the Eletricity Gauge by 2.5% every 2 frames from 26~72F
+
+S-KY-line
+63214K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+2×N, 50
+70 pixels
+7
+1
+37
+
+1~7F Throw
+
+
+
+The meter stealing command throw.
+
+Effectively steals up to 20,50% tension from the opponent (24,34 but the last hit gives them 3,84% back) and grants Robo-Ky up to 56% tension, scaling with tension pulse.
+Deals a floaty knockdown, giving Robo plenty of time for a set up (Examples: Running empty j.P over their body, land, low. Running empty j.P over their body, air backdash, air DP. Superjump vertically/diagonally over their body to the other side, land, 5K, Punch super).
+Does a number of hits based on how much meter you steal from the opponent. At lower hits, it is possible to follow up with a meterless air combo.
+Using the fact that 2D also gives the opponent meter, you can use this to get max hits on the command throw even if the opponent doesn’t have enough meter to steal initially.
+On certain characters, Robo can combo 5K > c.S > 6P for some additional damage after a full hit command throw.
+The throw invincibility frames on startup. Helps with the throw setups on opponents wake up after their throw invul period passes.
+Last hit can be RC'ed. Limited usefulness, but great against ABA, since she won't be able to burst the knockdown. Not only will it disable her burst, it will probably give you enough meter to RC > instant kill.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 70%
+
+6, 7
+
+
+
+Robo-Ky is in CH state 1~7F
+Costs 10% of Electrcity Gauge
+Electricity Gauge increases up to 56% scaling with tension pulse depending on how much Tension the opponent has
+Effectively steals up to 20,50% meter from the opponent (24,34 but the last hit gives them 3,84% back)
+
+Force Breaks
+Today's S-KY's Beautiful
+j.214D
+
+
+
+
+
+
+
+Stormlockable
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 67
+
+
+
+
+
+Fast air mobility tool which can keep you low to the ground.
+
+Has potential for really tricky mixups, but the initial meter cost can be pretty penalizing on the potential combo routes following the hit.
+Reduces heat, so can be used to prevent overheating or to manage heat during an air combo.
+Generally seen most frequently during the install super to try and catch the opponent right before the super explosion.
+Its uses as an instant overhead tool seem to have depreciated due to the fact that the air version of the DP is also an overhead. This will generally more reliably combo into a knockdown though.
+Situational uses as an air combo extension tool due to the fact that it restores air options.
+Can be utilized after confirming a high heat air to air hit to tack on a little extra damage.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Can be steered from 1F onwards
+Can cancel into any action other than blocking or jumping from 2F onwards
+Restores jump options
+Decreases heat by 9.0 C on frame 1, followed by 6 decreases of 0.9 C every 6 frames (total temperature decrease of 18.9 C)
+
+Overdrives
+What's Useless Will Always Be So
+236236S > SxN > 236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+I hate having to repeat myself, because it's useless
+
+
+
+
+
+
+Useless, useless, useless...!
+
+
+
+
+
+ 
+
+
+
+
+First hitbox
+
+
+
+
+
+
+Headbutt
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236236S
+6×N
+Mid
+2+2
+2×N
+9
++6
+
+
+
+236236S > 236S
+70 [95]
+Mid
+7 [3]
+3
+27 [20]
+-11 [-4]
+
+
+
+
+The most versatile Robo Super.
+
+Although it lacks the invincibility of the DP, this move can actually be used as a reversal in situations.
+A potential frame trap tool. If done while standing on a 2D mat, it ends up being a net of about -20% meter with no meter gain penalty.
+Using the followup attack it can also be used as a tool to reset heat.
+Is easily hit confirmable and has the potential to either grant a knockdown or lead to a high damage air combo.
+
+The headbutt blows away and wallbounces at 94+ Heat for conversions . Best done early on when close to the wall to maximize damage.
+
+Can be safe dependent on spacing.
+Lowers Robo's heat significantly on use.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236236S
+N/A
+
+3×N
+1×N
+4
+
+
+236236S > 236S
+N/A
+
+20
+6
+5
+
+
+236236S:
+
+Can be cancelled into Followup Headbutt from 3F onwards
+Listed Frame Adv. is for when you don't mash at all during the move
+For every 5 presses of the S button, Robo-Ky performs 6 hits, Frame Adv. in this case is +7
+Each such 6 hit attack raises heat 2.7 C on 1F
+236236S > 236S:
+
+Headbutt has different properties if performed when Robo-Ky's temperature is between 93-99 C (see values in [ ])
+Decreases Robo-Ky's heat by 27.0 C on 7F
+[Lowers heat to 30.0 C on 3F]
+
+Whac-KY Blow
+Automatic after 623H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit
+
+
+
+
+
+
+2nd hit
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30, 110
+Mid
+13+0
+12(15)20
+26+10 landing
+
+1~9F All10~69F Strike
+
+
+
+Unique super, in the aspect that it will consume 50% meter if that is all that is available, but will take 60% meter in all other cases.
+
+The first hit is not a super and can be bursted, although that usually leads to an auto burst bait and the opponent gets hit by the third hit.
+Although this move comes out very fast and has lots of invincibility, there are many positions on the screen where you end up with a crossover knockdown that is very difficult to deal with.
+Probably Robo's most reliable anti-air.
+There are situations where the super can be followed up with an air combo which ends up doing lots of damage.
+This is a super, where the threat of the existence of the move might be more useful than the move itself.  The potential threat of the move can make opponents loosen up their offense in fear of losing lots of life.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+6×2
+5
+
+
+Opponent's inputs are disabled for 5 frames after the super flash
+Robo-Ky is in CH state until landing
+Wallbounce is on 2nd hit
+
+Ris-KY Lovers
+236236P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+OVERCLOCK
+
+
+
+
+
+
+Hopefully you're near them when this happens
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236236P
+
+
+10+12
+
+
+
+
+
+
+236236P Explosion
+12×27
+Mid
+1
+3×27
+Total 134
++118
+
+
+
+
+Robo-Ky Firmware Patch that will overclock his systems. Strong buffing install super.
+
+After activation, a countdown timer appears over Robo’s head and he moves faster and will naturally gain meter.
+Robo-Ky can not overheat during the install and his heat gauge will constantly decrease.
+Generally speaking, this is an install super that has higher risk and lower rewards, but it's sick.
+Many characters still have no problems outmaneuvering Robo even while in the install mode.
+If you are in this mode and you connect with a Level 3 214S, you can juggle with 236236S until you explode. You can also 236236S after his 63214K command grab. These are both ideal combo routes as it will prevent your opponent from bursting.
+It is pretty common to see Robos use j.214D right before exploding to try and catch or cross up the opponent.
+
+After the timer runs out, Robo will explode and a large air unblockable projectile will appear centered around Robo.  
+
+After this explosion, Robo is put in an untechable knockdown (although it is burstable to recover slightly faster), loses all his meter, and his heat is reset back to 30.
+If the opponent is forced to block the explosion on the ground, Robo has chances for a few mixup opportunities, although with little to no meter, the followup damage on the combo would not be very high.
+As stated earlier you can Burst during the explosion to recover sooner. This will allow you more time to mixup, or even potentially combo by doing a 2D~frame perfect Robo Dash~236236P~236236S~explode (The Nezu Combo).
+Despite the limited options available to Robo as a result of losing all his tension, something as simple as a 5d connecting after opponent fully blocks the explosion and additional hits can result in huge damage.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236236P
+N/A
+
+
+
+
+
+
+236236P Explosion
+N/A
+
+6×27
+3×27
+2
+
+
+236236P:
+
+Robo-Ky enters Overclock mode on 10F
+During Overclock mode, Electricity Gauge increases 0.15% every frame
+236236P Explosion:
+
+Knocks down opponent on hit
+Listed recovery and Frame Adv. is for when the explosion occurs on the ground
+This attack deals 53 damage (gbm 7) to Robo-Ky and knocks him down on 1F
+Empties Robo-Ky's Tension gauge
+
+Instant Kill
+13 Luck-KY
+During IK Mode: 236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Totally not Impala Hunt
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Fatal
+All
+9+9
+4
+26
+-11
+
+
+
+
+Although this character is capable of dizzying the opponent, the IK is not used very often due to the fact that the stunning hit is generally an air missile.  The opponent can generally mash out of the dizzy stagger during when you combine the time it takes to land from the missile loop, the landing recovery, then IK startup.
+
+In IK mode Robo-Ky's heat constantly decreases very quickly similarly to his 236236P install super.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+
+5
+
+
+IK Mode activation: 80F
+
+Colors
+
+
+
+
+Default P
+
+
+
+
+
+
+Default K
+
+
+
+
+
+
+Default S
+
+
+
+
+
+
+Default H
+
+
+
+
+
+
+Default D
+
+
+
+
+
+
+EX P
+
+
+
+
+
+
+EX K
+
+
+
+
+
+
+EX S
+
+
+
+
+
+
+EX H
+
+
+
+
+
+
+EX D
+
+
+
+
+
+
+Slash P
+
+
+
+
+
+
+Slash K
+
+
+
+
+
+
+Slash S
+
+
+
+
+
+
+Slash H
+
+
+
+
+
+
+Slash D1
+
+
+
+
+
+
+Reload P
+
+
+
+
+
+
+Reload K
+
+
+
+
+
+
+Reload S
+
+
+
+
+
+
+Reload H
+
+
+
+
+
+
+Reload D1
+
+
+
+
+
+
+
+
+Gold2
+
+
+
+
+
+
+Shadow2
+
+
+
+
+To select your color, press the corresponding button while in the designated "color set". Color sets can be toggled through by hitting the Respect button.
+
+Only selectable on the Arcade and PC-Rollback versions of the game.
+Available on home ports, and are selected by pressing the Rec. Enemy button on the Slash or Reload color sets, respectively. Gold characters are powered up versions, Shadow characters have infinite tension. Both are banned from tournament play.
+
+
+Navigation
+To edit frame data, edit values in GGACR/Robo-Ky/Data.
+
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR/Robo-Ky&oldid=366698"
+
+
+
+
+
+Contents
+
+
+
+Back to top
+
+Contents
+
+
+
+
+
+1
+						Overview
+					
+
+
+
+
+
+
+1.1
+					Unique Mechanics
+				
+
+
+
+
+
+
+1.1.1
+					Electric Gauge
+				
+
+
+
+ 
+
+
+
+1.1.2
+					Heat Gauge
+				
+
+
+
+ 
+ 
+
+
+
+1.2
+					Starter Guide
+				
+
+
+
+ 
+ 
+
+
+
+2
+						Normal Moves
+					
+
+
+
+
+
+
+2.1
+5P
+
+
+
+
+ 
+
+
+
+2.2
+5K
+
+
+
+
+ 
+
+
+
+2.3
+c.S
+
+
+
+
+ 
+
+
+
+2.4
+f.S
+
+
+
+
+ 
+
+
+
+2.5
+5H
+
+
+
+
+ 
+
+
+
+2.6
+5D
+
+
+
+
+ 
+
+
+
+2.7
+6P
+
+
+
+
+ 
+
+
+
+2.8
+6H
+
+
+
+
+ 
+
+
+
+2.9
+2P
+
+
+
+
+ 
+
+
+
+2.10
+2K
+
+
+
+
+ 
+
+
+
+2.11
+2S
+
+
+
+
+ 
+
+
+
+2.12
+2H
+
+
+
+
+ 
+
+
+
+2.13
+2D
+
+
+
+
+ 
+
+
+
+2.14
+j.P
+
+
+
+
+ 
+
+
+
+2.15
+j.K
+
+
+
+
+ 
+
+
+
+2.16
+j.S
+
+
+
+
+ 
+
+
+
+2.17
+j.H
+
+
+
+
+ 
+
+
+
+2.18
+j.D
+
+
+
+
+ 
+ 
+
+
+
+3
+						Universal Mechanics
+					
+
+
+
+
+
+
+3.1
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+3.2
+					Air Throw
+				
+
+
+
+ 
+
+
+
+3.3
+					Dead Angle Attack
+				
+
+
+
+ 
+ 
+
+
+
+4
+						Special Moves
+					
+
+
+
+
+
+
+4.1
+					Overheat Explosion
+				
+
+
+
+ 
+
+
+
+4.2
+					Delayed Getup
+				
+
+
+
+ 
+
+
+
+4.3
+					Don't Get Coc-KY!
+				
+
+
+
+ 
+
+
+
+4.4
+					Fun-KY
+				
+
+
+
+ 
+
+
+
+4.5
+					Hun-KY Homerun
+				
+
+
+
+ 
+
+
+
+4.6
+					Air Hun-KY Homerun
+				
+
+
+
+ 
+
+
+
+4.7
+					Jun-KY Bargain
+				
+
+
+
+ 
+
+
+
+4.8
+					Spi-KY
+				
+
+
+
+ 
+
+
+
+4.9
+					S-KY-line
+				
+
+
+
+ 
+ 
+
+
+
+5
+						Force Breaks
+					
+
+
+
+
+
+
+5.1
+					Today's S-KY's Beautiful
+				
+
+
+
+ 
+ 
+
+
+
+6
+						Overdrives
+					
+
+
+
+
+
+
+6.1
+					What's Useless Will Always Be So
+				
+
+
+
+ 
+
+
+
+6.2
+					Whac-KY Blow
+				
+
+
+
+ 
+
+
+
+6.3
+					Ris-KY Lovers
+				
+
+
+
+ 
+ 
+
+
+
+7
+						Instant Kill
+					
+
+
+
+
+
+
+7.1
+					13 Luck-KY
+				
+
+
+
+ 
+ 
+
+
+
+8
+						Colors
+					
+
+
+
+ 
+
+
+
+9
+						Navigation
+					
+
+
+
+ 
+
+
+
+Categories: Pages using Tabber parser tagGuilty Gear XX Accent Core + R
+
+
+Last modified
+ This page was last edited on 12 January 2023, at 01:24.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+
+

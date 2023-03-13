@@ -1,0 +1,4545 @@
+
+
+
+
+GGACR - Chipp Zanuff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363.1K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR/Chipp Zanuff
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+< GGACR(Redirected from GGACR/Chipp)
+Overview
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Matchups
+Strategy
+Resources
+
+
+
+
+Overview
+Chipp Zanuff is Guilty Gear's dedicated pixie character with insane mobility and mixup, but paper-thin defense. Chipp has access to a staggering amount of strong tools, which give him the advantage in just about any situation. Amazing buttons for pressure and neutral, teleporting, top-notch movement speed, and triple jumping are just the start. Chipp can cling to walls to mix the opponent up, halt his horizontal air momentum completely, become nearly invisible, the list goes on. Especially with resources on his side, Chipp can take control of almost any situation.
+While he's without a doubt the fastest character in the game, Chipp's execution demands precision, as many of his basic conversion combos require microdashes, jump installs, and/or perfect Tiger Knees. This is in no way helped by the fact that chipp takes the most damage in the game by a longshot, so failing to meet his high execution requirements will spell his doom quickly. While Chipp has many tools to help his offense and even defense, there's no denying that losing a trade can spiral out of control quickly.
+If you love playing high-speed pixies, then embrace your inner ninja and give Chipp a whirl.
+
+
+
+
+
+
+Damage Received Mod
+x1.3
+Guts Rating
+4/5
+Gravity Mod
+x1
+Stun Resistance
+50
+Prejump
+3F
+Backdash
+21F (1~9F Strike Invuln)
+Wakeup Timing
+59F (Face Up)/ 46F (Face Down)
+Number of Jumps:
+3
+Number of Air Dashes:
+1
+Unique Movement Options
+Tsuyoshishiki Ten'iSankakutobi
+Fastest Attack
+5P (4F)c.S (4F)2P (4F)
+Reversals
+623S (5F)632146H (25F)
+
+
+
+
+
+
+ Chipp Zanuff is the speedster supreme, with amazing mixups and great tools for a variety of situations at the cost of the lowest health in the game. Don't get hit.
+
+
+
+Pros
+Cons
+
+
+Extremely Fast and Mobile: With the fastest run speed in the game, triple jumps, teleports, wall cling and faultless defense cancel, Chipp has an incredible amount of freedom in his ability to place himself anywhere on screen when he wants. Against many slower characters Chipp can often run circles around them and force them to take riskier approaches just to try and play catch up with him
+Powerful Offense: Chipp has a variety of incredibly potent offensive options, including his c.SGuard:MidStartup:4Recovery:11Advantage:+2, a fast, versatile throw OS that offers frame advantage on block and a variety of gatlings, a throw invincible overheadGuard:High/AirStartup:19Recovery:3+3 after landingAdvantage:-1, a strike invincible, airborne command grabGuard:10 pixelsStartup:29Recovery:10 after landingAdvantage:, a plus on block projectile that traps the opponent in placeGuard:AllStartup:15Recovery:29Advantage:+5 as well as his Faultless Defense Cancel giving him unreactable left/right high/lows for OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups.. His wall clingGuard:Startup:Recovery:Advantage: also allows for further mixup opportunities against cornered opponents
+Excellent Buttons: Chipp has a variety of great buttons such as 5KGuard:MidStartup:5Recovery:8Advantage:-3, c.SGuard:MidStartup:4Recovery:11Advantage:+2, 6PGuard:MidStartup:9Recovery:10Advantage:-1, 2SGuard:MidStartup:7Recovery:11Advantage:-1, j.KGuard:High/AirStartup:5Recovery:8Advantage:, j.HGuard:High/AirStartup:8Recovery:26Advantage: and j.DGuard:High/AirStartup:6Recovery:18+5 after landingAdvantage: that, when combined with his variety of movement options give Chipp an incredibly strong presence both on the ground and in the air
+Whiff Punishing: Chipps teleport FRC, ground speed and variety of strong buttons allows him to pick up punishes on a variety of slower to whiff normals and specials that other characters may struggle to deal with, most notably projectiles like Justice's nukesGuard:AllStartup:7Recovery:Total 51Advantage:-13, and Sol's gunflameGuard:AllStartup:21Recovery:Total 50Advantage:-3
+Diverse Toolbox: Chipps large, diverse toolset gives him a great amount of versatility in how he can choose to approach most any situation. Chipp can play both heavy rushdown, with a large focus on potent mixups and okizeme, or choose to play more defensively, choosing when to engage at his leisure very easily
+
+
+Unforgiving Defense and Execution: While Chipp's execution isn't strictly uniquely difficult, his punishment for dropping things often results in him taking bigger damage punishes than most other characters would due to his uniquely high defense modifier.
+No Options for Cover: Chipp's game is almost entirely physical and can quickly turn against his favor if read or properly countered, often requiring Chipp to mix up his options on offense, defense and neutral in order to prevent the opponent from getting a good read on what he tries to do
+Difficulty in combo optimization: Chipp often relies on character specific routing or situational confirms using close hit, crouching hit or dash momentum in order to reliably confirm hits into both decent damage and a knockdown
+Meter Hungry: Chipp has a variety of strong ways to spend meter for extending combos, ending them, pushing mixups, and augmenting his punish game. However, due to the meter penalty induced by FRCs, Force Breaks and FDCs, Chipp can often find himself short for meter, severely limiting both his damage and neutral
+
+
+
+
+Starter Guide
+
+ Starter Guide
+Need help getting started? Go to this page for information targeted at new players. It covers easy combos, key moves, and what to do after you knock the opponent down.
+
+
+
+
+
+StartupThe time before an attack is active including the first active frame. For example, an attack with 10F startup means the attack will do nothing for 9 frames, then hit the opponent on the 10th frame. frames
+
+
+
+ActiveThe active frames of an attack refers to the amount of time an attack can hit the opponent. Frames
+
+
+
+InactiveFrames in the middle of multi-hit attacks which cannot hit the opponent, but are after the move has become active at least once. Frames
+
+
+
+RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before he may perform another action, even blocking. Frames
+
+
+
+Special RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before they may perform another action.Recovery frames which happen under abnormal conditions, such as after landing. Frames
+
+
+
+ProjectileIndicates an entity that exists separately from the character was spawned. Usually something like a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground.. Spawn.
+
+
+
+CancelA window in which to cancel a move. Can be varied in usage. Window
+
+Normal Moves
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Jab that hits higher than you'd sometimes like
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+6
+Mid
+4
+2
+6
++2
+
+
+
+
+ Total: 11
+5P is primarily used for microdash conversions (such as 2D > 236S), and sometimes an anti-air or tick throw tool.
+
+Whiffs on all crouchers except for Potemkin and Justice
+Disjointed enough to beat some moves with extended hurtboxes.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Pretty good ranged poke
+
+
+
+
+
+ 
+
+
+
+
+Frames 5-6
+
+
+
+
+
+
+Frames 7-9
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+Mid
+5
+5
+8
+-3
+
+
+
+
+ Total: 17
+Amazing normal, one of Chipp's most used buttons and all around incredibly useful, especially when combined with his grounded movement. Fast, self cancels, has a great hitbox, and has an extensive gatling tree
+
+Self gatlings for confirms and pressure. Also jump cancels allowing Chipp to Jump InstallAn advanced technique that lets you access air mobility options, usually double jumping, after doing a move that is supposed to prevent you from doing them. Usually performed by cancelling a grounded normal into a jump, but then before leaving the ground, doing another grounded attack. teleports for both combos and oki setups
+The disjointed hitbox allows it to beat out many pokes of similar or slower speed
+Vulnerable to Low ProfileWhen a character's hurtbox is entirely beneath an opponent's attack. This can be caused by crouching, certain moves, and being short., but often results in both moves whiffing due to the lack of lower hurtbox on 5K
+Has a late gatling into 5P/2P/2K from frame 6 that extends into its recovery.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+85%
+3
+8
+1
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Close, fast, precise
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+Mid
+4
+1
+11
++2
+
+
+
+
+ Total: 15
+Great normal with a variety of uses. One of the best Throw OSes (6S+H) in the game due to its speed and advantage on block. Creates burst safe gatlings for any normal that gatlings into it, and has a variety of gatlings out of it
+
+Gatlings into and out of 6P for longer hit confirms
+Chipps only normal besides 2H that gatlings to 6K. Good for punishing throw-happy opponents
+Combos into itself on crouching hit. Good for hit confirming into IAA
+Gatling Options: 6P, 6K, f.S, 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Very fast for its range
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+Mid
+6
+1
+19
+-6
+
+
+
+
+ Total: 25
+Long range poke that is faster than nearly any other normals at this range.
+
+The disjointed hitbox makes it a strong counter-poke.
+Jump cancellable, making for a very safe poke.
+Lacks strong conversions on its own.
+Gatling Options: 2S, 5H, 2H, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-13
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+36
+Mid
+7
+7
+12
+0
+
+
+
+
+ Total: 25
+An exceptionally fast heavy normal that sees use most often in Chipps relaunches off of TK AlphaGuard:AllStartup:14Recovery:Until landing+21Advantage:-22. Despite being less disjointed than some of Chipps other normals, its speed allows it to beat out many slower pokes that may otherwise outrange it. Very safe on both block and whiff for a heavy normal
+
+Combos to Alpha BladeGuard:MidStartup:18Recovery:34 after landingAdvantage:-32 and TK AlphaGuard:AllStartup:14Recovery:Until landing+21Advantage:-22 when close, with dash momentum, on counter hit or crouching hit
+
+Gatling Options: 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+17
+High
+27
+4
+9
++1
+
+
+
+
+ Total: 39
+Very slow Dust, but huge range and plus on block. Can make for a useful blockstring ender.
+
+Leads to more standardized Impossible Dusts or Chipp's usual air combos on close hit.
+Can get an Impossible Dust setup when hit from far away by doing a late airdash into immediate j.K.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+20
+3
+
+
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Half of Chipp may as well be invisible
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 9-11)
+
+
+
+
+
+
+2nd hit (Frames 21-25)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18×2
+Mid
+9
+3(9)5
+10
+-1
+1~11F Above Knees
+
+
+
+ Total: 35
+Godlike Anti-Air and Counter-poke. Blows right through a good number of buttons.
+
+Good range, fast, and upper body invincible all the way through its first hitbox.
+Leads to full combos when combo'd into 5H.
+Confirms into 6H on counter hit.
+Often used after c.S for hit confirms into 2D.
+When used on wakeup as a reversal it goes under certain okizeme tools such as Anji's ShitsuGuard:AllStartup:21Recovery:Total 48Advantage:-7.
+Gatling Options: c.S, f.S, 2S, 5H, 2H, 6H 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+10×2
+7×2
+3
+
+
+
+6K
+
+Tabber requires Javascript to function. 
+
+
+
+
+A true ninja gimmick
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20
+High/Air
+19
+7
+3+3 after landing
+-1
+
+
+
+
+ Total: 31
+Moderately quick overhead which doesn't lead to anything on normal hit unless hit very meaty or RC'd. Can be unsafe on hit.
+
+Chipp's hop allows him to go over some lower reaching buttons as well as things like Potemkins Slidehead
+Will go over the opponent if done too close against some shorter characters.
+Can be FRC'd while airborne for some gimmicky setups.
+Causes slide and leads to a full conversion on Counter Hit.
+Can be made reversal safe vs slower reversal options such as Ky's Vapor Thrust or Order Sols Storm Viper with proper meaty timing
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+16~18F
+75%
+5
+7
+2
+
+
+Chipp is airborne from 5F onwards
+Slides on CH (untechable for 42F, slides for 28F)
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+How Chipp gets actual damage
+
+
+
+
+
+ 
+
+
+
+
+Frames 17-19
+
+
+
+
+
+
+Frames 20-22
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+Mid
+17
+6
+15
+-2
+
+
+
+
+ Total: 37
+Slow blade stab which deals the most damage of any of Chipps normals
+
+Only combos from counter hit 6P on the ground, or counter hit 5/6P in the air
+Staggers on ground hit and ground bounces on air hit. Staggers longer and bounces higher with more untech time on ground/air counter hit, respectively
+Staple corner combo tool with Alpha Blade loops. Leads to Chipps highest damage routes. Has more hitstun than 5H which makes IAD combos out of it easier
+Combos to Zansei RougaGuard:MidStartup:21+4Recovery:landing 32Advantage: on air hit against everyone not named Sol when done close enough
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+Staggers on normal hit for max 35F
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Typical plus on block chop
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+6
+Mid
+4
+2
+7
++1
+
+
+
+
+ Total: 12
+Fairly typical 2P. Very fast, self gatlings, most commonly used as an AbareAn attack during the opponent's pressure, intended to interrupt it. normal, but doesn't see much use otherwise
+
+Can be made reversal safe against slower reversals
+Slightly disjointed, but not enough to be hugely useful
+Hits fairly high up, can be low profiled
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+3
+8
+1
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Self-cancelleable low
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+8
+Low
+5
+4
+7
+-1
+
+
+
+
+ Total: 15
+Very fast 2K, with a self gatling for hit confirming and pressure
+
+Important normal for Chipps mixup game
+Very heavy scaling, best to keep any combos out of this short
+Enlarges Chipps hurtbox quite a lot
+Gatling Options: 6P, 5K, 2K, c.S, f.S, 2S, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+70%
+3
+8
+1
+
+
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Godlike Normal
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-10
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+Mid
+7
+4
+11
+-1
+
+
+
+
+ Total: 21
+Strong ranged poke rivaling f.S.
+
+1 frame slower, but more active, faster recovery and better at hitting low profile moves than f.S
+Equally short recovery for a ranged poke compared to 5H.
+Good hitbox, will beat a lot of other poke attempts.
+Similar to f.S lacks conversions from far range without meter
+Gatling Options: 5H, 2H, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-12
+
+
+
+
+
+
+Frames 13-16
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+34
+Mid
+7
+10
+19
+-10
+
+
+
+
+ Total: 35
+Primary (re)launch tool. A Workable Anti-air.
+
+Launches the opponent up high on hit.
+Not jump cancellable. Requires a jump install for a full conversion when combo'd into.
+Fully untechable and high launch on counter hit for a big combo.
+Gatling Options: 6K, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+20
+6
+5
+
+
+Untechable on CH for 56F
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+It's all just a set up for the four-way guess
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26
+Low
+9
+2
+18
+-8
+5~10F Feet
+
+
+
+ Total: 28
+Pretty good range for a sweep, but is plagued by having few normals that gatling into it.
+
+Moves Chipp forward and is slightly disjointed at the foot.
+Gives Chipp plenty of time to set up an oki mixup.
+Often cancelled into 236S when close enough for slightly extended conversions.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+5
+7
+2
+
+
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Quick air conversion tool
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+8
+High/Air
+5
+4
+4
+
+
+
+
+
+ Total: 12
+Basic, fairly reliable air jab.
+
+Tied with j.K for Chipp's fastest air normal.
+Used mainly in airdashes during air Alpha Blade conversions.
+Has fairly high horizontal range, making for a usable air-to-air.
+Gatling Options: j.P, j.K, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+For rising and falling
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 5-6)
+
+
+
+
+
+
+1st hit (Frames 7-8)
+
+
+
+
+
+
+1st hit (Frames 8-10)
+
+
+
+
+
+
+2nd hit (Frames 11-12)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+16×2
+High/Air
+5
+6,2
+8
+
+
+
+
+
+ Total: 20
+Good all-around air normal. Self cancels for extended air strings.
+
+Chipp's best air-to-air if rising, as the first hit reaches above Chipp's head.
+Second hit lowers the opponent on hit for j.D conversions or other combos.
+Often self cancelled on the first hit to gain altitude on the opponent.
+Used after an airdash after landing a far 5D for an Impossible Dust.
+Gatling Options: j.P, j.K, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3×2
+8×2
+1
+
+
+2nd hit slams down opponent on hit
+
+j.2K
+Sakuganki
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Exists to be FDC'd
+
+
+
+
+
+ 
+
+
+
+
+Frames 8-9 (+8N)
+
+
+
+
+
+
+Frames 10-11 (+8N)
+
+
+
+
+
+
+Frames 12-13 (+8N)
+
+
+
+
+
+
+Frames 14-15 (+8N)Each hitbox counts as separate hit
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+16×3
+High/Air
+8
+Until landing
+3 after landing
+
+
+
+
+
+Fast plummeting, multi-hit move for cross-up shenanigans. Will primarily be FDC/SBC'd into ambiguous j.H. Done by starting the move, but inputting Flawless Defense or Slashback right after to stop the attack from coming out, but still halt your momentum.
+
+Hits up to three times on the way down and can be cancelled on landing immediately for a conversion.
+Will cause Chipp to plummet down on use, cutting his momentum.
+Carries this property when FDC'd to make crossups ambiguous.
+Completely kills that momentum when SBC'd instead. Makes crossups even further ambiguous.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3×3
+8×3
+1
+
+
+Has a minimum height requirement
+Can cancel landing recovery with anything but movement
+Max 3 hits
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-10, 13-14, 17-18
+
+
+
+
+
+
+Frames 11-12, 15-16
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+High/Air
+9
+10
+18
+
+
+
+
+
+ Total: 36
+Mixup tool with a crossup hitbox. Mainly used out of wallcling setups occasionally in lieu of j.H.
+
+Decent damage in air combos.
+Prorates less than j.H as a starter in exchange for only being a single overhead instead of two
+Gatling Options: j.H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Secret Ninja Art: The Mix!
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 8-10)
+
+
+
+
+
+
+1st hit (Frames 11-13)
+
+
+
+
+
+
+2nd hit (Frames 14-16)
+
+
+
+
+
+
+2nd hit (Frames 17-19)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26×2
+High/Air
+8
+6,6
+26
+
+
+
+
+
+ Total: 45
+Two-hit jump-in which, when used from Chipp's FDC, teleport FRC, and/or wallcling setups, leads to his absurd mixup game.
+
+Primary okizeme tool. Can work as a jump-in when pressure is already established.
+Acts as a crossup mainly out of FDC setups.
+Generally used at the end of high air combos (sometimes into Beta Blade).
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+8×2
+7×2
+3
+
+
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 6-8
+
+
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Frames 12-13
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+High/Air
+6
+8
+18+5 after landing
+
+
+
+
+
+ Total: 36
+Incredibly fast, disjointed jump in. Often trades with or outright beats many grounded anti-airs
+
+Knocks down on grounded hit, slams on air hit with ample untech time. Used in many of Chipps air combos for optimal damage
+Groundslides on counter hit. Amazing when used as a punish tool out of 22H/DGuard:Startup:Recovery:Total 20Advantage: FRC for moves that leave the opponent in counter hit state
+Has a lot of recovery both in the air and when landing. Is usually unsafe if blocked or instant blocked
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+8
+7
+3
+
+
+Slams down opponent on hit
+Slides on CH (untechable for 54F, slides for 32F)
+
+Universal Mechanics
+Ground Throw
+
+
+
+
+
+
+A throw to surpass OTG
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+36 pixels
+
+
+
+
+
+
+
+
+Has the worst grab range in the game, but can convert into some moves that are 4F or faster without triggering OTG.
+
+Range offset by Chipp's incredible mobility. Can be impossible to react to done out of wallcling or Zansei Rouga FRC.
+You can opt to link gamma blade for otg setups, a tick of dmg thats unaffected by otg states natural scaling before a round ending kd, or in FB gammas case: an extended kd with set up potential.
+Leads to unburstable damage by combo'ing into Banki Messai (does not work against Faust and Jam)
+Can also convert into FB Beta Blade (universal), or 2P (Potemkin & Justice).
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+88 pixels
+
+
+
+
+
+
+
+
+Average airthrow which scores a knockdown. Gives ample time for oki.
+
+Puts the opponent opposite the side of which the throw was input.
+Can be followed up with Gamma Blade, but the oki is generally preferable.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+Sends opponent on opposite side of throw direction
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+A Last Resort
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+All
+11
+5
+15
+-6
+1~15F All16~25F Throw
+
+
+
+ Total: 30
+Average Dead Angle. Can be combo'd off of normal hit near the corner.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+
+Special Moves
+Sankakutobi
+j.46/64
+
+
+
+
+
+
+
+Ninja Nonsense
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+
+
+
+
+
+
+Wall Cling followed by an angled dive, either about 15° or 45° (if you hold 6 or 3 after leaving the wall). Chipp can act out of it immediately and retains all of his remaining aerial movement options. Leads to very powerful mixups.
+
+Performed by, while being right next to the wall, hitting towards the wall, then away from it. Can be done when Chipp has an air jump or airdash available.
+Cancelling into low airdash j.H or land 2D is unreactable, can be further layered if the opponent is slightly out of the corner.
+All of Chipp's air normals, and 41236K~D can be cancelled into this, even during startup and recovery
+Teleport can lead into Wall Cling as well, but must be jump installed beforehand.
+Puts Chipp in counter hit state during use, proceed with caution when done outside of okizeme.
+Note:
+You can take yourself out of CH state by: tapping FD/SB, FDC/SBC j.2K, or using F.Shuriken. Each of these options technically come with slight faults given you're either: sacrificing opportunities to react accordingly if you intend to throw out something from wallcling and have no method for buffering said option as soon as wall cling start up is over while also potentially staggering tension gain (applies to FD/SB/F.Shuriken) or exchanging a multipurpose tool that can almost entirely flesh out some of the characters faults for a slightly more defense oriented air stall tool (F.Shuriken).
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Chipp is in CH state during move
+Has a minimum height requirement
+Chipp sticks to the wall 1~10F
+Chipp flies off the wall on 11F
+Can input additional air movements from 12F onwards
+Can be done whenever a double or triple jump is possible
+Can cancel Teleport, Genrouzan-You or aerial moves into Sankakutobi
+Inputting anything except 3, 6 or 9 during the start of the move changes the move's angle
+
+Alpha Blade
+236P (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Clutchest Conversion Tool
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236P
+44
+Mid
+18
+15
+34 after landing
+-32
+5~17F Low Profile
+
+
+j.236P
+40
+All
+14
+14
+Until landing+21
+-22
+4~13F Low Profile
+
+
+
+ Total: 66
+ Total: 48
+Slightly low profile transport attack that can go through the opponent. Combos out of 5H/6H when close, or on crouching hit. Can lead to big damage.
+
+Decent damage. Very unsafe, but properly spaced some characters cannot punish this reliably.
+Completely negates Chipp's momentum when RC'd, can convert out of this.
+Situational mixup tool when used in conjunction with Alpha Plus (FRC).
+Can score a knockdown from farther away when combo conditions are met.
+Spending 25 meter to cancel to FB Alpha Blade will score more damage and lead to knockdown.
+Is airborne from frame 1, making it invulnerable to throws and allowing it to go over moves like Potemkin's Slide HeadGuard:Low, UnblockableStartup:23Recovery:25Advantage:-11.
+
+Air version is generally superior to the ground version as it recovers quicker and has more hitstun, leading to combos and Chipp's Alpha Blade loops.
+
+Recovers quickly enough that it will convert when done as close to the ground as possible .
+This is commonly referred to as Instant Air Alpha/IAA.
+Can be FRC'd during the first three active frames for loops, or other conversions.
+Will launch Chipp upward if done during the ascent of Chipp's jump.
+Loses the ability to cross through the opponent, which can lead to further mixups.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236P
+N/A
+
+14
+6
+4
+
+
+j.236P
+14~16F
+
+10
+10
+3
+
+
+236P:
+
+Chipp is airborne from 1F onwards
+Chipp can pass through the opponent 15~32F
+Chipp is in crouching state during recovery
+Can cancel into Alpha Plus 35~50F
+j.236P:
+
+Chipp can pass through opponent 4~27F
+Chipp is crouching during landing recovery
+Listed Frame Adv is for fastest possible TK Air Alpha Blade (startup 17F)
+
+Alpha Plus
+Ground Alpha Blade > H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Preliminarily known asAlpha Extend
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Changes every 2 frames
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+38
+Mid
+8
+12
+12
+-7
+
+
+
+
+ Total: 31
+Significantly safer followup to Alpha Blade if you end up right on the other side of them, but still punishable. Makes blockstring/raw Alpha Blades more layered.
+
+Fast, scores a knockdown on hit.
+Can be FRC'd before going active for pressure continuation or making yourself safer.
+Launches them far away and wallsticks on counter hit.
+Has a higher reaching hitbox and can be easily low profiled.
+Puts Chipp in a crouching state on use, giving the opponent a better punish if it's blocked.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+6~7F
+
+14
+6
+4
+
+
+Slams down and knocks down opponent on hit
+Wallsticks on CH (untechable for 80F, sticks for 30F)
+Chipp is in crouching state while moving
+
+Beta Blade
+623S (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Get outta dodge
+
+
+
+
+
+ 
+
+
+
+
+Ground: Frames 5-8Air: Frames 3-4
+
+
+
+
+
+
+Ground: Frames 9-12
+
+
+
+
+
+
+Ground: Frames 13-26Air: Frames 5-20
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+623S
+45
+Mid
+5
+22
+17+10 after landing
+-35
+1~8F All9~12F Strike
+
+
+j.623S
+40
+All
+3
+18
+Until landing+8
+
+1~4F Strike
+
+
+
+ Total: 53
+ Total: 28
+5F Reversal which is active all the way up. Gets them off of you when you need the breather.
+
+If RC'd on the first hitbox, Chipp will remain grounded and be able to dash afterwards for a conversion.
+Fully untechable on Counter Hit.
+Auto Jump Installed so you can safely retreat if you spend the meter while airborne.
+Can be FRC'd when the active box ends, can convert on counter hit.
+Has a fairly thin hitbox, take care not to get baited.
+Done with dashing momentum, this can be very difficult to punish.
+
+In the air. Wins the air-to-air war when used properly.
+
+Even faster at frame 3, but less active, no throw invul, and with no FRC point.
+Still fully untechable on Counter Hit, can RC to adjust for more sudden confirm opportunities.
+Its the ver. you see used by most at mid-high lv players as it carries more horizontal than the grounded ver. meaning it allows for meterless conversions while also providing more safety on block/whiff in some cases.
+Solid as a rising aa as well despite the drop in invuln frames (more so when dashing than standing because of the added confirmabilty).
+Mostly used at the end of air combos when you need the damage, but leaves Chipp in a less favorable position.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+623S
+29~30F
+
+10
+7
+3
+
+
+j.623S
+N/A
+
+20
+6
+5
+
+
+623S:
+
+Chipp is airborne from 10F onwards
+Blows opponent away on hit
+Untechable for 37F if Chipp hits while grounded
+Untechable for 30F if Chipp hits while airborne
+Fully untechable on CH (specifically for 2000F)
+Auto Jump Install
+j.623S:
+
+Blows opponent away on hit
+Fully untechable on CH (specifically for 6000F)
+Chipp is in a crouching state during landing recovery
+
+Gamma Blade
+41236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+All
+15
+9
+29
++5
+
+
+
+
+ Total: 52
+Projectile that freezes the opponent in place for roughly one second on hit.
+
+Ignores OTG, allowing for damage extensions after a knockdown.
+Opponent is considered airborne on hit, as well as followup hits.
+Will not remove OTG, meaning the opponent can still be in an OTG state once the freeze period ends.
+Will pass through other projectiles and negate one hit of them.
+Cannot be cancelled into or performed while another Gamma Blade is already active.
+Its GB(-20) based scaling loosely equates to j.D's set proration.
+Will go away if Chipp is hit in the process.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+0
+20
+3
+
+
+Freezes opponent in place on hit (Frame Adv +27)
+The opponent is floated 6F after being released
+Attack passes through other projectiles
+Ignores OTG prorate on hit
+Chipp performs a recovery animation on hit or block: total 21F
+Cannot be canceled into
+See note ※1
+
+Tsuyoshishiki Ten'i
+22X
+
+
+
+
+
+
+
+P, K, and S move a set distance and can pass through
+
+
+
+
+
+
+H and D home in on opponent's location
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22P
+
+
+
+
+Total 25
+
+9~11F Strike
+
+
+22K
+
+
+
+
+Total 30
+
+10~12F Strike
+
+
+22S
+
+
+
+
+Total 34
+
+10~15F Strike
+
+
+22H
+
+
+
+
+Total 20
+
+10~12F Strike
+
+
+22D
+
+
+
+
+Total 20
+
+10~12F Strike
+
+
+
+ Total: 25
+ Total: 30
+ Total: 34
+ Total: 20
+ Total: 20
+Powerful tool which overall allows Chipp to move with unpredictability, score punishes from far away, escape from poor situations, or go for the mixup. Use with practicality or abandon, sometimes Chipp can get away with it.
+
+Each version has a small window of strike invincibility as Chipp goes invisible.
+
+P moves Chipp forwards slightly, about a 1/5th to 1/4th of the screen. The quickest and shortest duration ground teleport.
+
+Useful for going through slow projectiles with long recovery on prediction.
+The shorter duration can let Chipp nab initiative or a grab very quickly.
+Will pass through the opponent when done at a range a bit shorter than 2P. Can burn frames on oki for trickier setups.
+
+K moves significantly forward, about 2/3rds of the screen.
+
+Calls out slow, punishable moves from afar.
+Slightly more recovery than P Teleport, punishes will be a bit stricter.
+Will pass through the opponent at ranges a bit farther than 6H.
+
+S is a retreating teleport with the most recovery.
+
+Gets Chipp outta dodge, must be called out with a dashing or forward moving attack.
+Puts Chipp airborne after teleporting, which might not be favorable.
+Is the only TP that's auto jump installed, meaning you can also AJI 22H/D on your landing with decent enough timing.
+Can be FRC'd after changing location with air options intact, allowing Chipp to immediately airdash or double jump for extended pressure or resets.
+
+H is a forward aerial homing teleport that puts Chipp above and in front of the opponent. Leads to FRC shenanigans.
+
+Mainly used after 2H for air combo conversions.
+Must be jump installed for further air actions besides using an air normal/special.
+Best if jump installed normally from a gatling string beforehand.
+Can be jump installed by itself by doing 228+H. Will only install options available from super jump; no double jump or wall dive, only airdash.
+FRC allows Chipp to attack from the air almost immediately, setting up powerful resets into vortexes.
+Mix with other teleports against opponents who attempt to call out H Teleport with airthrows.
+Will maintain dashing momentum.
+
+D teleports above and behind opponent, but otherwise nearly identical to H Teleport.
+
+Also used in 2H conversions if a sideswap is desired.
+Jump installs the same way as H Teleport.
+Will put Chipp at the wall if done when the opponent is cornered, allowing for immediate Wall Clings if jump installed.
+FRC point and other notes from H Teleport apply here.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+22P
+N/A
+
+
+
+
+
+
+22K
+N/A
+
+
+
+
+
+
+22S
+16~18F
+
+
+
+
+
+
+22H
+13~14F
+
+
+
+
+
+
+22D
+13~14F
+
+
+
+
+
+
+22P:
+22K:
+22S:
+
+Chipp is airborne 10~19F
+Can cancel into attacks from 31F onwards
+FRC restores jump options
+22H:
+
+Chipp is airborne from 10F onwards
+22D:
+
+Chipp is airborne from 10F onwards
+
+Tsuyoshishiki Meisei
+214K
+
+
+
+
+
+
+
+FIND ME
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 29
+
+
+
+
+
+Hide and Seek Cheat Code. Will cause Chipp to fade in and out, making him much more difficult to see and react to.
+
+Can be stacked twice to make it next to impossible to discern what Chipp is doing.
+Can't be cancelled into. Usually done after a knockdown that gives you ample time, such as Gamma Blade.
+The effect will disappear the moment Chipp takes damage or blocks an attack.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Chipp becomes partially transparent for 479F
+Effect is gone if Chipp is hit or blocks an attack
+Cannot be canceled into
+Can be stacked (limit twice)
+
+Genrouzan
+41236K
+
+
+
+
+
+
+
+Ninja Nonsense Season Two
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+90
+10 pixels
+29
+12
+10 after landing
+
+12~13F, 17~41F Strike
+
+
+
+ Total: 50
+Slow command grab with generous strike invincibility during the period that Chipp is invisible. 
+
+Very slow, but can blow through some slower, punishable moves.
+Can be FRC'd on the hit in order to convert further.
+Very active, can be used to catch backdash happy opponents with the correct read
+Is airborne for much of the startup and active frames, throw attempts will whiff but can be air thrown by opponents with good reactions
+Very generous cancel window for Genrouzan-YouGuard:MidStartup:1Recovery:29+3 after landingAdvantage:-17
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+35~36F on hit
+Forced 50%
+
+6
+
+
+
+Chipp is airborne from 14F onwards
+Knocks opponent down on hit
+Chipp is in CH state 1~11F
+Chipp is in crouching state during landing recovery
+Can cancel to Genrouzan-You 14~26F
+
+Resshou
+236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18
+Mid
+13
+5
+10
+-1
+
+
+
+
+ Total: 27
+First hit of Chipp's rekka series. Sometimes used at the end of combos and pressure.
+
++3 on hit, Cannot be thrown out of standing repressure strings on hit or block regardless of ones spacing.
+Leads to either Rokusai or Senshuu
+Done out of 2D, can lead to launch confirms into knockdown with microdash 5P or 5H, depending on the character.
+Also sometimes confirmed into 2H for high air combos.
+Floats on CH, leading to a full combo.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+Can cancel into Rokusai or Senshuu from 13F onwards
+Floats on CH (untechable for 56F)
+
+Rokusai
+Resshou > 236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22
+Low
+8
+1
+25
+-7
+6~8F Feet
+
+
+
+ Total: 33
+Second hit in Chipp's Rekka series, can still cancel to Senshuu. Significantly unsafer than the first.
+
+Hits low against players upbacking or expecting an overhead.
+Slightly disjointed at the foot.
+-6 on hit.
+Staggers on CH for a bigger conversion.
+Sometimes RC'd on hit for a further grounded conversion (e.g. 6H IAA), but this is expensive and not usually worth it.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+15
+6
+5
+
+
+Can cancel to Senshuu from 9F onwards
+Staggers on ground CH (max 35F)
+
+Senshuu
+Resshou > 236K or Rokusai > 236K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+High
+25
+6
+10+12 after landing
+-11
+9~10F Low Profile
+
+
+
+ Total: 52
+Third hit rekka, which hits overhead and leads into a full launch combo on hit but is pretty slow and unsafe. Not recommended to be used often unless Rokusai is confirmed CH.
+
+Sometimes used after 2D > Resshou based on the opponent's character.
+Places Chipp airborne during use with an auto jump install for metered use.
+FRC allows for shenanigans, but similar to 6K this FRC is mostly a gimmick.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+15~17F
+
+11
+6
+4
+
+
+Chipp is airborne 15F onwards
+Auto Jump Install
+
+Shuriken
+j.214P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+j.214P Slow
+1
+All
+23
+
+Until landing+6
+
+
+
+
+j.214P Fast
+1
+All
+8
+
+16+3 after landing
+
+
+
+
+
+Slow version is a Participation Prize. Use this awful version solely for the sake of getting to the good version.
+
+Extremely slow "projectile" which doesn't act as a projectile, and exists just to keep the good version from being one of the best moves in the game.
+Completely stalls Chipp on use, holding him in the air and preventing further action until he lands.
+Despite this weakness, some characters lack the means to reliably punish Chipp if used out of a triple/high jump.
+Do not Tiger Knee this. Chipp will fly up in the direction he was traveling but will be unable to act for the entire arc.
+Be smart about when to use this, as the benefit of having fast shuriken is very enticing.
+
+Fast version is a Trophy Wife. One of the most versatile moves in Chipp's toolkit.
+
+Extremely fast tool which can change the followups of many of Chipp's normals on hit/block.
+Recovers almost immediately, allowing Chipp to extend things with a airdashes or other jumps.
+Can cover Chipp's approaches or retreats.
+Still only does 1 damage but is otherwise excellent at everything else it does.
+Both versions will disappear if Chipp is hit.
+Neither version is actually considered a projectile, and are unaffected by Potemkins FlickGuard:AllStartup:21Recovery:12Advantage:+2. Can be very good for stalling vs him
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+j.214P Slow
+N/A
+
+0
+0
+1
+
+
+j.214P Fast
+N/A
+80%
+0
+0
+2
+
+
+j.214P Slow:
+
+Shuriken is not considered a projectile and will not clash with other projectiles
+Chipp will perform Shuriken (Fast) next time Shuriken is performed
+Chipp is in CH state during Recovery
+First Shuriken thrown each round is (Slow)
+See note ※1
+j.214P Fast:
+
+Shuriken is not considered a projectile and will not clash with other projectiles
+Chipp will perform Shuriken (Slow) next time Shuriken is performed
+See note ※1
+
+Force Breaks
+Genrouzan-You
+41236K > D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Relegated in Xrd to Chipp's intro
+
+
+
+
+
+ 
+
+
+
+
+Frames 1-2, 5-6, 9-10
+
+
+
+
+
+
+Frames 3-4, 7-8
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+70
+Mid
+1
+10
+29+3 after landing
+-17
+
+
+
+
+Calls out jump attempts out of Leaf Grab. Strong tool which can be converted from based on distance.
+
+70 damage and knockdown, with a generous cancel window out of Genrouzan.
+Combos out of air hit 5H/6H, and can be linked from with f.S if close enough.
+Can be cancelled into Wall Cling, allowing for further conversion.
+Substitutes for Alpha Blade loops in the corner in terms of ease, but comes with an 85% forced prorate.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 85%
+20
+6
+5
+
+
+Chipp is in CH state until landing
+Auto Jump Install
+
+FB Alpha Blade Plus
+Ground Alpha Blade > D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Back to Back
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+44
+Mid
+27
+15
+25
+-23
+
+
+
+
+ Total: 66
+Double Dip for another Alpha Blade with a significantly larger hitbox. Gives back big damage for 25 meter.
+
+Wallbounces the opponent on hit for bigger damage. Lets Chipp hit the big numbers.
+Will always put Chipp a set distance in front of the opponent on use, making it easier to punish.
+Can be input anywhere before and during the active window for Alpha Blade (ground only).
+Done too early, the first Alpha Blade won't hit.
+Can be used on block to fake them out and hit from the other side first, but this is somewhat slow.
+Must be delayed slightly to connect against lighter characters.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+14
+10
+4
+
+
+Chipp is in CH and crouching state during recovery
+
+FB Beta Blade
+623D (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Beta Blade coked outta its mind
+
+
+
+
+
+ 
+
+
+
+
+Ground: 1st hit (Frames 4-6), 2nd hit (Frames 24-26)Air: 1st hit (Frame 4), 2nd hit (Frames 22-24)
+
+
+
+
+
+
+Ground: 1st hit (Frames 7-16)Air: 1st hit (Frames 5-14)
+
+
+
+
+
+
+Ground: 3rd-4th hits (Frames 27-36)Air: 3rd-4th hits (Frames 25-34)
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+623D
+30, 20×3
+All
+4
+13(7)3,5,5
+30+5 after landing
+-28
+1~6F All7~26F Strike
+
+
+j.623D
+30, 20×3
+All
+4
+11(7)3,5,5
+Until landing+5
+
+1~24F Strike
+
+
+
+ Total: 71
+Beta Blade on PCP. Invincible for nearly half a second. Monster of a reversal.
+
+Invincible until 26F, 4 hits, launches them extremely high and far away.
+Tacks on higher damage at the end of air combos.
+Combos non-OTG after throw, but is frame perfect.
+CH state during a bulk of the active frames and a few frames of recovery, making it a bit riskier than regular Beta Blade.
+No FRC or auto jump install, but otherwise still a stronger reversal.
+There is a wide enough gap between the 1st and 2nd hit that a handful of characters can reversal/low profile through (or IB > AT), few get much out of doing this in most cases but its still something decent to keep in mind when dealing with this yourself or throwing it out against others.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+623D
+N/A
+
+14×4
+6×4
+4
+
+
+j.623D
+N/A
+
+14×4
+6×4
+4
+
+
+623D:
+
+Chipp is in CH state 27~50F
+Chipp is in crouching state during landing recovery
+j.623D:
+
+Chipp is in CH state 27~50F
+Chipp is in crouching state during landing recovery
+
+FB Gamma Blade
+41236D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+For Respect setups
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+All
+15
+9
+19
++15
+
+
+
+
+ Total: 42
+Stronger version of Gamma Blade that freezes the opponent in place for roughly one and a half seconds on hit. Allows for some real jank.
+
+Functionally similar to regular Gamma Blade, but it lasts about twice as long and travels approx. 33%~ farther (almost full screen).
+The opponent's state will change based on what hits them during the freeze period, and will carry over.
+E.G. 6H will cause the opponent to floor bounce once the freeze period ends.
+Will not remove OTG, meaning the opponent can still be in an OTG state once the freeze period ends.
+In counter hit state for 33F.
+Significantly positive on block. Startup, Active, and Damage are all otherwise the same as regular Gamma Blade.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+0
+20
+3
+
+
+Freezes opponent on hit (93F)
+Floats opponent after freeze ends (untechable for 60F)
+The effects are based on the last attack done during freeze time
+Chipp is in CH state 1~33F
+Attack passes through other projectiles
+Ignores OTG prorate on hit
+On hit or block, Chipp performs a recovery animation (total 11F, in CH state 1~2F)
+Cannot be canceled into
+
+Overdrives
+Zansei Rouga
+632146H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Don't get baited
+
+
+
+
+
+ 
+
+
+
+
+1st-5th hits
+
+
+
+
+
+
+Finishing attack
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30×5, 110
+Mid
+21+4
+
+landing 32
+
+1~30F All31~33F Strike
+
+
+
+Extremely high damage Overdrive, but incredibly slow and requires specific conditions to combo into. Can be used for nonsense with enough meter to FRC, or when the opponent is very low on health.
+
+260 base damage, but will only combo out of aerial 6H, and only if close enough, and not against Sols.
+A full 33F of invincibility makes this a fullscreen callout/punish against very high recovery moves.
+Despite this, Beta Blade still makes for a better reversal.
+Does not have to be blocked in alternating directions unless FD'd, so will catch players unaware if they are low on health and must FD to survive.
+Can be FRC'd before/on the 1st or 3rd hits. This will make it safe or allow for immediate land > throw/mixup setups.
+Will not trigger the last hit on some standing or crouching characters on block as they are too short for the 5th hit to make contact.
+Will likely get you IK'd by over half the cast if they trigger the 6th hit on block, as it allows the opponent ample time to back up, go into IK mode, and trigger it as the last hit whiffs.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+25~28F, somewhere on 3rd hit
+
+20×6
+6×6
+5
+
+
+6th hit only occurs if the 5th hit hits or is blocked, in which case Chipp has landing recovery 87F
+
+Banki Mesai
+236236K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Please don't get baited
+
+
+
+
+
+ 
+
+
+
+
+Initial hit
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+7×26, 30×4
+Mid
+0+3~20
+See notes
+47+10 after landing
+-48
+
+
+
+
+ Total: 257
+Tacks on at the end of ranged hits for easy damage and knockdown. Even less safe than Zansei Rouga.
+
+Good for ending a round as the high number of hits is useful for offsetting damage reduction due to guts and scaling.
+Only has invincibility after the super flash, preventing this from use as a reversal.
+Fast enough to combo non-OTG after a throw (except against Faust and Jam on whom it will not work).
+Will also fully combo after a Leaf Throw against Potemkin, Jam, Johnny, Testament, Zappa, Kliff, and Justice.
+90% of the cast can IK this on block. FD'ing will push Chipp out far enough that the remaining hits will continue to whiff.
+Can still be RC'd if any part made contact beforehand, so Chipp can still make himself safe with 100 meter.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10×26, 20×4
+2×26, 6×4
+3×26, 5×4
+
+
+Chipp is in a CH state until landing
+If Chipp fails to make contact with the opponent, the total length of the move is 27F
+Startup changes depending on distance
+Active frames are: 2(5)4(1)1(4)2(7)2(6)2(5)4(7)2(9)4(4)1(3)1(6)2(11)1(2)1(3)3,1(4)2(6)1(6)4(5)3(4)4×4,5(3)3,10(7)3,5×2
+Active frames 94, 164~168, 183~188 are strike invul
+
+Instant Kill
+Delta End
+During IK Mode: 236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Something is ending,and it's probably you
+
+
+
+
+
+ 
+
+
+
+
+Each hitbox is active separately
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Fatal
+Mid
+56+0
+119
+43+16 after landing
+
+
+
+
+
+ Total: 233
+The absolute slowest IK in the entire game, both in prep time and startup. Don't even consider it.
+Can still be used against ABA, but only when using FB Gamma to give prep time due to the incredibly slow activation time
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+
+
+
+
+IK Mode activation: 94F
+
+Colors
+
+
+
+
+Default P
+
+
+
+
+
+
+Default K
+
+
+
+
+
+
+Default S
+
+
+
+
+
+
+Default H
+
+
+
+
+
+
+Default D
+
+
+
+
+
+
+EX P
+
+
+
+
+
+
+EX K
+
+
+
+
+
+
+EX S
+
+
+
+
+
+
+EX H
+
+
+
+
+
+
+EX D
+
+
+
+
+
+
+Slash P
+
+
+
+
+
+
+Slash K
+
+
+
+
+
+
+Slash S
+
+
+
+
+
+
+Slash H
+
+
+
+
+
+
+Slash D1
+
+
+
+
+
+
+Reload P
+
+
+
+
+
+
+Reload K
+
+
+
+
+
+
+Reload S
+
+
+
+
+
+
+Reload H
+
+
+
+
+
+
+Reload D1
+
+
+
+
+
+
+
+
+Gold2
+
+
+
+
+
+
+Shadow2
+
+
+
+
+To select your color, press the corresponding button while in the designated "color set". Color sets can be toggled through by hitting the Respect button.
+
+Only selectable on the Arcade and PC-Rollback versions of the game.
+Available on home ports, and are selected by pressing the Rec. Enemy button on the Slash or Reload color sets, respectively. Gold characters are powered up versions, Shadow characters have infinite tension. Both are banned from tournament play.
+
+
+Navigation
+To edit frame data, edit values in GGACR/Chipp Zanuff/Data.
+
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR/Chipp_Zanuff&oldid=374213"
+
+
+
+
+
+Contents
+
+
+
+Back to top
+
+Contents
+
+
+
+
+
+1
+						Overview
+					
+
+
+
+
+
+
+1.1
+					Starter Guide
+				
+
+
+
+ 
+ 
+
+
+
+2
+						Normal Moves
+					
+
+
+
+
+
+
+2.1
+5P
+
+
+
+
+ 
+
+
+
+2.2
+5K
+
+
+
+
+ 
+
+
+
+2.3
+c.S
+
+
+
+
+ 
+
+
+
+2.4
+f.S
+
+
+
+
+ 
+
+
+
+2.5
+5H
+
+
+
+
+ 
+
+
+
+2.6
+5D
+
+
+
+
+ 
+
+
+
+2.7
+6P
+
+
+
+
+ 
+
+
+
+2.8
+6K
+
+
+
+
+ 
+
+
+
+2.9
+6H
+
+
+
+
+ 
+
+
+
+2.10
+2P
+
+
+
+
+ 
+
+
+
+2.11
+2K
+
+
+
+
+ 
+
+
+
+2.12
+2S
+
+
+
+
+ 
+
+
+
+2.13
+2H
+
+
+
+
+ 
+
+
+
+2.14
+2D
+
+
+
+
+ 
+
+
+
+2.15
+j.P
+
+
+
+
+ 
+
+
+
+2.16
+j.K
+
+
+
+
+ 
+
+
+
+2.17
+j.2K
+
+
+
+
+ 
+
+
+
+2.18
+j.S
+
+
+
+
+ 
+
+
+
+2.19
+j.H
+
+
+
+
+ 
+
+
+
+2.20
+j.D
+
+
+
+
+ 
+ 
+
+
+
+3
+						Universal Mechanics
+					
+
+
+
+
+
+
+3.1
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+3.2
+					Air Throw
+				
+
+
+
+ 
+
+
+
+3.3
+					Dead Angle Attack
+				
+
+
+
+ 
+ 
+
+
+
+4
+						Special Moves
+					
+
+
+
+
+
+
+4.1
+					Sankakutobi
+				
+
+
+
+ 
+
+
+
+4.2
+					Alpha Blade
+				
+
+
+
+ 
+
+
+
+4.3
+					Alpha Plus
+				
+
+
+
+ 
+
+
+
+4.4
+					Beta Blade
+				
+
+
+
+ 
+
+
+
+4.5
+					Gamma Blade
+				
+
+
+
+ 
+
+
+
+4.6
+					Tsuyoshishiki Ten'i
+				
+
+
+
+ 
+
+
+
+4.7
+					Tsuyoshishiki Meisei
+				
+
+
+
+ 
+
+
+
+4.8
+					Genrouzan
+				
+
+
+
+ 
+
+
+
+4.9
+					Resshou
+				
+
+
+
+ 
+
+
+
+4.10
+					Rokusai
+				
+
+
+
+ 
+
+
+
+4.11
+					Senshuu
+				
+
+
+
+ 
+
+
+
+4.12
+					Shuriken
+				
+
+
+
+ 
+ 
+
+
+
+5
+						Force Breaks
+					
+
+
+
+
+
+
+5.1
+					Genrouzan-You
+				
+
+
+
+ 
+
+
+
+5.2
+					FB Alpha Blade Plus
+				
+
+
+
+ 
+
+
+
+5.3
+					FB Beta Blade
+				
+
+
+
+ 
+
+
+
+5.4
+					FB Gamma Blade
+				
+
+
+
+ 
+ 
+
+
+
+6
+						Overdrives
+					
+
+
+
+
+
+
+6.1
+					Zansei Rouga
+				
+
+
+
+ 
+
+
+
+6.2
+					Banki Mesai
+				
+
+
+
+ 
+ 
+
+
+
+7
+						Instant Kill
+					
+
+
+
+
+
+
+7.1
+					Delta End
+				
+
+
+
+ 
+ 
+
+
+
+8
+						Colors
+					
+
+
+
+ 
+
+
+
+9
+						Navigation
+					
+
+
+
+ 
+
+
+
+Categories: Pages using Tabber parser tagGuilty Gear XX Accent Core + R
+
+
+Last modified
+ This page was last edited on 10 February 2023, at 22:13.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+

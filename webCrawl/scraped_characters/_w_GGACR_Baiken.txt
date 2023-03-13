@@ -1,0 +1,4272 @@
+
+
+
+
+GGACR - Baiken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR/Baiken
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+< GGACR
+Overview
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Matchups
+Strategy
+Resources
+
+
+
+
+Overview
+Baiken is set apart from the cast due to her guard cancels, which allow her to attack during blockstun without tension. This enables her to break out of pressure and limit the opponent's options, forcing them to play a completely different game against her.
+These guard cancels can be performed during hitstop/blockstop, the period of time where characters are frozen as moves make contact to emphasize the hit effects. This means that she can punish moves which are normally safe since the GC's startup occurs during the window where the opponent's move is frozen, plus the remaining active window, plus the move's recovery frames. Each guard cancel allows her to get out of a variety of pressure situations.
+Additionally Baiken comes with an excellent set of normals, some very strong conversions and damage, and has a toolkit for nearly every situation. On the flip side, her conversions are quite awkward and some of her best buttons also have very limited cancel routes. Baiken also takes much higher damage than average and can get dizzied pretty quickly, so Baiken players need to play sharp or risk losing fairly quickly. However, that shouldn't matter if she is played sharply, as her tools provide her plenty of opportunities to shut down anything the other player wants to do.
+If you love to play careful turtle-characters with strong offensive responses against the right reads, consider picking Baiken up for a try.
+
+
+
+
+
+
+Damage Received Mod
+x1.18
+Guts Rating
+5/5
+Gravity Mod
+x1.1
+Stun Resistance
+55
+Prejump
+3F
+Backdash
+16F (1~9F Strike Invuln)
+Wakeup Timing
+53F (Face Up)/ 50F (Face Down)
+Number of Jumps:
+2
+Number of Air Dashes:
+1
+Fastest Attack
+5P (5F)2K (5F)
+Reversals
+236236S (8F)
+
+
+
+
+
+
+ Baiken fights in the mid-range, and bulldogs through the opponent's offense with her free guard-cancel attacks.
+
+
+
+Pros
+Cons
+
+
+Free Guard Cancels: Baiken's guard cancels allow her to act during Blockstun, forcing opponents to play cautiously even while on the offensive. Many matchups may require opponents to end pressure early or go for safer but less rewarding options, which allows Baiken to remain a threat even while on the back foot.
+Exceptional Damage: With meter, Baiken can convert into extremely powerful and lengthy combos. These combos also have tend to have great corner carry.
+Powerful Hitboxes: Notably 2K, S normals, 5H, j.H, j.D, and TatamiGuard:AllStartup:15Recovery:9Advantage:-6 are very disjointed can be very difficult to contest.
+The Card of Death: BakuGuard:MidStartup:11Recovery:20Advantage:-3 and its followups can disable the opponent's buttons, take away their movement options, set up an unblockable, and grant full counter-hit combos.
+Strong Mixup Tools: YouzansenGuard:High/AirStartup:6Recovery:15+11 after landingAdvantage:-25 instant overhead, throw conversions, a safe 5D, and the ability to reversal out of blocking with her guard cancels give Baiken lots of mixup options.
+Tiny Hurtbox: Baiken's short stature makes it difficult for many characters to land Instant Overheads, F-ShikiSometimes known as "Fuzzy Overhead". When you are in blockstun, you can switch high/low blocking, but your blocking animation and hurtbox does not change until you leave blockstun or block another attack. F-Shikis take advantage of this and use overheads that would miss on crouching characters, but not on standing characters.s, or air to ground conversions against her.
+
+
+Limited Meterless Conversions: Many of Baiken's normals have limited gatlings and depend on close proximity, counterhits, or crouch confirms to convert into combos. Baiken will often want to spend meter on FRC to access her high damage, or depend on difficult techniques such as Kire Tatami.
+Unforgiving Execution Barrier: Baiken's best combos require judicious use of techniques like Kire tatami, IADs, Suzuran cancels, and plenty of FRCs. Her corner juggle loops require precision and adjustment for specific situations and hurtboxes.
+Low Defense and Dizzy Modifiers: Baiken has one of the lowest defense modifiers in the game, so she pays dearly for her mistakes. She is also easy to stun.
+
+
+
+
+Unique Mechanics
+Guard Cancel
+
+Guard Cancel
+Baiken can cancel into special moves during blockstop/blockstun. Being able to cancel blockstun into attacks is pretty strong by itself, but Blockstop is a window in which only Baiken can move. This is far more powerful of an ability than it first appears.
+
+
+Starter Guide
+
+ Starter Guide
+Need help getting started? Go to this page for information targeted at new players. It covers easy combos, key moves, and what to do after you knock the opponent down.
+
+
+
+
+
+StartupThe time before an attack is active including the first active frame. For example, an attack with 10F startup means the attack will do nothing for 9 frames, then hit the opponent on the 10th frame. frames
+
+
+
+ActiveThe active frames of an attack refers to the amount of time an attack can hit the opponent. Frames
+
+
+
+InactiveFrames in the middle of multi-hit attacks which cannot hit the opponent, but are after the move has become active at least once. Frames
+
+
+
+RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before he may perform another action, even blocking. Frames
+
+
+
+Special RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before they may perform another action.Recovery frames which happen under abnormal conditions, such as after landing. Frames
+
+
+
+ProjectileIndicates an entity that exists separately from the character was spawned. Usually something like a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground.. Spawn.
+
+
+
+CancelA window in which to cancel a move. Can be varied in usage. Window
+
+Normal Moves
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+8
+Mid
+5
+2
+6
++2
+
+
+
+
+ Total: 12
+5P is a good point-blank poke, and probably Baiken's best tick-throw poke.
+
+It cancels into 2K and can jump cancelled – this allows you to mixup with a low (2K) or high (Youzansen).
+Gatling Options: 5P, 2P, 6P, 5K, 2K, 6K, c.S, f.S, 2S, 6H, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Combo starter, ocassional poke
+
+
+
+
+
+ 
+
+
+
+
+Frames 8-10
+
+
+
+
+
+
+Frames 11-12
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+14
+Mid
+8
+5
+6
++1
+
+
+
+
+ Total: 18
+This move is only really used to hit people low in the air, especially when you aren't sure about which side they're on.
+Gatling Options: 6P, c.S, f.S, 2S, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+6
+7
+2
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Better combo starter, even leads to mixup
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28
+Mid
+8
+2
+11
++1
+
+
+
+
+ Total: 20
+Used often in combos as it chains to f.S, 2D, 5H, and can be jump cancelled.
+This allows a 2D/Youzansen mix-up from a close blocked hit, and allows Baiken to combo from almost any c.S that hits.
+On many standing characters, you can combo c.S to a j.D immediately after jumping. This can lead to a nice knockdown or bigger damage with an FRC.
+Gatling Options: 6P, f.S, 2S, 5H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Spacing tool
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Frames 12-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Mid
+9
+6
+8
+0
+
+
+
+
+ Total: 22
+Incredible normal. Has strong range and a great hitbox.
+
+Strong poke due to the above, and as it can also be jump cancelled.
+Only combos to tatami on counter-hit or crouching hit. Can be gatling'd between 2S as well, for extended confirmation time.
+Generally deferred to 2D for combo uses.
+Similarly to c.S, f.S also combos to a low j.D on many standing hit boxes, which is key for extended range knockdowns/confirms.
+Gatling Options: 2S, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Damage tool
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+Mid
+9
+1
+24
+-6
+
+
+
+
+ Total: 33
+One of Baiken's higher damage moves due to its low GB- value. 
+
+Though 5H is not as good as 6H, it is a faster alternative.
+Combos into Tatami on the ground and against a low airborne opponent.
+From a 5H counter-hit, Baiken can continue the combo with Kabari (chain) from quite far.
+Beware using 5H from neutral, because the move only actively hits for one frame and has a large recovery.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20
+High
+27
+2
+26
+-9
+
+
+
+
+ Total: 54
+5D with enough range that it can be difficult to punish. Leads to full conversions, though needs an Impossible Dust for knockdown.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+15
+20
+5
+
+
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 8-10)
+
+
+
+
+
+
+1st hit (Frames 11-13)
+
+
+
+
+
+
+2nd hit (Frames 16-19)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+15, 25
+Mid
+8
+6(2)4
+9
+-3
+1~13F Above Knees
+
+
+
+ Total: 28
+Not a terribly strong anti-air for a 6P, so be careful using it this way against some characters.
+
+Combos to Youzansen/6K/623P on the ground.
+Can be used as an option select throw to catch backdashes.
+Gatling Options: 6K, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+3×2
+8, 5
+1, 2
+
+
+2nd hit on block is a level 1 attack
+
+6K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Throw bait
+
+
+
+
+
+ 
+
+
+
+
+Frames 12-17
+
+
+
+
+
+
+Frames 18-20
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+24
+Mid
+12
+9
+6
++2
+1~11F Throw
+
+
+
+ Total: 26
+Almost always used to option select grab on the ground: 6K+H, due to Baiken's extremely poor grab range.
+Very good meaty as it is +2 normally and can be as much as +10 if meatied perfectly. Take care in meatying this move because it loses grab invincibility during active frames.
+Hitbox can be strong against low attacks when spaced well.
+Gatling Options: 5H, 2H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14
+6
+4
+
+
+Staggers on ground CH (max 35F)
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Converts hits into pain
+
+
+
+
+
+ 
+
+
+
+
+Frames 15-18
+
+
+
+
+
+
+Frames 19-22
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+56
+Mid
+15
+8
+28
+-17
+
+
+
+
+ Total: 50
+Baiken's highest damage normal, this move also has a very low GB-, making it great for combos. 
+
+Special AND jump cancelable (unlike 5H).
+It is very slow startup, however, and can be a challenge to place. Usually used to pick up opponent during slide or wall bounce.
+Gatlings from 5P if you wish to fish for a Counter Hit after conditioning with high/low/throw from 5P.
+Gatling Options: 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+8
+Mid
+6
+3
+7
+0
+
+
+
+
+ Total: 15
+Not very useful, doesn't count as a low.
+
+Suprisingly, sometimes works as an anti air.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, 6K, c.S, f.S, 2S, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+3
+8
+1
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 5-7
+
+
+
+
+
+
+Frames 8-9
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+Low
+5
+5
+6
+-1
+
+
+
+
+ Total: 15
+Baiken's fastest low attack with disjointed hitbox. Low commital poke.
+Gatling Options: 6P, 6K, c.S, f.S, 2S, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+3
+8
+1
+
+
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+Mid
+11
+3
+9
++2
+
+
+
+
+ Total: 22
+Very good hitbox.
+Can only combo into Tatami on CH or on crouching opponents.
+Gatling Options: f.S, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 15-16)2nd hit (Frames 23-24)
+
+
+
+
+
+
+1st hit (Frames 17-18)2nd hit (Frames 25-26)
+
+
+
+
+
+
+1st hit (Frames 21-22)3rd hit (Frames 29-30)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18×3
+Mid
+15
+4(2)6(2)2
+8
++4
+
+
+
+
+ Total: 38
+Very good for establishing pressure due to its frame advantage. 
+
+Can only be chained into from  6K.
+Causes enough stagger on hit to convert if the opponent doesn't shake out quickly.
+Recovery is low enough that even being SB'd doesn't lead to a punish for a lot of characters unless performed point blank.
+Can be used to force the opponent to cross over during untech time
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10×3
+7×3
+3
+
+
+1st and 2nd hits vacuum on hit or block, 3rd hit vacuums on air hit
+Staggers for a max of 24F
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 8-10
+
+
+
+
+
+
+Frames 11-13
+
+
+
+
+
+
+Frames 14-16
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Low
+8
+9
+13
+-8
+
+
+
+
+ Total: 29
+Amazing normal which reaches far both horizontally and vertically, hits low, can be jump cancelled into combo conversion or Youzansen for a mixup tool, and is generally great in any situation. Hardly unsafe on block since it cancels into Tatami Gaeshi.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+8
+7
+3
+
+
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 5-8
+
+
+
+
+
+
+Frames 9-12
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10
+High/Air
+5
+8
+10
+
+
+
+
+
+ Total: 22
+Extremely fast air poke with good horizontal reach and speed.
+
+Very poor GB-, use sparingly in combos.
+Gatling Options: j.P, j.K, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-10
+
+
+
+
+
+
+Frames 11-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18
+High/Air
+7
+8
+12
+
+
+
+
+
+ Total: 26
+Baiken's only jump cancelable air normal, but with an overly generous 25F of hitstun, allowing her to jump cancel and still combo into a j.H > Tatami. Even launches on hit against a grounded opponent. Staple for combos.
+Gatling Options: j.P, j.S, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 8-11
+
+
+
+
+
+
+Frames 12-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+High/Air
+8
+7
+19
+
+
+
+
+
+ Total: 33
+Very generous hitbox, great for zoning in the air. 
+Gatling Options: j.P, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Prime Jump in
+
+
+
+
+
+ 
+
+
+
+
+Frames 15-16
+
+
+
+
+
+
+Frames 17-Landing
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+High/Air
+15
+Until landing
+0
+
+
+
+
+
+Favorable GB-, using this move as much as possible in combos is key.
+Can also be good to use as a meaty.
+Active for as many frames as it takes for Baiken to reach the ground.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+15
+6
+5
+
+
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+Everybody's favorite:the Dragon Cannon
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+50
+High/Air
+9
+3
+21+6 after landing
+
+
+
+
+
+ Total: 38
+Commonly used for corner damage and loops with FRC.
+
+Scores ranged knockdowns on standing hit immediately out of f.S.
+Works in conjunction with j.S for a fuzzy, especially since it can be heavily delayed.
+Can be FDC'ed to flutter in the air, which is useful for baiting anti airs. (Messing up the input can cost you your burst, so be careful!)
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+9~11F
+90%
+11
+8
+4
+
+
+Blows back opponent on hit
+
+Universal Mechanics
+Ground Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+40 pixels
+
+
+
+
+
+
+
+
+A throw which can lead to a combo with good damage and a knockdown near the corner.
+
+Tied with  Millia's ground throw for 2nd shortest range in the game.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6×2
+
+
+
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+88 pixels
+
+
+
+
+
+
+
+
+An air throw which can yield a combo in the corner.
+Baiken's air throw tosses the opponent in the direction opposite of the direction the player input the throw with.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+Sends opponent on opposite side of throw direction
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+Jump cancellable
+
+
+
+
+
+ 
+
+
+
+
+Frames 6-9
+
+
+
+
+
+
+Frames 10-12
+
+
+
+
+
+
+Frames 15-17
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+All
+6
+7(2)3
+6
+-4
+1~17F All18~20F Throw
+
+
+
+ Total: 22
+Baiken has one of the best dead angles in the game, but it doesn't matter because she has both meterless guard cancels and BakuGuard:MidStartup:11Recovery:20Advantage:-3 to do DAA's job better.
+Baiken's DAA is jump cancelable, which allows her to convert it into a combo with knockdown. The frame data is also very comfortable on block, making it exceptionally hard to punish on block.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+Max 1 hit
+
+Special Moves
+Tatami Gaeshi
+236K (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Ground: Frames 15-17
+
+
+
+
+
+
+Ground: Frames 18-20Air: Frames 21-23
+
+
+
+
+
+
+Ground: Frames 21-23Air: Frames 24-26
+
+
+
+
+
+
+Ground: Frames 24-25, 28-29Air: Frames 27-29
+
+
+
+
+
+
+Ground: Frames 26-27, 30-31Air: Frames 30-32
+
+
+
+
+
+
+Ground: Frames 32-35Air: Frames 33-35
+
+
+
+
+
+
+Ground: Frames 36-38Air: Frames 36-Landing
+
+
+
+
+
+
+Air: Frames 18-20
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236K
+40 [20]
+All
+15
+24
+9
+-6
+
+
+
+j.236K
+40 [20]
+All
+18
+
+Until landing+16
+
+
+
+
+
+ Total: 47
+Staple move which is just as important as Baiken's guard cancels. These control space, end blockstrings from a distance, and start combos in the corner or with an FRC. Despite being -6, it's generally very difficult to punish this move unless IB'd/SB'd due to how far the opponent gets pushed away. Depending on the spacing when you use it, this move won't make contact immediately, but players who attempt to jump or IAD over it will have difficulty due to how high the initial hitbox reaches.
+
+
+The air version has some slight variation in use compared to the ground version in neutral, but still the same in combos. Tatami will drop straight down when done in the air, lacking the ground version's blowback, but still serving to cover a large portion of the screen and prevent opponents from rushing in.
+In combos, it will still wallbounce if combo'd into properly, and with the FRC, it tends to lead to some of Baiken's most damaging combo strings.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236K
+23~26F
+90%
+0
+7
+3
+
+
+j.236K
+18~19F
+90%
+0
+7
+3
+
+
+236K:
+
+Values in [] are for late hit (After 6th active frame)
+On CH untechable for 100F
+Tatami disappears immediately if Baiken is hit
+j.236K:
+
+Values in [] are for late hit (After 6th active frame)
+Tatami disappears immediately when Baiken is hit
+
+Youzansen
+j.623S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Mixup CityPopulation: You
+
+
+
+
+
+ 
+
+
+
+
+Frames 6-7
+
+
+
+
+
+
+Frames 8-9
+
+
+
+
+
+
+Frames 10-11
+
+
+
+
+
+
+Frames 12-13
+
+
+
+
+
+
+Frames 14-15
+
+
+
+
+
+
+Frames 16-17
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+44
+High/Air
+6
+12
+15+11 after landing
+-25
+1~3F Throw
+
+
+
+ Total: 43
+Frighteningly fast overhead when Tiger Knee'd, leading to Baiken's extensive corner damage and knockdown when RC'd. The ability to go into this out of any jump cancellable normal, particularly her 2D, gives you an extremely powerful mixup tool whenever the opponent is in blockstun.
+For easier inputs, 923S also works. You may find it easier to do the 923 motion from blockstun. Moves with larger amounts of blockstun, like c.S or the aforementioned 2D are good normals to throw out before attempting this input.
+
+Done higher in the air, it can be used to delay her fall and bait the opponent into attempting a punish. It has landing recovery frames when you do eventually come down from stalling in the air, but these can be cleared by double jumping after a Youzansen if you still have it available.
+Has an extremely early and difficult FRC point which comes before the moves goes active, but will slow and change the direction of Baiken's aerial momentum, and has its uses in corner combos.
+Extremely unsafe on block, and when TK'd, will leave you wide open if it is blocked. However, you generally won't be getting any reward off of this without meter anyway, so you'll likely be saving this for when you can convert.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+3~4F
+
+8
+7
+3
+
+
+Baiken is in CH state during move
+Baiken is in crouching state during landing recovery
+Fastest possible TK Youzansen has startup 9F
+
+Youshijin
+623P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Launcher
+
+
+
+
+
+ 
+
+
+
+
+Frame 12
+
+
+
+
+
+
+Frames 13-14
+
+
+
+
+
+
+Frames 15-17
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+24
+Mid
+12
+6
+25
+-17
+
+
+
+
+ Total: 42
+Youshijin's main purpose is to launch on grounded hit after a hit confirmation, leading to combos pretty easily. It can serve as an early anti air since its hitbox extends very high, but using it on reaction will get you counter hit. Save it for when you've already established a hit up close.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+70%
+10
+12
+3
+
+
+Untech time is 36F if hit with 2nd or 3rd hitboxes
+
+Suzuran
+63214K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Channeling her inner Anji
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 30
+
+4~25F High Guardpoint
+
+
+
+Command dash with upper body autoguard for most of its duration, can be cancelled into GCs without having to block anything.
+
+Lets Baiken access GC tools in neutral.
+Vulnerable to lows and throws, autoguard ends 5 frames before the move finishes.
+Blockstop allows opponents to react and cancel hits into a low, jump, or RC to block anything that you wish to follow with.
+Suzuran > Throw attempts can be easily jumped out of.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Can cancel into Mawarikomi, Sakura, Ouren, Zakuro, Baku 10~29F or after guarding an attack
+
+Kabari
+41236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Read a book from NRS
+
+
+
+
+
+ 
+
+
+
+
+Frames 20-21
+
+
+
+
+
+
+Frames 22-24
+
+
+
+
+
+
+Frames 25-27
+
+
+
+
+
+
+Frames 28-30
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12
+Mid
+20
+11
+15
++2
+
+
+
+
+ Total: 45
+Grappling chain which pulls the opponent in on contact. Good if the opponent is already staggered, sliding, or for ending blockstrings ocassionally as it will catch opponents who are unprepared. Do note however that its speed will leave an opening, and those aware can low profile and punish it. Can work as a janky, predictive anti-air since Baiken's hurtbox lowers a bit.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+14
+3
+4
+
+
+Enters recovery when move connects (Total 14F)
+Pulls opponent in on hit or block
+Can cancel into Tetsuzansen from 34~39F when whiffed, or from 4~9F after hit or block
+Staggers for a max of 33F
+
+Tetsuzansen
+41236H > S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+The one true Anti-Air
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 12-14)
+
+
+
+
+
+
+2nd hit (Frames 26-29)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+36, 15
+Mid
+12
+3(11)4
+16
+-17
+1~5F All6~11F Throw
+
+
+
+ Total: 45
+Powerful followup to Kabari, best for people trying to jump-in at you if Kabari whiffs. Has a decent chunk of startup invul, leads to combos on ocassion, and generally a good option for those who are trying to get around the chain. Be cautious as it's very unsafe if baited.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+12~13F
+Forced 90%, Forced 80%
+14×2
+6, 10
+4
+
+
+Listed Frame Adv is when 2nd hit misses
+
+Guard Cancels
+Zakuro
+While Guarding: 412P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+AA pinwheel
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+0, 22×5, 16
+All
+9
+1
+32
+
+
+
+
+
+ Total: 41
+Despite being a guard cancel, this is your main combo ender after corner combos, as Baiken will usually cross herself up in the corner, use the extensive hitstun of 6P > Suzuran > Zakuro to score the knockdown, and cross them back up with another jumping Tatami.
+It's also Baiken's main answer to large hitbox jump ins like Johnny, Justice, or Baiken's j.H. Against airdash buttons or opponents performing a very deep jump-in, this will mostly likely whiff, leaving Baiken wide open. Zakuro is best suited to obviously high jump-ins and combos.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+12~13F on hit
+Initial 75%, Forced 75%
+3
+8, 6×6
+1
+
+
+Baiken is in CH state 1~11F
+
+Mawarikomi
+While Guarding: 412K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 34
+
+1~24F Strike
+
+
+
+ Total: 34
+Excellent Guard Cancel which crosses up the opponent if performed close enough. Best used against moves with a lot of recovery, allowing Baiken to step in and throw or punish if given enough time. you'll need to exercsise judgment since it doesn't actually have a hitbox.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+21~23F
+
+
+
+
+
+
+Can pass through opponent during move
+
+Sakura
+While Guarding: 412S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Mid
+10
+1
+33
+-16
+1~8F Above Knees
+
+
+
+ Total: 43
+One of Baiken's most rewarding GCs. 
+
+Hits straight in front of her. Best between slow, beefy hits.
+Relatively fast, staggers on hit.
+Leads to damage with the FRC, extended stagger on CH.
+A good option when the opportunity is recognized, just don't get it baited, though.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+10~11F
+
+20
+15
+5
+
+
+Staggers for a max of 50F
+
+Ouren
+While Guarding: 412H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+34
+All
+19~
+2
+14+16 after landing
+-15
+1~3F High Profile14~26F Strike
+
+
+
+ Total: 44
+A far reaching somersault which catches opponents going for far reaching attacks with high recovery, or trying to cancel into something else on reaction. The only meterless guard cancel with invincibility before and during its active window. 
+
+Will cross up the opponent depending on the distance, netting an overall good reward.
+Launches high and very untechable on CH, will net a huge reward.
+Launches forward fast on FRC, can be used as a risky approach or escape tool.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+4~6F
+70%
+14
+6
+4
+
+
+Floats higher on CH (untechable for 70F)
+Startup changes depending on distance from opponent
+No attack if done too far (Total Recovery 52F)
+Baiken is airborne 4F onwarrds
+Auto Jump Install (if not done from Suzuran)
+
+Force Breaks
+Baku
+While Guarding: 412D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Sticks and Stones
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Mid
+11
+2
+20
+-3
+1~12F Strike
+
+
+
+ Total: 32
+Your absolute best tool for getting out of pressure. Except for the first frame, it's invincible until startup. Huge hitbox. Leads to an overwhelming number of options on hit, including simple combo conversion, followups, etc. Extremely difficult to punish unless IB'd/SB'd.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+Opponent's Burst is disabled on hit
+Baiken is in CH state during move
+Can cancel into followup attacks from 12F onwards
+
+Baku: XXX
+Baku > P or K or S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Even the playing field: you're missing an arm after all
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18
+Mid
+6+9
+3
+40
+-24
+1~42F Strike
+
+
+
+ Total: 57
+Followup move to Baku which applies some kind of effect to the opponent based on which button you press. All effects disappear after a set amount of time.
+P Version - Sakura: Opponent loses the ability to dash, backdash, and jump. Opponent flashes dark blue. Forced prorate 50%.
+K Version - Tsuki: All hits are CH while opponent is flashing. Opponent flashes yellow. Forced prorate 30%. A forced prorate of 75% is applied by the first hit of all combos while the opponent is flashing.
+S Version - Tsuru: Opponent loses the ability to block the next hit. Effect disappears if Baiken is hit.  Forced prorate 30%. A forced prorate of 50% is applied by the first hit of a combo while the opponent is flashing.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+20
+6
+5
+
+
+Baiken is in CH state during move
+Opponent's Burst is disabled on hit
+Can cancel into followup attacks 25~36F on hit
+Disables opponents jumping and dashing while they are flashing
+
+Baku Followups
+Baku:XXX > X
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+P
+
+
+
+
+
+
+K
+
+
+
+
+
+
+S
+
+
+
+
+
+
+H
+
+
+
+
+
+
+D
+
+
+
+
+
+ 
+
+
+
+
+P
+
+
+
+
+
+
+K: 1st hit (Frames 18-20)
+
+
+
+
+
+
+K: 1st hit (Frames 27-29)
+
+
+
+
+
+
+K: 2nd hit (Frames 37-41)
+
+
+
+
+
+
+S
+
+
+
+
+
+
+H: Frames 8-9
+
+
+
+
+
+
+H: Frames 10-11
+
+
+
+
+
+
+H: Frames 12-13
+
+
+
+
+
+
+H: Frames 14-15
+
+
+
+
+
+
+H: Frames 16-17
+
+
+
+
+
+
+H: Frames 18-19
+
+
+
+
+
+
+H: Frames 20-21
+
+
+
+
+
+
+H: Frames 22-23
+
+
+
+
+
+
+D: 1st hit (Frames 9-11)
+
+
+
+
+
+
+D: 1st hit (Frames 16-17)
+
+
+
+
+
+
+D: 2nd-7th hits (Frames 18-23)
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+412D > X > P
+15
+Mid
+15
+3
+5
++9
+
+
+
+412D > X > K
+10×2
+High/Air, Mid
+18
+3(6)3(7)5
+8
++4
+
+
+
+412D > X > S
+20
+Mid
+15
+1
+14
++4
+
+
+
+412D > X > H
+24
+High/Air
+8
+16
+16
+-13
+
+
+
+412D > X > D
+5×7
+Mid
+9
+3(4)8
+20
+-7
+
+
+
+
+ Total: 22
+ Total: 49
+ Total: 29
+ Total: 39
+ Total: 43
+The second follow-up to Baku. Whichever follow-up is used, the opponent is locked out of using the corresponding button for the duration of the applied curse, i.e. using the P follow-up prevents the opponent from using the P button.
+
+The S follow up will cross up.
+The D follow up is useful as it locks the opponent out of their Burst.
+The H follow up can also be used to prevent the opponent from using standard throws and from teching throws, which is quite effective when applied with the "no jump/dash/backdash" debuff. The opponent will then be prevented from using reversal backdash and reversal throw, and will also be unable to jump out of throw setups or tech throws, massively crippling their defense.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+412D > X > P
+N/A
+
+14
+6
+4
+
+
+412D > X > K
+N/A
+
+11, 14
+6×2
+4
+
+
+412D > X > S
+N/A
+
+20
+6
+5
+
+
+412D > X > H
+N/A
+
+15
+6
+5
+
+
+412D > X > D
+N/A
+
+10×7
+7×7
+3
+
+
+412D > X > P:
+
+Opponent's P button is disabled while they are flashing
+412D > X > K:
+
+Baiken is airborne 7~35F
+Auto Jump Install
+Max 2 hits
+Opponent's K button is disabled while they are flashing
+412D > X > S:
+
+Dizzy modifier x0
+Opponent's S button is disabled while they are flashing
+412D > X > H:
+
+Baiken is airborne from 8F onwards
+Auto Jump Install
+Opponent's H button is disabled while they are flashing
+412D > X > D:
+
+Opponent's D button is disabled while they are flashing
+
+Triple Tatami Gaeshi
+236D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Raise the floor
+
+
+
+
+
+ 
+
+
+
+
+Active frames 1-3
+
+
+
+
+
+
+Active frames 4-6
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30×3
+All
+14
+16
+Total 47
+-3
+
+
+
+
+ Total: 47
+Tool for hitting opponents from far away or simply building some damage with a bit of meter when close. Has some slightly different utility from regular Tatami, but good nonetheless.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+20~22F
+90%
+0
+10×3
+1
+
+
+Untechable on CH for 100F
+Baiken is in CH state 1~22F
+2nd Tatami appears on 19F, 3rd on 24F
+Each Tatami is active for 6F
+Frame Adv. is when the 3rd Tatami is blocked
+Tatamis disappear if Baiken is hit
+
+Overdrives
+Tsurane Sanzu Watashi
+236236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Last Blade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 8-10)
+
+
+
+
+
+
+1st hit (Frames 11-13)
+
+
+
+
+
+
+2nd hit (Frames 23-24)
+
+
+
+
+
+
+2nd hit (Frames 25-27)
+
+
+
+
+
+
+3rd hit (Frames 39-40)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60×3
+Mid
+7+1
+6(9)5(11)2
+22
+-5
+1~9F Strike
+
+
+
+ Total: 62
+Strong reversal and damage tool. Easily confirmed into out of something like 5H or 2D. Very difficult to punish unless SB'd. A pretty good super overall.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20×3
+6×3
+5
+
+
+Dizzy modifier per hit: 1st = x0, 2nd = x0.5, 3rd = x1.0
+
+Instant Kill
+Garyou Tensei
+During IK Mode: 236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Only this frame has front leg invul
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Fatal
+All
+7+10
+72
+6
+-10
+1~12F Strike
+
+
+
+ Total: 94
+Actually not too bad of an IK, active during the entire run, covering a great bit of the stage.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+
+1
+
+
+IK Mode activation: 84F
+Active frames are cut short and enters recovery on block, animation: 19F
+
+Colors
+
+
+
+
+Default P
+
+
+
+
+
+
+Default K
+
+
+
+
+
+
+Default S
+
+
+
+
+
+
+Default H
+
+
+
+
+
+
+Default D
+
+
+
+
+
+
+EX P
+
+
+
+
+
+
+EX K
+
+
+
+
+
+
+EX S
+
+
+
+
+
+
+EX H
+
+
+
+
+
+
+EX D
+
+
+
+
+
+
+Slash P
+
+
+
+
+
+
+Slash K
+
+
+
+
+
+
+Slash S
+
+
+
+
+
+
+Slash H
+
+
+
+
+
+
+Slash D1
+
+
+
+
+
+
+Reload P
+
+
+
+
+
+
+Reload K
+
+
+
+
+
+
+Reload S
+
+
+
+
+
+
+Reload H
+
+
+
+
+
+
+Reload D1
+
+
+
+
+
+
+
+
+Gold2
+
+
+
+
+
+
+Shadow2
+
+
+
+
+To select your color, press the corresponding button while in the designated "color set". Color sets can be toggled through by hitting the Respect button.
+
+Only selectable on the Arcade and PC-Rollback versions of the game.
+Available on home ports, and are selected by pressing the Rec. Enemy button on the Slash or Reload color sets, respectively. Gold characters are powered up versions, Shadow characters have infinite tension. Both are banned from tournament play.
+
+
+Navigation
+
+To edit frame data, edit values in GGACR/Baiken/Data.
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR/Baiken&oldid=374984"
+
+
+
+
+
+Contents
+
+
+
+Back to top
+
+Contents
+
+
+
+
+
+1
+						Overview
+					
+
+
+
+
+
+
+1.1
+					Unique Mechanics
+				
+
+
+
+
+
+
+1.1.1
+					Guard Cancel
+				
+
+
+
+ 
+ 
+
+
+
+1.2
+					Starter Guide
+				
+
+
+
+ 
+ 
+
+
+
+2
+						Normal Moves
+					
+
+
+
+
+
+
+2.1
+5P
+
+
+
+
+ 
+
+
+
+2.2
+5K
+
+
+
+
+ 
+
+
+
+2.3
+c.S
+
+
+
+
+ 
+
+
+
+2.4
+f.S
+
+
+
+
+ 
+
+
+
+2.5
+5H
+
+
+
+
+ 
+
+
+
+2.6
+5D
+
+
+
+
+ 
+
+
+
+2.7
+6P
+
+
+
+
+ 
+
+
+
+2.8
+6K
+
+
+
+
+ 
+
+
+
+2.9
+6H
+
+
+
+
+ 
+
+
+
+2.10
+2P
+
+
+
+
+ 
+
+
+
+2.11
+2K
+
+
+
+
+ 
+
+
+
+2.12
+2S
+
+
+
+
+ 
+
+
+
+2.13
+2H
+
+
+
+
+ 
+
+
+
+2.14
+2D
+
+
+
+
+ 
+
+
+
+2.15
+j.P
+
+
+
+
+ 
+
+
+
+2.16
+j.K
+
+
+
+
+ 
+
+
+
+2.17
+j.S
+
+
+
+
+ 
+
+
+
+2.18
+j.H
+
+
+
+
+ 
+
+
+
+2.19
+j.D
+
+
+
+
+ 
+ 
+
+
+
+3
+						Universal Mechanics
+					
+
+
+
+
+
+
+3.1
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+3.2
+					Air Throw
+				
+
+
+
+ 
+
+
+
+3.3
+					Dead Angle Attack
+				
+
+
+
+ 
+ 
+
+
+
+4
+						Special Moves
+					
+
+
+
+
+
+
+4.1
+					Tatami Gaeshi
+				
+
+
+
+ 
+
+
+
+4.2
+					Youzansen
+				
+
+
+
+ 
+
+
+
+4.3
+					Youshijin
+				
+
+
+
+ 
+
+
+
+4.4
+					Suzuran
+				
+
+
+
+ 
+
+
+
+4.5
+					Kabari
+				
+
+
+
+ 
+
+
+
+4.6
+					Tetsuzansen
+				
+
+
+
+ 
+ 
+
+
+
+5
+						Guard Cancels
+					
+
+
+
+
+
+
+5.1
+					Zakuro
+				
+
+
+
+ 
+
+
+
+5.2
+					Mawarikomi
+				
+
+
+
+ 
+
+
+
+5.3
+					Sakura
+				
+
+
+
+ 
+
+
+
+5.4
+					Ouren
+				
+
+
+
+ 
+ 
+
+
+
+6
+						Force Breaks
+					
+
+
+
+
+
+
+6.1
+					Baku
+				
+
+
+
+ 
+
+
+
+6.2
+					Baku: XXX
+				
+
+
+
+ 
+
+
+
+6.3
+					Baku Followups
+				
+
+
+
+ 
+
+
+
+6.4
+					Triple Tatami Gaeshi
+				
+
+
+
+ 
+ 
+
+
+
+7
+						Overdrives
+					
+
+
+
+
+
+
+7.1
+					Tsurane Sanzu Watashi
+				
+
+
+
+ 
+ 
+
+
+
+8
+						Instant Kill
+					
+
+
+
+
+
+
+8.1
+					Garyou Tensei
+				
+
+
+
+ 
+ 
+
+
+
+9
+						Colors
+					
+
+
+
+ 
+
+
+
+10
+						Navigation
+					
+
+
+
+ 
+
+
+
+Category: Pages using Tabber parser tag
+
+
+Last modified
+ This page was last edited on 15 February 2023, at 21:04.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+
+

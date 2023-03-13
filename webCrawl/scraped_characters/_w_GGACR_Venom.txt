@@ -1,0 +1,4624 @@
+
+
+
+
+GGACR - Venom Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR/Venom
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+< GGACR
+
+Overview
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Okizeme
+Matchups
+Strategy
+Resources
+
+
+
+
+Overview
+Venom is baller—Literally. No character in fighting games plays truly like Venom, thanks to his unique Pool Ball mechanic. He has two special moves—Summoning BallGuard:Startup:11Recovery:15Advantage: and Dubious CurveGuard:MidStartup:21Recovery:19Advantage:-3—which place pool balls on the screen, which Venom launches at the opponent by hitting them with an attack. These pool balls are so interwoven into the fabric of the character that every facet of the character leads back to the balls somehow.
+Venom's balls can be placed, moved, launched, re-launched, charged, lightning-infused, and teleported to. Learning to utilize the flexibility of these balls is the most rewarding and important aspect of the character. This gives Venom's play a lot of moving parts which can be adjusted in real time, allowing the player to approach a given match in a very freeform manner. Mastery of Venom's balls, and play in general, involves a firm grasp of the fundamentals of fighting games. In neutral, Venom's balls function as an extension of his normals. The trajectory and damage of a given ball is determined by the attack Venom hit it with, and as such a Venom player should be comfortable moving around his balls, and using them to shut off lanes of space that the opponent is in, or will be in.
+Beyond neutral, Venom has some of the stronger pressure and OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups. in the game. Because balls are projectiles, they can be utilized to provide frame advantage while Venom acts and moves around the opponent, all while they whittle away at the opponent's life bar via chip damage. Venom's ideal knockdowns give him room to set up between 1 and 3 balls, or Enhanced Stinger AimGuard:AllStartup:6 after releaseRecovery:30 after releaseAdvantage:see notes. From there, the world is his billiard table. He can enforce very scary high/low mixups with empty jump > low, late airdash > overhead, instant overheads, and F-ShikiSometimes known as "Fuzzy Overhead". When you are in blockstun, you can switch high/low blocking, but your blocking animation and hurtbox does not change until you leave blockstun or block another attack. F-Shikis take advantage of this and use overheads that would miss on crouching characters, but not on standing characters.. To make matters better, he can also run a passable left/right mixup game by dash jumping over an opponent and airdashing back into them with j.S, and he has a phenomenal throw game.
+The main challenges Venom faces are related to the three Ds: Damage, Defense, and Deterrence. In a game where some characters can deal 300+ damage off of a single combo, Venom's comparatively low incidental damage means his player needs to score many more hits on average, or needs to have an airtight pressure game to crank the guard bar and inflict more chip. Venom has absolutely no reversal options, so his players will need to become very confident with the universal defensive mechanics. Finally, there are some situations in neutral where Venom lacks a threatening way to punish certain actions from the opponent, like a May jumping around, so a Venom player will need to come up with non-traditional answers to these problems. Ultimately, though, these flaws are not enough to keep this baller down. Players can and do take Venom to the absolute highest level of competitive play, and are rewarded for their efforts with an incredibly unique and stylish character.
+
+
+
+
+
+
+Damage Received Mod
+x1.06
+Guts Rating
+1/5
+Gravity Mod
+x1
+Stun Resistance
+60
+Prejump
+4F
+Backdash
+13F (1~7F Strike Invuln)
+Wakeup Timing
+49F (Face Up)/ 51F (Face Down)
+Number of Jumps:
+2
+Number of Air Dashes:
+1
+Unique Movement Options
+Teleport
+Fastest Attack
+2KGuard:LowStartup:5Recovery:9Advantage:-2 & c.SGuard:MidStartup:5Recovery:20Advantage:-10 (5F)
+Reversals
+None
+
+
+
+
+Pros And Cons
+
+
+
+ Venom makes use of his balls to apply scary, chip-damage heavy pressure to the enemy player while up close and to zone while at long range.
+
+
+
+Pros
+Cons
+
+
+Diverse Pressure Options: Venom's balls give him a long list of neutral and offensive options to suffocate opponents with. The depth of his pressure/OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups. can allow a player who labs to deploy a myriad of varied and strong setups.
+Your Meter or Your Life: Venom's offense is projectile based which forces opponents to eat large amounts of chip damage, or spend a lot of tension on FD. With meter to spend on Dark AngelGuard:AllStartup:7+18Recovery:10Advantage: and Stinger Aim FRC, there are situations where the opponent must respect him.
+Pokes And Neutral Game: 2S, f.S, and Stinger AimGuard:AllStartup:13Recovery:Total 37Advantage:+2 are moves with few rivals in terms of meterless space control. Furthermore, all of his neutral options become much better when he has balls to pair them with.
+Guard Bar Raiser: Moves like c.S, Carcass RaidGuard:AllStartup:16Recovery:Total 34Advantage:+8, and Stinger Aim FRC allow Venom to stick to the opponent and raise their guard bar quickly and consistently.
+Menacing From The Air: Venom's air normals are great. Rising j.P catches many air approaches, j.K is active for ages, and his gatling options are flexible. His dive kickGuard:High/AirStartup:18Recovery:6 after landingAdvantage:+7, air ball setGuard:Startup:9Recovery:26Advantage:, and teleportGuard:Startup:15Recovery:2Advantage: open up lots of ways to change Venom’s trajectory, timing, and location, making him hard to pin down and anti-air.
+Secret Grappler: Between his plus-on-block projectiles, strong tick throw normals, charge move feints, and his incredibly strong throw OS, Venom has a lot of ways to threaten with his best-in-class throw
+
+
+Poor Reward: Venom generally needs some combination of a guard bar, corner positioning, ball setups, and meter to deal damage comparable to many other members of the cast. Of particular note, his f.S frequently offers as little as a ball set for reward.
+Deterrence Issues: Due to issues with his 6P, paired with his aforementioned reward issues, Venom can struggle to stop opponents from gambling on otherwise moderate or even high-risk options.
+Limited Defense: Venom is the only character in the game without a reversal. He will be forced to hold pressure that other characters can contest.
+FD Counterplay: Faultless DefenseA special type of blocking in Guilty Gear that negates chip damage and pushes the opponent back further than usual. This type of blocking comes at the cost of a resource. poses more of a hurdle to Venom than most of the cast. FD Strips the chip damage component from his game plan, disrupts his access to his very important c.S, and exacerbates his pre-existing hunger for meter.
+Susceptible to Counter Hits: Most of Venom's specials leave him in counter hit state for extended periods of time. This opens up additional punish options for his opponents, and leads to stray hits hurting more than they should.
+
+
+
+Unique Mechanics
+Balls
+
+Balls
+214X places a ball on the screen and shifts other placed balls into position according to the predefined Ball Formations. All balls which are set begin in an inert state. Venom can teleport to the inert ball currently on screen which was placed first. Inert balls can be hit by Venom's normals, specials with hitboxes, and other balls. Dark Angel does not interact with balls, and Tactical ArchGuard:Startup:12Recovery:Total 17Advantage: will override his inert balls.
+The speed, angle, and damage of a given ball is determined by the move which launched the ball. As a general guideline, the damage and speed are directly related, and scale from "lightest" buttons to "heaviest" buttons. The basic idea, ignoring exceptions, is from lowest to highest:  P > K > S > H > D . The angle follows a logical geometry related to the move that launched the ball. For example, 5P is a horizontal attack, and as such launched the ball horizontally. 6P is an attack diagonally upwards and forwards, and as such launches the ball in a similar angle.
+
+
+Starter Guide
+
+ Starter Guide
+Need help getting started? Go to this page for information targeted at new players. It covers easy combos, key moves, and what to do after you knock the opponent down.
+
+
+
+
+
+StartupThe time before an attack is active including the first active frame. For example, an attack with 10F startup means the attack will do nothing for 9 frames, then hit the opponent on the 10th frame. frames
+
+
+
+ActiveThe active frames of an attack refers to the amount of time an attack can hit the opponent. Frames
+
+
+
+InactiveFrames in the middle of multi-hit attacks which cannot hit the opponent, but are after the move has become active at least once. Frames
+
+
+
+RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before he may perform another action, even blocking. Frames
+
+
+
+Special RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before they may perform another action.Recovery frames which happen under abnormal conditions, such as after landing. Frames
+
+
+
+ProjectileIndicates an entity that exists separately from the character was spawned. Usually something like a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground.. Spawn.
+
+
+
+CancelA window in which to cancel a move. Can be varied in usage. Window
+
+Normal Moves
+Damage values in [brackets] note the damage of a ball launched by the move in question.
+
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+"...And in this box, you'll see its damage value"
+
+
+
+
+
+ 
+
+
+
+
+How the Japanese MOOK defined Upper Body
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+6 [26]
+Mid
+6
+3
+9
+-2
+
+
+
+
+ Total: 17
+5P is Venom's fastest, lowest commitment way to launch an inert ball.
+Balls launched by 5P move very slowly. This makes 5P the ideal normal to launch a ball with the intent to approach behind the ball. Other normals will often launch the ball too quickly to approach behind, or will have too much recovery to keep up with the ball.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+85%
+3
+8
+1
+
+
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12 [32]
+Mid
+7
+3
+15
+-8
+
+
+
+
+ Total: 24
+5K is a secretly godlike Low CrushA move that avoids low attacks. The move might pull your hurtbox up a bit so it avoids attacks that are low to the ground. In games with attack attributes such as Blazblue this is done with Foot attribute invulnerability. and solid ball launcher.
+5K is commonly used in order to launch Lighting Balls to lock down the opponent after a 421S knockdown when you are too far to lock them down with a P normal. It also has the least pushback of all of Venom's normals and is jump cancelable which makes it a valid choice for starting pressure if you cannot guarantee that you will be in range for c.S > IASInstant Air SpecialConceptually includes Tiger KneePerforming a special as soon as possible after becoming airborne. Usually, but not always, involves an input trick.For Example: 2369S for a j.236S input. j.236S.
+Gatling Options: 6P, c.S, f.S, 2S, 2H, 5H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+3
+8
+1
+
+
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+"Don't Burst c.S"Please do so I can bait it :)
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 5-6)
+
+
+
+
+
+
+2nd hit (Frames 7-8)
+
+
+
+
+
+
+3rd hit (Frames 9-12)
+
+
+
+
+
+
+3rd hit (Frames 13-15)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+16×3 [32]
+Mid
+5
+2,2,7
+20
+-10
+
+
+
+
+ Total: 35
+c.S is one of Venom's most important normals. It allows him to launch opponents for combos, hit tricky anti-air angles, charge Stinger AimGuard:AllStartup:13Recovery:Total 37Advantage:+2 and Carcass RaidGuard:AllStartup:16Recovery:Total 34Advantage:+8, crank guard bar, bait bursts, and more.
+c.S > [2]8SGuard:AllStartup:16Recovery:Total 34Advantage:+8 is one of Venom's most important pressure resets thanks to the frame advantage of [2]8S combined with the flexibility of c.S. Every Venom player needs to become comfortable with buffering a charge during c.S for this reason. Similarly, the jump cancel allows you to mix up by going into IASInstant Air SpecialConceptually includes Tiger KneePerforming a special as soon as possible after becoming airborne. Usually, but not always, involves an input trick.For Example: 2369S for a j.236S input. j.236SGuard:High/AirStartup:18Recovery:6 after landingAdvantage:+7 for a fast and rewarding overhead mixup.
+It's important to consider is that c.S has a short proximity range, and as such you will often need to use dash momentum or air dash momentum in order to ensure that you are within proximity range after your block string/combo starter. Because the proximity range is slightly larger than his throw range, and because this is his fastest normal without a downwards input, this is one of the best choices to OSA shorthand for "Option Select"A situation where you perform an input and the game will "select an option" automatically depending on what the other character did. with throw.
+Because this move starts the majority of Venom's combos and block strings, many players will attempt to burst it. Venom players should be prepared to use burst throw option selects, or read the opponent, jump cancel c.S and block or throw their burst. Doing so is one of the best ways to make the opponent fear you, and Venom loves every bit of respect he can get out of the opponent.
+
+
+Because of its high hitstop and multiple hits, c.S hosts multiple extremely strong burst throw OSs. Due to the hitstop difference between c.S connecting and whiffing through Burst, you can perform a series of inputs that will perform a combo on hit, and throw their burst on burst. Keep in mind that as long as you stay on the ground, you can only OS against bursts on the first and second hits of c.S; OSing against a third-hit burst will require performing an air combo, which will generally short you on your okizeme.
+Notable option selects include:
+
+c.S(2) > 9~4H - OS against bursting c.S(1). Gives a backwards air throw on burst, and 5H on hit.
+c.S(3) > 9~6K+H - OS against bursting c.S(2). Gives a forwards air throw on burst, and 6K on hit. Generally requires a truncated combo afterwards, as performing the OS makes c.S(3) > 6K > [2]8S extremely difficult.
+c.S(3) > delayed j.6S+H - OS against bursting c.S(3). Gives a forwards air throw on burst, and j.S on hit. Most flawed of the OSs, since transitions into an air combo, which is less than ideal for Venom's combo routing wants in most situations.
+
+Gatling Options: 6P, 6K, f.S, 2S, 2H, 5H, 6H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+14×3
+8×3
+4
+
+
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Yeah, my neutral's pretty nice
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+24 [38]
+Mid
+9
+2
+18
+-6
+
+
+
+
+ Total: 28
+f.S is Venom's longest range poke, and compliment to 2S.
+Generally speaking, Venom will use this button to keep the opponent boxed out in combination with S Ball when range is a priority, but it does see use in pressure and combos as well. It is especially important to use f.S pre-emptively in order to snipe the startup of things the opponent might want to do from a distance.
+Keep in mind that this move does not have much vertical reach so characters with low profile advancing moves such as  Sol and  I-No can safely go under it, and  Zappa can simply run underneath it.
+Gatling Options: 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+10
+7
+3
+
+
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+You baited my throw, but you messed up so I get a cool combo
+
+
+
+
+
+ 
+
+
+
+
+Frames 10-12
+
+
+
+
+
+
+Frames 13-16
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+38 [42]
+Mid
+10
+7
+18
+-6
+
+
+
+
+ Total: 34
+5H is a specialized move that is used in block strings for its high block-stun, and in combos for its high damage or stagger property.
+The common uses for 5H are to force the opponent to block Dark Angel or to create a string that catches jump-backs with Dubious Curve. Though, that isn't all that the move is used for. It can be used after c.S(2) to keep Venom and the opponent grounded while pushing them apart so that Venom can reach balls which are set behind him to launch the balls with [4]6D for highly damaging combo extensions. Also this move leads to some really fancy looking combo conversions on air hit during scrambles.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+20
+6
+5
+
+
+Staggers for a max of 39F
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20 [50]
+High
+25
+3(2)3
+18
+-12
+
+
+
+
+ Total: 50
+5D is an overhead that acts as an alternative to Venom's more rewarding overhead options at the benefit of being hard to see, and easy to execute.
+The startup animation makes this move somewhat hard to react to due to the subtlety of it. Because it is a standing overhead, it can actually catch people off guard who are otherwise able to react to IASInstant Air SpecialConceptually includes Tiger KneePerforming a special as soon as possible after becoming airborne. Usually, but not always, involves an input trick.For Example: 2369S for a j.236S input. j.236S because they react to the jump animation and get thrown off by 5D's weird animation.
+Generally speaking, it is best to use an Impossible Dust combo after hitting the opponent with 5D because they are much more consistent than other dust combos, and generally provide both better damage and knockdown situation.
+Ultimately, j.236S is the stronger overhead, but this move is actually important to keep in your move set because it creates one more thing for the opponent to keep track of.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+8
+20
+3
+
+
+Venom is in CH state during move
+Max 1 hit
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Not consistently rewarding, but way better than getting hit
+
+
+
+
+
+ 
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Frames 12-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28 [36]
+Mid
+9
+6
+20
+-12
+1~4F Above Knees5~11F Upper Body
+
+
+
+ Total: 34
+6P is used as an anti-air and counter-poke, but also sees use in combos.
+Sadly, the move cannot be relied on as one's primary anti-air due to a combination of issues with its range, speed, reward on far-hit, and cancel options. Some top Venom players forgo the move almost entirely as an anti-air in favor of air-to-air j.PGuard:High/AirStartup:7Recovery:9Advantage: and air throwGuard:88 pixelsStartup:Recovery:Advantage:. 
+6P's reward as an AAAnti-AirA move used to beat an opponent's jumping attacks. varies fairly greatly depending on the spacing at which the opponent is hit, and which character the opponent is playing. For very deep anti-airs it can combo into c.S for a full confirm, but from long distances it may give as little as a ball set. Generally speaking you can get at least a Dubious Curve on air hit or 2D on ground hit.
+Be mindful of the step Venom takes forwards during the move's startup, as this can cause some moves to pass over Venom and hit him from behind, especially with deep or vertical jump-ins like Order-Sol's j.HGuard:High/AirStartup:9Recovery:13Advantage: and May's j.2HGuard:High/AirStartup:13Recovery:0Advantage:. In many cases, Venom's 6P will beat these options cleanly with proper spacing, but this built-in step makes keeping that positioning hard.
+Gatling Options: c.S, f.S, 2S, 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+10
+7
+3
+
+
+
+6K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+28 [40]
+Mid
+16
+2
+25
+-14
+
+
+
+
+ Total: 42
+6K is combo filler thanks to its ground bounce, large hitbox, and long animation that gives time for charging Carcass Raid.
+The hitbox is a little deceptive. You may be tempted to use it as an anti-air, but it's simply too slow to be a good decision in most cases. Generally Venom will prefer to use Air Throw, c.S, j.P, or 6P to cover the space that 6K covers.
+Balls launched by 6K will quickly descend and then bounce off of the ground at a sharp angle towards the top of the screen.
+Gatling Options: f.S, 2S, 5H, 2H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+10
+7
+3
+
+
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+Combo ender, party starter
+
+
+
+
+
+ 
+
+
+
+
+Frames 15-16
+
+
+
+
+
+
+Frames 17-18
+
+
+
+
+
+
+Frames 19-20
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+48 [50]
+Mid
+15
+6
+27
+-14
+
+
+
+
+ Total: 47
+6H is most commonly used as a combo ender due to its high damage and plummet on hit. 
+The large hitbox and moderate speed makes this move a somewhat decent way to swat opponents out of the air as they try to jump over a ball. The recovery on whiff is lengthy, which makes this tactic very dangerous if you miss, and the reward on hit isn't spectacular, but it does score Venom a free knockdown to run his game and as a result it can be a surprisingly decent tactic. Beware the deadzone on the hitbox if the enemy gets in too close to Venom.
+
+Balls hit by this move at the tip of the handle around frames 15 through 16 will be launched forwards in a straight line very quickly.
+Balls hit by this move otherwise will typically bounce off the ground at a wide angle.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 90%
+20
+9
+5
+
+
+Slams down opponent on hit
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+7 [26]
+Mid
+7
+4
+10
+-4
+
+
+
+
+ Total: 20
+2P primarily sees use as a ball launcher for low speed, low height balls, but it also sees situational use as a low commitment way to stop opponents from dashing in point blank for a free pressure reset.
+This move gets an honorable mention as a viable tick-throw normal because it is -4 on block, which is 1 frame less than the throw protection window after blocking. It can be canceled into itself, or 2K in order to buy time and encourage the opponent to block, and given enough time and respect will allow you to cancel into Carcass Raid for a pressure reset.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, c.S, f.S, 2S, 5H, 2H, 6H
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+3
+8
+1
+
+
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+8 [30]
+Low
+5
+3
+9
+-2
+
+
+
+
+ Total: 16
+2K is Venom's primary low threat, and overall one of his most important buttons thanks to its speed, input, and reach. 
+This button is exceptional because it is tied for his fastest normal, along side c.S, and allows him to start both down and back charges. This move is a great choice to preserve dash momentum since it can be pressed while outside of the proximity range of c.S and then gives him time to slide into position for c.S. 2K is also the safe pick to use after landing from either an air block string, or an empty jump because of its speed and status as a low. 
+The proration is intense, so combos starting with it will generally do relatively poor damage compared to 2D, but this move is much more flexible and easy to use. As a result, you can think of 2K as the cake, and 2D as the icing.
+This is one of the few ways Venom can reliably hit a D ball that is on the ground.
+Gatling Options: 6P, c.S, f.S, 2S, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+70%
+3
+8
+1
+
+
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Roundstart.png
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22 [34]
+Mid
+6
+1
+20
+-7
+
+
+
+
+ Total: 26
+2S is Venom's main poke, and also a setplay enabler and combo tool.
+This button is way faster than it has any right to be. It has the same startup as 5P, 1 frame more than 2K, and reaches all the way from round start distance. Additionally, it lets Venom easily store both down and back charges, which makes it phenomenal for establishing control on the ground. It works well with S Ball for even greater control over space.
+In combos and pressure, 2S's main job is to hit S balls while hitting the opponent. Examples include the Dubious Curve Loop and 214S > 2S Loop. 
+This move has lengthy recovery on whiff, but is one of his most important moves, and as a result it is crucial that every Venom player become proficient at using this move without missing. Whiffing this can mean certain death against many characters.
+Gatling Options: 5H, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+10
+7
+3
+
+
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 7-9)
+
+
+
+
+
+
+1st hit (Frames 10-12)
+
+
+
+
+
+
+2nd hit (Frames 13-16)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+20×2 [44]
+Mid
+7
+6,3
+21
+-7
+
+
+
+
+ Total: 36
+One of Venom's most niche attacks. In some matchups this can be used as a creative anti-air, especially when combined with a ball, and it is good for raising guard bar, but it has few situations in which it truly shines.
+Gatling Options: 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+14×2
+6×2
+4
+
+
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+You know I'm mashing this out of fear
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frames 6)
+
+
+
+
+
+
+1st hit (Frame 7)
+
+
+
+
+
+
+2nd hit (Frames 19-20)
+
+
+
+
+
+
+2nd hit (Frames 21-22)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+19×2 [38]
+Low
+6
+2(11)4
+24
+-14
+6~33F Low Profile
+
+
+
+ Total: 46
+2D is great for ending ground combos, contesting gaps, and is even a high damage combo starter. It's one of the few rivals to  Sol's 2DGuard:LowStartup:7Recovery:20Advantage:-6.
+The most notable strength is the close knockdown it gives on hit. This sets up the usual K-Ball Okizeme, and also provides ample opportunity to charge an Enhanced Stinger AimGuard:AllStartup:6 after releaseRecovery:30 after releaseAdvantage:see notes, giving you options for your pressure. It's still good on block because the long animation provides ample time to perform Stinger AimGuard:AllStartup:13Recovery:Total 37Advantage:+2 or Carcass RaidGuard:AllStartup:16Recovery:Total 34Advantage:+8 for an advantaged state. Because it's so good, many beginner Venoms fall into the trap of mashing 2D to their own detriment. The long animation makes it very dangerous to whiff, and it can still lose to low crushes and frame traps, so one should be careful to not over-rely on the move.
+Being one of Venom's fastest buttons, with low profile to complement it, 2D is good at calling out pokes and high-hitting mids on a read.2D > Stinger Aim > FRCis a very potent combo starter as well as pressure re-buy. 2D does not have a proration penalty like 2K does which allows for high damage combos off of a low starter.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+8×2
+7×2
+3
+
+
+Venom is in CH state 1~29F
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10 [28]
+High/Air
+7
+6
+9
+
+
+
+
+
+ Total: 21
+j.P is one of Venom's best ways of keeping opponents from jumping onto him, especially when combined with K Ball.
+There are some characters who have large, deep hitting jump-ins, or tricky air momentum that can be impractical to stop with 6P. This is where j.P comes in. The hitbox is surprisingly good, and you can use it while jumping back to catch the top of the hurt box of an enemy going for a low, deep jump-in. When you have a K Ball out, the situation becomes very hard to approach because you can either hit the K Ball with 6P, jump back and hit the ball with j.P, or do neither and simply take advantage of the threat of the ball in order to do other things.
+Because this move has relatively little recovery on whiff, and can gatling into itself, it is fine to mash the button and confirm the hit into a different normal when it works.
+Gatling Options: j.P, j.K, j.S, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+3
+8
+1
+
+
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+12 [32]
+High/Air
+8
+12
+12
+
+
+
+
+
+ Total: 31
+j.K is a phenomenal jump-in button that is great on whiff as well as hit.
+The main situation in which you will use this normal is during OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups. in which you have a K, K~D, or H Ball out. This move can be used while rising to hit a ball and keep the opponent locked down while performing a safe jump thanks to its long active frames, good recovery, and generous hitbox. Alternatively, it can be used while falling to start a block string because it has great cancel options.
+Gatling Options: j.P, j.S, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+8
+7
+3
+
+
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+24 [37]
+High/Air
+7
+5
+21
+
+
+
+
+
+ Total: 32
+j.S is an exceptional tool for OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups., as well as a valuable combo and pressure tool thanks to its jump cancel option.
+During okizeme situations, this button is very helpful because of how it launches balls, as well as the hitbox that hits in front of Venom at the start, and cross-up on late active frames. j.S launches balls at a similar angle to j.K, but at a much greater speed which helps in situations where j.K's launch speed would not make the ball hit meaty. Beyond launching the ball, the cross-up active frames allow Venom to dash-jump over the opponent, and then airdash backwards into them and hit them with j.S which further increases the threat of Venom's okizeme.
+In combos and block strings, j.S mostly gets used because it has great cancel options. You can cancel into j.H to end a string, cancel into j.P to extend the string, or use jump cancel to continue and gain height.
+Gatling Options: j.P, j.H, j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+8
+7
+3
+
+
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 10-13
+
+
+
+
+
+
+Frames 14-17
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+36 [46]
+High/Air
+10
+8
+18
+
+
+
+
+
+ Total: 35
+j.H is a rewarding air sequence ender with a generous hitbox.
+Generally speaking, it's preferable to use other buttons and then cancel into j.H than to just use this move on its own. It has the same attack level as j.S with less recovery, but at the cost of significantly more limited cancel options. As a result, it's wise to start your block string or combo with something like j.P or j.S and then work towards j.H as opposed to just pressing j.H outright, especially since it is a combo ender on hit.
+j.H launches balls at a 45 degree downward angle with great speed where they rebound off the ground. This is situationally useful for sniping players who like to jump back at full screen, since the ball travels downwards and then hits them from below, though this is unlikely to hit opponents who are air-dashing forwards.
+Gatling Options: j.D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+8
+7
+3
+
+
+Slams down opponent on air hit
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-9
+
+
+
+
+
+
+Frames 10-14
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40 [50]
+High/Air
+7
+8
+13+6 after landing
+
+
+
+
+
+ Total: 33
+j.D is a somewhat niche air normal which opens up unique options for the adventurous Venom player.
+Because the hitbox is entirely disjointed above Venom j.D is one of the best ways to hit an opponent above you, like if a  May was trying to approach by super jumping and using a falling normal. That said, the landing recovery and lack of cancel options makes this move risky to use if you are not fully confident it will connect.
+Creative players can use j.D air-dash block strings as well as for relaunches with its wall bounce. If it hits a standing opponent in the corner, you can convert into a combo with c.S.
+j.D is Venom's only normal to launch balls upward while he's in the air, though the situation where that is desired it uncommon.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%
+8
+10
+3
+
+
+
+Universal Mechanics
+Ground Throw
+
+
+
+
+
+
+SCHLORP
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+5×7
+43 pixels
+
+
+
+
+
+
+
+
+Venom's grounded throw gives him access to a full combo, and even unique combo options that open up new opportunities for OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups..
+The proration on throw is intense, so generally speaking you should prioritize combos with good corner carry and setplay followups as opposed to highly damaging combos.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+Venom has 11F after a successful throw to hit opponent inside ball. Successfull hit wall bounces opponent (untechable for 80F)
+
+Air Throw
+
+
+
+
+
+
+Arguably the most important skill for a Venom player
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+5×7
+88 pixels
+
+
+
+
+
+
+
+
+This is Venom's primary anti-air.
+Air throw is similar to ground throw in that you get a free combo from it, but only when performed close to the ground, and the routes available are different depending on the height. Common options to start a combo from air throw include c.S, 6K, 6H, and j.S.
+At higher air throw heights, it can be valuable to FRC this move in order to guarantee a knockdown. If the opponent is too high to hit them with a normal combo starter, they can tech out leading to an awkward scramble. The FRC option helps you avoid that situation and keep the round under your control.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+45~47F
+Forced 50%
+
+6
+
+
+
+Venom has up to 19F (on FRC) after a successful throw to hit opponent inside ball. Successfull hit wall bounces opponent (untechable for 80F)
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+24
+Mid
+11
+3
+19
+-8
+1~13F All14~29F Throw
+
+
+
+ Total: 32
+Dead Angle Attack (DAA) is one of Venom's most valuable defensive options.
+Venom's overdrives are not useful for getting out of the opponent's offense, and as such this is the best thing you can spend 50% tension on while blocking.
+On hit, DAA is very rewarding. Mid screen it knocks down, and if the opponent is near the corner it will wall-splat allowing you to sometimes convert into a combo.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+
+Special Moves
+Summoning Ball
+214X (Air OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+If this doesn't excite you, then you have no soul
+
+
+
+
+
+
+Counter-hit state for 35 years
+
+
+
+
+
+ 
+
+
+
+
+If someone accepts this high five, you will die
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+214X
+
+
+11
+Total Duration 26
+15
+
+
+
+
+j.214X
+
+
+9
+Total Duration 35
+26
+
+
+
+
+
+ Total: 26
+ Total: 35
+214X, known most commonly as Ball Set, is the move that defines Venom as a character.
+Whenever Venom places an inert ball, either with 214X or with 421X, the ball will fall into formation relative to Venom. The most recently placed ball placed determines which formation is used. Any subsequent balls placed will update the formation used. There is a short period of time where the ball automatically moves into its position during which the ball can be interacted with normally. Inputting D while the ball is moving into its position will transition the formation into the ~D variant. Furthermore, if you place a ball, move to a new location, and then place a new ball, the balls previously placed will migrate to your current position in order to attempt to maintain formation relative to Venom.
+Basically everything that is strong about Venom stems from precise use of this move. Without balls, Venom has relatively weak pressure, combos, and OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups., but with them he can become very scary. Applications of this move exceed the scope of the overview, and can be read in depth on the Strategy page.
+Additional Things to Know:
+
+TeleportGuard:Startup:15Recovery:2Advantage: will teleport Venom to the inert ball which was put on screen first.
+If Venom lands during the recovery of j.214X, then the remaining recovery will be canceled.
+j.214X preserves momentum, allowing you to temporarily delay your movement.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+214X
+N/A
+
+
+
+
+
+
+j.214X
+N/A
+
+
+
+
+
+
+214X:
+
+Venom is in CH state during move
+Can cancel into another Ball Formation from 23F onwards
+Pressing D during animation sets balls in pre-AC ball formations
+j.214X:
+
+Venom is in CH state during move
+Recovery ends immediately if Venom lands during the recovery
+Pressing D during animation sets balls in pre-AC ball formations
+
+Stinger Aim
+[4]6S or [4]6H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+[4]6S
+30 [30]
+All
+13
+Until Hit
+Total 37
++2
+
+
+
+[4]6H
+46 [46]
+All
+9
+Until Hit
+Total 48
+-13
+
+
+
+
+ Total: 37
+ Total: 48
+Stinger Aim is Venom's equivalent of a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground. used by traditional characters like  Ky.
+Planning around this move and Carcass RaidGuard:AllStartup:16Recovery:Total 34Advantage:+8 is mandatory for Venom players. Assuming that you already have a chargeIn order to access moves that begin with a held input, the user must hold that input for a certain number of frames. This is known as "charging" the move or "storing a charge". prepared, this special is the fastest way to put an activeTo be "active" means that a move is able to hit the opponent projectile on the screen without an inert ball on screen to launch. Similarly, it is crucial that Venom players learn to FRC this move.
+[4]6S > FRC is one of Venom's most powerful pressure re-buys thanks to the natural frame advantage of [4]6S. Similarly, using the FRC when the projectile from Stinger Aim misses the opponent can help you avoid certain death because of the lengthy recovery both versions have. [4]6H > FRC provides a much faster ball, which is especially useful when converting off of awkward hits that Venom otherwise could not pick up from.
+Beyond the uses as a conversion tool and pressure re-buy, Stinger Aim is also simply a good fireball for space control. [4]6S fires a projectile at a moderate speed which Venom can follow behind to approach, and [4]6H fires a very fast projectile which can snipe opponents who are attempting to act from far away. Both versions are able to interact with inert balls that are currently on the screen, which opens up further opportunities to pollute the screen.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+[4]6S
+16~18FFRC shortly after the ball is fired; at close range this will be roughly as the ball hits
+
+3
+6
+3
+
+
+[4]6H
+15~17FFRC with a slight delay after the ball is fired; at close range this will be after the ball hits
+
+3
+6
+3
+
+
+[4]6S:
+
+Venom is in CH state during recovery
+Chip damage x2
+Cancelable from 13F onwards
+Must charge back for at least 45F to perform attack
+Ball appears on 7F
+[4]6H:
+
+Venom is in CH state during move
+Chip damage x2
+Cancelable from 13F onwards
+Must charge back for at least 45F to perform attack
+Ball appears on 4F
+
+Enhanced Stinger Aim
+[4]6[S] or [4]6[H]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+[4]6[S]
+22×2~6 [30]
+All
+6 after release
+Until Hit
+30 after release
+see notes
+
+
+
+[4]6[H]
+26×2~6 [46]
+All
+5 after release
+Until Hit
+44 after release
+see notes
+
+
+
+
+Enhanced Stinger aim trades time for a more powerful version of Stinger Aim.
+Stinger Aim can be enhanced by holding the S or H part of the input. Doing so increases the projectile level, adding more hits and increasing the projectile's size. 
+Enhanced Stinger Aim is very plus on block, especially when done meaty. Paired with its high chip damage and very good Guard Bar raising ability, it makes for a formidable lockdown tool. If the opponent tries to disrespect this oki tool, it's highly likely they will eat a lot of damage from the projectile.
+Because the projectile is so large and moves horizontally this move will generally catch attempts to backdash or fuzzy jump on wakeup. Technically,  Slayer can avoid the move with a 1f window BDC, but in practice this move is extremely hard to weasel out of and consequently very helpful in the matchup.
+More universally, the move pairs nicely with the lightning ball from DBCGuard:MidStartup:21Recovery:19Advantage:-3 and 5H to blast the opponent with chip damage.
+If you find yourself without balls set up for okizeme, and you want to lock the opponent down, Enhanced Stinger lockdown is a great option.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+[4]6[S]
+9~11F after releaseFRC shortly after the ball is fired; at close range this will be roughly as the ball hits
+
+20×2~6
+6×2~6
+5
+
+
+[4]6[H]
+11~13F after releaseFRC with a slight delay after the ball is fired; at close range this will be after the ball hits
+
+20×2~6
+6×2~6
+5
+
+
+[4]6[S]:
+
+Charge for 17~30F for 2nd stage, 31~67F for 3rd, 68~107F for 4th
+2nd stage Frame Adv is +10F, 3rd is +19F, 4th is +41F
+See note ※1
+[4]6[H]:
+
+Charge 14~27F for 2nd stage, 28~64F for 3rd, 65~104F for 4th
+2nd stage Frame Adv is -5F, 3rd is +4F, 4th is +26F
+See note ※1
+
+Carcass Raid
+[2]8S or [2]8H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+[2]8S
+36 [35]
+All
+16
+Until Hit
+Total 34
++8
+
+
+
+[2]8H
+50 [49]
+All
+13
+Until Hit
+Total 48
+-9
+
+
+
+
+ Total: 34
+ Total: 48
+Carcass Raid, [2]8X, is a tricky projectile with a unique flight path.
+Planning around this move and Stinger Aim is mandatory for Venom players. If Stinger > FRC is a re-buy, Carcass Raid is stealing it from under someone's nose.
+[2]8S is one of Venom's best ways to force the opponent to sit down and respect his pressure, because it is significantly advantaged on block, and becomes more so the longer the projectile travels. The most common way to utilize this is out of c.S thanks to its long duration, close proximity, and multiple hits. This move is commonly used in combos as well, especially after 6K, in order to give Venom time to dash forwards into range for his normals.
+Additionally, this move can be used in order to cover weird angles that are otherwise hard to cover by launching a standard ball. If you can force the opponent to block this, it is your turn again. The H version controls space above Venom very effectively and, when spaced right, has uses for pressure in the corner. If Venom is hit during the flight of this projectile, the H version disappears.
+Generally speaking, enhancing Carcass Raid is less useful than simply using it normally, but feel free to experiment with uses for it.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+[2]8S
+N/A
+
+3
+6
+3
+
+
+[2]8H
+N/A
+
+3
+6
+3
+
+
+[2]8S:
+
+Venom is in CH state during move
+Chip damage x2
+Cancellable from 13F onwards
+Must charge down for at least 40F to perform attack
+Ball appears on 7F
+[2]8H:
+
+Venom is in CH state during move
+Chip damage x2
+Cancellable from 13F onwards
+Must charge down for at least 40F to perform attack
+Ball appears on 7F
+Ball disappears if Venom is hit
+
+Enhanced Carcass Raid
+[2]8[S] or [2]8[H]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+[2]8[S]
+24×2~6 [35]
+All
+9 after release
+Until Hit
+27 after release
+see notes
+
+
+
+[2]8[H]
+27×2~6 [49]
+All
+6 after release
+Until Hit
+41 after release
+see notes
+
+
+
+
+Enhanced Carcass Raid is a niche, and somewhat under explored okizeme tool.
+Carcass Raid can be enhanced by holding the S or H part of the input. Doing so increases the projectile level, adding more hits and increasing the projectile's size.
+Compared to its counterpart Enhanced Stinger AimGuard:AllStartup:6 after releaseRecovery:30 after releaseAdvantage:see notes—as well as the standard S Carcass RaidGuard:AllStartup:16Recovery:Total 34Advantage:+8—Enhanced Carcass Raid tends to be  more situational, or simply less useful. Enhanced Stinger will usually be more rewarding and more advantageous because it takes significantly less time to increase the level, and it can be performed from farther away for more natural frame advantage.
+The main application of Enhanced Carcass is for okizeme against characters with frame 1 low profiles—such as  Sol and  Faust.
+Knockdowns that can set up Charged Carcass include:
+
+2D(1) when mid-screen
+2D(2) when the opponent is cornered
+j.H in either major position
+Enhanced Carcass also has potential in standard okizeme setups when paired with ball in front of you to interact with, but the option is currently under explored.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+[2]8[S]
+N/A
+
+20×2~6
+6×2~6
+5
+
+
+[2]8[H]
+N/A
+
+20×2~6
+6×2~6
+5
+
+
+[2]8[S]:
+
+Charge 38~51F for 2nd stage, 52~88F for 3rd, 89~107F for 4th
+2nd stage Frame Adv is +16F, 3rd is +25F, 4th is +47F
+See note ※1
+[2]8[H]:
+
+Charge 38~51F for 2nd stage, 52~88F for 3rd, 89~107F for 4th
+2nd stage Frame Adv is -1F, 3rd is +8F, 4th is +30F
+See note ※1
+
+Feint
+P While Holding an attack button for Stinger Aim or Carcass Raid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 5
+
+
+
+
+
+ Total: 5
+Stinger Aim and Carcass Raid can be canceled by pressing P while holding the S, H, or D input that would normally be used to enhance the move. If canceled in this way, Venom will recover faster than usual, but the projectile will not come out. Using this cancel is colloquially known as "Stinger Cancel" and "Carcass Cancel".
+Some examples of uses for this cancel include but are not limited to: 
+
+Cancel then dash in for a throw
+Fake pressure resets
+Recover faster if you know the ball will miss the opponent
+Carcass Cancels and Stinger Cancels are currently under-explored as options for Venom, so feel free to experiment.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Venom is in CH state during move
+Recovery is 6F when canceling from S Stinger Aim
+
+Dubious Curve
+421X
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+Mid
+21
+3
+19
+-3
+1~17F Feet
+
+
+
+ Total: 42
+Dubious Curve is a crucial combo tool, and occasional block string tool.
+421X is most well known for its use in Venom's Dubious Curve Loops, which are some of his most damaging and powerful combos. These loops are generally performed while in the corner, but the move does see use in combos performed mid-screen as well. When FRC'ed on hit, the move can sometimes be followed up with a combo that was otherwise not possible due to pushback. The move is generally a strong combo ender thanks to the advantage and the Lightning Ball that it provides on hit.
+On block, 421X is a decent move. It is not severely disadvantaged, so it's generally acceptable to end a block string with it if you are not prepared to end with a better option. Block strings into 421X have the potential to catch opponents who attempt to jump or mash, albeit somewhat uncommonly. Be mindful, though, that this does mean there's a gap people can reversal through as well.
+The move can also be canceled into TeleportGuard:Startup:15Recovery:2Advantage: or Ball SetGuard:Startup:11Recovery:15Advantage: to attempt to squeeze additional mileage out of it. An honorable mention for this purpose goes to 421H~D > 623K > j.S, which puts you close to the opponent with an active hitbox and a fairly small gap that opponents might not be prepared to contest.
+The FRC option allows for you to extend combos beyond their normal limits, or to more safely continue pressure after this move is blocked, and should be practiced.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+21~22FThe first two active frames; FRC just as Dubious Curve hits
+
+20
+6
+5
+
+
+Ball appears on 21F
+Creates Lightning Ball on hit (not on trade)
+Pressing D during animation sets balls in pre-AC ball formations
+Can cancel into Ball Formation, Teleport, or Tactical Arch anytime before the end of the move on hit or block
+
+Double Head Morbid
+623S or 623H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+S
+
+
+
+
+
+
+H
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+623S
+44 [37]
+Mid
+9
+8
+24
+-15
+
+
+
+623H
+21×4 [40]
+Mid
+15~
+4×6
+18
+-16
+
+
+
+
+ Total: 40
+ Total: 56
+Double Head Morbid is a forwards-advancing move which requires creativity to get any real use out of it.
+Both Versions of Double Head Morbid are unsafe on block, and move Venom into the range of most opponents. This is, generally speaking, the opposite of what you want. Double Head Morbid is typically reserved for ending combos in situations where knockdowns are hard to capitalize on, such as in the  Baiken matchup, where damage and space generally trump okizeme, or from high/far 6P hits, where other routes are simply impossible.
+The S version has fairly quick startup and blows the opponent away on hit, giving it some utility as a space-making combo ender if you find neutral to be preferable to oki against a given character. It hits balls at a sharp vertical angle, and does actually do so slightly faster than 6K, giving it niche use for directly vertical ball coverage.
+
+
+The H version travels a considerable distance- tracking to the opponent- and can occasionally knock down on hit at the end of long combos, though it usually leads to a tech situation near Venom. More importantly, it does a decent amount of damage, making it a workable tool to tack on damage at the end of combos where knockdowns may not be possible.
+623H boasts a large amount of active frames, meaning it can work as a niche, generally inadvisable, and somewhat goofy callout on evasive options like A.B.A's SlideGuard:Startup:Recovery:Total 28Advantage:, though it is also quite unsafe.
+Generally, this is a higher risk, lower reward alternative to other options, which accounts for why it sees so little use.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+623S
+N/A
+
+14
+6
+4
+
+
+623H
+N/A
+
+10×4
+7×4
+3
+
+
+623S:
+623H:
+
+Startup varies depending on distance from opponent
+Max 4 hits
+
+Mad Struggle
+j.236S or j.236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+S is a valuable mixup tool
+
+
+
+
+
+
+H has a cool flip
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Changes every frame
+
+
+
+
+
+
+H 1st hit (Frames 6-7)
+
+
+
+
+
+
+H 2nd hit (Frames 8-9)
+
+
+
+
+
+
+H 2nd hit (Frames 10-11)
+
+
+
+
+
+
+H 2nd hit (Frames 12-13)
+
+
+
+
+
+
+H 3rd hit (Frames 14-15)
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+j.236S
+12×4 [37]
+High/Air
+18
+Until landing
+6 after landing
++7
+
+
+
+j.236H
+15×4 [37], 15×3 [40]
+High/Air×4, Mid×3
+16
+Until landing,(5)2,6,2
+20
+-8
+1~7F Strike8~9F Upper Body & FeetF10~31F Feet
+
+
+
+j.236S is Venom's premiere overhead option for mixups.
+Common times to use j.236S are out of block strings from c.S, and out of a dash. Doing so in these cases will usually ensure that you remain close enough to the enemy to follow up with c.S or 2K, your fastest normals, therefore keeping your pressure going if they blocked j.236S, or starting a combo if they did not. Compared to 5D, this is the much more popular overhead.
+The S version of Mad Struggle can be pseudo-feinted by performing it as quickly as possible via an IASInstant Air SpecialConceptually includes Tiger KneePerforming a special as soon as possible after becoming airborne. Usually, but not always, involves an input trick.For Example: 2369S for a j.236S input. input. When done like this, Venom will jump into the air, start the animation, and then land without hitting the opponent. This can be used to fake out opponents who are actively looking for the overhead and attempting to block it, since you will land faster than usual and have the ability to use a low option such as 2K.
+The  fastest possible IASInstant Air SpecialConceptually includes Tiger KneePerforming a special as soon as possible after becoming airborne. Usually, but not always, involves an input trick.For Example: 2369S for a j.236S input. takes 23 frames to hit.
+
+
+j.236H is a tricky dive kick that is generally overshadowed by the more reliable j.236S.
+You should not use j.236H for the same applications that you would the S version due to the flip-kick extension at the end, which kills the move's frame advantage on block. On hit, the kick will launch the opponent into the air, netting a Dubious Curve Loop under the right circumstances.
+j.236H is able to hit Cross-upAttacking your opponent after changing which horizontal side you are on, usually by jumping over them. with the early hit of the flip-kick, and can anti-air with the late hits. Doing so will usually result in a knockdown. As a result, this move can be used as an unexpected and decently rewarding, albeit risky, choice in a scramble. The flip-kick has some invulnerability which catches many players off guard as they attempt to contest it.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+j.236S
+N/A
+
+8×4
+7×4
+3
+
+
+j.236H
+N/A
+
+8×4, 10×3
+7×7
+3
+
+
+j.236S:
+j.236H:
+
+1st half of the move (diving) is the exact same as S Mad Struggle
+Invuln is listed for 2nd half of the move (kick)
+
+Teleport
+623K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+15
+(5 Intangible)
+2
+
+10~15F Strike16~20F All
+
+
+
+ Total: 22
+Teleport is a tricky movement option and way to bait bursts.
+623K will teleport to the inert ball that has been on screen for the greatest time. If there are no inert balls at the time of teleporting, Venom will teleport directly upwards a short distance. If Venom appears behind the opponent, he will appear in the direction he was originally facing. Also Venom will have his air options (double jump or air dash) intact after teleporting.
+When performed as an IASInstant Air SpecialConceptually includes Tiger KneePerforming a special as soon as possible after becoming airborne. Usually, but not always, involves an input trick.For Example: 2369S for a j.236S input., Venom will automatically correct to face the opponent.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Venom is in CH state from 1~9F
+Venom is intangible from 16~20F
+Venom Re-appears on frame 21
+Venom is Actionable on frame 24
+Auto Jump Install
+
+Balls
+Active Balls
+
+Tabber requires Javascript to function. 
+
+
+
+
+Inert Ball
+
+
+
+
+
+
+Active Ball
+
+
+
+
+
+
+Lightning Ball
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Hit Ball
+Ball Damage
+All
+N/A
+Until Hit
+N/A
+Variable
+
+
+
+Lightning Ball
+[BallDamage÷2] x3
+All
+N/A
+Until Hit
+N/A
+Variable
+
+
+
+
+Damage and projectile travel speed depends on what you use to launch it. See values in [brackets] by each attack.
+Chip damage x2
+
+
+Each hit of lightning ball does 1/2 the value normal Hit Ball would do. Lightning Ball hits 3 times.
+Chip damage x2
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+Hit Ball
+N/A
+
+3
+6
+3
+
+
+Lightning Ball
+N/A
+
+3×3
+5×3
+3
+
+
+Hit Ball:
+
+Damage varies depending on what attack was used to hit the ball
+Chip damage x2
+Lightning Ball:
+
+Dizzy modifier x0
+Chip damage x2
+Each hit's damage is half of what the normal Hit Ball damage would be (lightning balls hit 3 times)
+
+Ball Formations
+
+
+
+
+
+P formation
+
+
+
+
+
+
+K formation
+
+
+
+
+
+
+S formation
+
+
+
+
+
+
+H formation
+
+
+
+
+
+
+D formation
+
+
+
+
+
+
+
+
+P~D formation
+
+
+
+
+
+
+K~D formation
+
+
+
+
+
+
+S~D formation
+
+
+
+
+
+
+H~D formation
+
+
+
+
+
+Balls go into the shown formation when you summon a ball with the corresponding button.
+For example, doing K summon, then S summon would go into S formation with only the K and S balls available.
+Top row is the default ball patterns, bottom row is the alternates made by tapping D during setup. D summon does not have an alternate formation.
+
+
+Force Breaks
+FB Stinger Aim
+[4]6D (Hold OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+My abare tho
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+[4]6D
+46×2 [46]
+All
+9
+Until Hit
+Total 38
+-3
+
+
+
+[4]6[D]
+26×2~6 [46]
+All
+5 after release
+Until Hit
+34 after release
+see notes
+
+
+
+
+ Total: 38
+The Force Break version of stinger is a side-grade to Stinger Aim FRC with some interesting quirks.
+[4]6D causes the projectile and any balls launched by it to bounce off of the wall, opponent, or opponent's projectiles one time. Thanks to this, and the extreme speed at which this move fires the projectile, it makes a surprisingly good AbareAn attack during the opponent's pressure, intended to interrupt it. and anti-projectile tool. 
+Force Break Stinger and its enhanced versions, accessed by holding the D input before launching the projectile, do surprisingly high damage. This gives [4]6D a few interesting applications for squeezing out more damage. One such application is in combos. If you can get inert balls, especially lightning balls, behind Venom, and use moves with high pushback, such as 5H, you can then launch the balls into the opponent with [4]6D to do high damage. Another fun, but much more niche, application is to fire an enhanced version of the move, let it bounce off of something, and then re-hit the projectile with 5P to get an enhanced stinger ball to combine with your normals after a snipe attempt.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+[4]6D
+15~17FFRC shortly after the ball is fired; at close range this will be roughly as the ball hits
+
+3
+6
+3
+
+
+[4]6[D]
+11~13F after releaseFRC shortly after the ball is fired; at close range this will be roughly as the ball hits
+
+20×2~6
+6×2~6
+5
+
+
+[4]6D:
+
+Venom is in CH state during move
+Chip damage x2
+Cancelable from 13F onwards
+Must charge back for at least 45F to perform attack
+Ball appears on 4F
+See notes ※2, ※4
+[4]6[D]:
+
+Charge 12~22F for 2nd stage, 23~52F for 3rd, 53~104F for 4th
+2nd stage Frame Adv is +5F, 3rd is +14F, 4th is +36F
+See notes ※1, ※2, ※4
+
+FB Carcass Raid
+[2]8D (Hold OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+[2]8D
+35 [34]
+All
+13
+Until Hit
+Total 32
++7
+
+
+
+[2]8[D]
+23×2~6 [33]
+All
+6 after release
+Until Hit
+25 after release
+see notes
+
+
+
+
+ Total: 32
+Force Break Carcass Raid is an under-explored move with novel applications for zoning.
+Compared to [2]8H, which it is modeled after, [2]8D's projectile bounces more times, travels slower, and does not disappear if Venom is hit during its flight. The frame advantage that it provides is nice, but generally not worth the Tension cost given that [2]8S provides similar advantage for free.
+Currently, this move is primarily known for its use in zoning because it is covers a lot of screen space over its life time. Some players will advocate using this over Stinger Aim at full screen when your goal is to establish a wall of projectiles, and then follow it up with ball sets and launches.
+Even though Force Break Carcass Raid shares its trajectory with [2]8H, it does not disappear if Venom gets hit, meaning it has some utility as a tool for trying to set up defensive trades in zoning sequences.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+[2]8D
+N/A
+
+3
+6
+3
+
+
+[2]8[D]
+N/A
+
+20×2~6
+6×2~6
+5
+
+
+[2]8D:
+
+Venom is in CH state during move
+Chip damage x2
+Cancelable from 13F onwards
+Must charge down for at least 40F to perform attack
+Ball appears on 4F
+See notes ※2, ※3, ※4
+[2]8[D]:
+
+Charge 32~41F for 2nd stage, 42~72F for 3rd, 73~107F for 4th
+2nd stage Frame Adv is +15F, 3rd is +24F, 4th is +46F
+See notes ※1, ※2, ※3, ※4
+
+FB Double Head Morbid
+623D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+14×6 [40]
+Mid
+15~
+4×5,6
+22
+-14
+
+
+
+
+ Total: 62
+The Force Break version of Double Head Morbid exists primarily as a way to cash out from awkward combos in exchange for meter.
+623D can be combo'ed into in order to secure a hard knockdown when a good combo route is unavailable. The knockdown that it provides is not optimal because the move cannot cancel into ball set for OkizemeFrom Japanese "起き攻め". Attacking an opponent about to wake up after they were knocked down, usually with meaty attacks or mix-ups., but sometimes any knockdown is better than no knockdown.
+What's more likely is that you will accidentally get this move as an input error when trying to do jump cancel into j.236DGuard:All, High/AirStartup:14Recovery:6Advantage:+19 and die for it.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10×6
+3×6
+3
+
+
+Startup varies depending on distance from opponent
+See notes ※2, ※4
+
+FB Mad Struggle
+j.236D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+If S Mad Struggle is a can opener, this is a SWAT team
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10, 30 [50]
+All, High/Air
+14
+2(2)2
+6
++19
+
+
+
+
+ Total: 25
+This is basically j.236S on steroids.
+j.236D can be applied in most situations in which j.236S would be good for greater reward at the cost of 25% Tension. 
+On block, this move provides enough frame advantage that Venom will recover in the air and be able to continue his offense freely - any falling air normal, double jump j.K, airdash j.K/j.S, and land 2K/c.S can all be gapless on normal block.
+Because the move preserves your air options you can opt to air dash for more air attacks, or take the time to land for grounded offense. As a cherry on top, the move increases the opponent's Guard Bar by a considerable amount which is always welcome for Venom.
+On hit, j.236D leads into many practical and highly damaging combo routes. This is because the first hit has very high untechable time, and the second hit ground bounces with even greater untechable time and great combo scaling.
+Notably, unlike the other Mad Struggle variants, j.236D does not descend while active, meaning it will go clean over ultra-low options like Sol's Grand Viper and Johnny's 2H.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%, Forced 90%
+20, 15
+0, 9
+5
+
+
+Attack Level 6
+See notes ※2, ※4
+
+Overdrives
+Dark Angel
+2141236S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Respect this or suffer
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10×28
+All
+7+18
+Total Duration 35
+10
+
+7~15F Strike
+
+
+
+ Total: 35
+Dark Angel, 2141236S, is one of the most powerful overdrives in the game, allowing for powerful lockdown and checkmate situations.
+Dark Angel's hitbox is large, and moves fairly slowly across the screen, which is a good thing. This means that if the opponent blocks it, they will get dragged towards the corner by it, or you can approach behind the projectile safely. Thanks to its many hits, Dark Angel will do a large amount of chip damage, unless the opponent opts to FD, at which point it will cost them a ton of Tension. Because of this, and the ludicrous frame advantage that such a projectile provides, this move is arguably as good if not better on block than it is on hit. 
+While the opponent is blocking Dark Angel, you can set up balls, approach them, or run mixups to your heart's content. If you want to get the opponent to block Dark Angel, you can get them to block 5H first, and then cancel into Dark Angel. Be aware that doing so leaves a small gap that the opponent might be able to reversal out of if they are actively looking for it.
+Note: Dark Angel's hitbox does not extend all the way downwards, allowing characters such as  Sol to Low ProfileWhen a character's hurtbox is entirely beneath an opponent's attack. This can be caused by crouching, certain moves, and being short. the move.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3×28
+2×28
+5
+
+
+Venom is in CH state 1~6F
+Dizzy modifier x0
+Chip damage x2
+Creates projectile on 8F
+Goes through other projectiles
+
+Red Hail
+j.236236H
+
+
+
+
+
+
+
+It's so bad, you don't even see it in CMVs
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26×8 [26]
+All
+10+0
+Total Duration 91
+25+9 after landing
+
+
+
+
+
+ Total: 40
+Red Hail is contender for Venom's least useful move. 
+Generally speaking, this move does not do enough damage to warrant the meter cost, or to warrant going for it over a knockdown and okizeme. In +R, most of Venom's combo routes are performed while on the ground. This significantly reduces the number of cases in which you can make use of j.236236H. The move is further limited by the fact that it does not score a hard knockdown on hit which makes it directly inferior to j.H > Dark AngelGuard:AllStartup:7+18Recovery:10Advantage:. 
+In almost every situation, this move is out-classed by more meter efficient options. The one legitimate use it does have is off of a j.H fuzzy for a meter dump of unburstable damage early in the combo.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3×8
+6×8
+3
+
+
+Venom is in CH state 1~69F
+Chip damage x2
+Balls disappear if Venom gets hit
+Balls fire in 8F intervals
+
+Tactical Arch
+632146X
+
+
+
+
+
+
+
+P Arch
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+12
+Total Duration 29
+Total 17
+
+
+
+
+
+ Total: 29
+Tactical Arch is a niche and somewhat under-explored overdrive.
+632146X sets 5 inert lightning balls in the formation corresponding to the button used to input the overdrive. This has 2 primary uses: long range chip damage setups, and super-freeze unblockables. The first of these cases is not only very niche, but also tends to be matchup specific, like for the  Justice matchup. The chip damage isn't amazing because Tactical Arch maxes out at 15 hits, compared to Dark Angel's maximum of 28 hits.
+More potently, Tactical Arch is used in super-freeze unblockable setups. This is done by setting a ball, hitting it (typically with 5P or 5K), and then activating Tactical Arch. Venom's projectiles will continue to travel during super freeze. This means that if the opponent is not already blocking when the super-freeze triggers they will get hit by any projectile that moved into them before the end of the super-freeze.
+Notably, even though Tactical Arch's projectiles are created by a super they do not inherit super properties and, as such, do not lock out burst.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Creates 5 Lightning Balls in formation depending on what button is pressed
+Balls appear during superflash, on frame 13
+Accepts formation changes until 28F
+
+Instant Kill
+Dimmu Borgir
+During IK Mode: 236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 26-28
+
+
+
+
+
+
+Frames 29-31
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Fatal
+All
+15+11
+6
+33
+-20
+1~19F Strike
+
+
+
+ Total: 64
+Like most Instant Kills in +R, This move is rarely seen in competitive or serious play.
+With that said, this move does see legitimate use in the  A.B.A match-up. Scoring enough knockdowns to force her into Suka Motion can allow you to safely enter Instant Kill mode. From there, there is sometimes sufficient time to either instant kill her immediately, or bait her into using an attack that you can consistently punish with Dimmu Borgir, for example Danzai, thanks to its invulnerability during startup.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+
+
+
+
+IK Mode activation: 44F
+
+Colors
+
+
+
+
+Default P
+
+
+
+
+
+
+Default K
+
+
+
+
+
+
+Default S
+
+
+
+
+
+
+Default H
+
+
+
+
+
+
+Default D
+
+
+
+
+
+
+EX P
+
+
+
+
+
+
+EX K
+
+
+
+
+
+
+EX S
+
+
+
+
+
+
+EX H
+
+
+
+
+
+
+EX D
+
+
+
+
+
+
+Slash P
+
+
+
+
+
+
+Slash K
+
+
+
+
+
+
+Slash S
+
+
+
+
+
+
+Slash H
+
+
+
+
+
+
+Slash D1
+
+
+
+
+
+
+Reload P
+
+
+
+
+
+
+Reload K
+
+
+
+
+
+
+Reload S
+
+
+
+
+
+
+Reload H
+
+
+
+
+
+
+Reload D1
+
+
+
+
+
+
+
+
+Gold2
+
+
+
+
+
+
+Shadow2
+
+
+
+
+To select your color, press the corresponding button while in the designated "color set". Color sets can be toggled through by hitting the Respect button.
+
+Only selectable on the Arcade and PC-Rollback versions of the game.
+Available on home ports, and are selected by pressing the Rec. Enemy button on the Slash or Reload color sets, respectively. Gold characters are powered up versions, Shadow characters have infinite tension. Both are banned from tournament play.
+
+
+Navigation
+To edit frame data, edit values in GGACR/Venom/Data.
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR/Venom&oldid=378495"
+
+
+
+
+
+Contents
+
+
+
+Back to top
+
+Contents
+
+
+
+
+
+1
+						Overview
+					
+
+
+
+
+
+
+1.1
+					Pros And Cons
+				
+
+
+
+ 
+
+
+
+1.2
+					Unique Mechanics
+				
+
+
+
+
+
+
+1.2.1
+					Balls
+				
+
+
+
+ 
+ 
+
+
+
+1.3
+					Starter Guide
+				
+
+
+
+ 
+ 
+
+
+
+2
+						Normal Moves
+					
+
+
+
+
+
+
+2.1
+5P
+
+
+
+
+ 
+
+
+
+2.2
+5K
+
+
+
+
+ 
+
+
+
+2.3
+c.S
+
+
+
+
+ 
+
+
+
+2.4
+f.S
+
+
+
+
+ 
+
+
+
+2.5
+5H
+
+
+
+
+ 
+
+
+
+2.6
+5D
+
+
+
+
+ 
+
+
+
+2.7
+6P
+
+
+
+
+ 
+
+
+
+2.8
+6K
+
+
+
+
+ 
+
+
+
+2.9
+6H
+
+
+
+
+ 
+
+
+
+2.10
+2P
+
+
+
+
+ 
+
+
+
+2.11
+2K
+
+
+
+
+ 
+
+
+
+2.12
+2S
+
+
+
+
+ 
+
+
+
+2.13
+2H
+
+
+
+
+ 
+
+
+
+2.14
+2D
+
+
+
+
+ 
+
+
+
+2.15
+j.P
+
+
+
+
+ 
+
+
+
+2.16
+j.K
+
+
+
+
+ 
+
+
+
+2.17
+j.S
+
+
+
+
+ 
+
+
+
+2.18
+j.H
+
+
+
+
+ 
+
+
+
+2.19
+j.D
+
+
+
+
+ 
+ 
+
+
+
+3
+						Universal Mechanics
+					
+
+
+
+
+
+
+3.1
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+3.2
+					Air Throw
+				
+
+
+
+ 
+
+
+
+3.3
+					Dead Angle Attack
+				
+
+
+
+ 
+ 
+
+
+
+4
+						Special Moves
+					
+
+
+
+
+
+
+4.1
+					Summoning Ball
+				
+
+
+
+ 
+
+
+
+4.2
+					Stinger Aim
+				
+
+
+
+ 
+
+
+
+4.3
+					Enhanced Stinger Aim
+				
+
+
+
+ 
+
+
+
+4.4
+					Carcass Raid
+				
+
+
+
+ 
+
+
+
+4.5
+					Enhanced Carcass Raid
+				
+
+
+
+ 
+
+
+
+4.6
+					Feint
+				
+
+
+
+ 
+
+
+
+4.7
+					Dubious Curve
+				
+
+
+
+ 
+
+
+
+4.8
+					Double Head Morbid
+				
+
+
+
+ 
+
+
+
+4.9
+					Mad Struggle
+				
+
+
+
+ 
+
+
+
+4.10
+					Teleport
+				
+
+
+
+ 
+ 
+
+
+
+5
+						Balls
+					
+
+
+
+
+
+
+5.1
+					Active Balls
+				
+
+
+
+ 
+
+
+
+5.2
+					Ball Formations
+				
+
+
+
+ 
+ 
+
+
+
+6
+						Force Breaks
+					
+
+
+
+
+
+
+6.1
+					FB Stinger Aim
+				
+
+
+
+ 
+
+
+
+6.2
+					FB Carcass Raid
+				
+
+
+
+ 
+
+
+
+6.3
+					FB Double Head Morbid
+				
+
+
+
+ 
+
+
+
+6.4
+					FB Mad Struggle
+				
+
+
+
+ 
+ 
+
+
+
+7
+						Overdrives
+					
+
+
+
+
+
+
+7.1
+					Dark Angel
+				
+
+
+
+ 
+
+
+
+7.2
+					Red Hail
+				
+
+
+
+ 
+
+
+
+7.3
+					Tactical Arch
+				
+
+
+
+ 
+ 
+
+
+
+8
+						Instant Kill
+					
+
+
+
+
+
+
+8.1
+					Dimmu Borgir
+				
+
+
+
+ 
+ 
+
+
+
+9
+						Colors
+					
+
+
+
+ 
+
+
+
+10
+						Navigation
+					
+
+
+
+ 
+
+
+
+Categories: Pages using Tabber parser tagGuilty Gear XX Accent Core + R
+
+
+Last modified
+ This page was last edited on 8 March 2023, at 05:23.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+
+

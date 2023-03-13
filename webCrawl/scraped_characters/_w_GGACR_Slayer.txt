@@ -1,0 +1,4360 @@
+
+
+
+
+GGACR - Slayer Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle search
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+ 
+
+
+
+
+
+
+
+
+		8.5K
+	
+
+
+		30.8K
+	
+
+
+		2.7K
+	
+
+
+		363K
+	
+
+Dustloop Wiki
+
+
+
+
+
+General Topics
+
+ Main pageNotationGlossaryDustloop DiscordSpecial pagesUpload file
+
+
+
+Games
+
+Battle FantasiaBlazBlue Cross Tag BattleBlazBlue: Central FictionDNF DuelDragon Ball FighterZGranblue Fantasy VersusGuilty Gear -Strive-Guilty Gear Xrd REV 2Guilty Gear XX Accent Core +RGuilty Gear: The Missing LinkHokuto no KenPersona 4: Arena Ultimax Remaster
+
+
+
+Other Games
+
+Guilty Gear 2 -Overture-King's Field 4
+
+
+
+Wiki Editing
+
+MediaWiki HelpGetting StartedBest Practices of DustloopWriting Character PagesCreating Images and VideosWriting System PagesEditing Frame DataUseful Tools & Templates
+
+
+
+Meta
+
+Community portalCurrent events Recent changes Random page
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Toggle personal menu
+
+
+
+
+ 
+Not logged in
+
+
+
+
+
+
+ Create account Log in
+
+
+ 
+
+
+
+
+
+
+
+
+
+GGACR/Slayer
+
+ 
+From Dustloop Wiki
+
+
+
+
+ Read View source View history
+
+
+ Page Discussion
+
+
+
+
+
+More actions
+
+
+
+
+
+
+
+Tools
+
+ What links here Related changes Printable version Permanent link Page information Page values Create Redirect
+
+
+
+
+ 
+
+< GGACR
+
+Overview
+
+
+Overview
+Starter Guide
+Combos
+Frame Data
+
+
+Matchups
+Strategy
+Resources
+
+
+
+
+Overview
+Slayer is a read-heavy character who scores obscene levels of damage off of counter hits, which he can set using great conditioning tools once he gets into range. Solid whiff punishes, great juking tools, Backdash Cancel (BDC), and his overall high strength at mid to close range make Slayer a menace once he really gets into the opponent's head. In particular, BDC allows Slayer to transfer the invincibility from his back (or forward) teleport dashes into his special moves. Not only does this give his offense additional prowess, it also allows him to circumvent blocking with one very powerful defensive tool.
+Slayer spends meter well, too: his supers are all very powerful and either start or extend combos, and his Force Breaks like Big Bang UpperGuard:MidStartup:10Recovery:35Advantage:-22 (236D) and FB PilebunkerGuard:MidStartup:3Recovery:31Advantage:-3 (Dandy Step > D) are terrifying threats in neutral or pressure.  It's common to get more than 60% damage from a single combo if the starter is good.
+On the flip side, Slayer has limited gatlings as opposed to the rest of the cast, and is a bit reliant on links for real conversions. Lacking a run or a projectile, his mobility is more restricted than other characters and he has trouble dealing with zoning, and can easily eat it just as bad as he deals it if he makes a poor move. BDC can take quite a bit of time to perform consistently, and each of his special moves has a different use when combined with BDC.
+Slayer can be a make-or-break character, but his strengths are truly frightening, and one good read can give him the chance to end a round.
+
+
+
+
+
+
+Damage Received Mod
+x0.96
+Guts Rating
+2/5
+Gravity Mod
+x1
+Stun Resistance
+70
+Prejump
+4F
+Backdash
+28F (1~19F Full Invuln)
+Forwards Dash
+18F (5~14F strike invuln, 8~13F throw invuln)
+Wakeup Timing
+54F (Face Up)/ 48F (Face Down)
+Number of Jumps:
+2
+Number of Air Dashes:
+1
+Unique Movement Options
+Teleport Dash
+Fastest Attack
+2P (4F)
+Reversals
+236236H (7F)
+
+
+
+
+
+
+ Slayer is a close-range infighter who baits opponents into responses before brutally responding with high-damage combos and strong vortex pressure.
+
+
+
+Pros
+Cons
+
+
+High Damage and Stun: Slayer gets very high damage output from any of his confirms or singular attacks. If Slayer gets a counter hit or has meter to burn, he can skyrocket his damage to truly ludicrous heights and potentially earn a stun.
+Backdash Cancel (BDC): Slayer can combine his backwards teleport with his special moves to give them partial invulnerability, letting him do things like circumvent blocking, approach while invulnerable and frame trap opponents effectively.
+Excellent Buttons:  He has fantastic pokes in 5K and 2K, great anti airs in 6P and 2S, and many ways to reset pressure such as with 6K and c.S.
+Great Pressure: Slayer has very strong pressure with many ways to reset and punish opponents on a good read. After conditioning them to sit still, Slayer can open them back up with his fast command grabGuard:92 pixelsStartup:7Recovery:29Advantage: and crossup teleport dashGuard:Startup:Recovery:Total 30Advantage:.
+Whiff Punish God: Dandy Step followups, very rewarding counterhit buttons and incredibly strong overdrives all can effectively lay the hurt on a single punish.
+Meter Burn: DOTGuard:AllStartup:7+1Recovery:31+21 after landingAdvantage:-43, Eternal WingsGuard:MidStartup:5+2Recovery:36+7 after landingAdvantage:-42, and DHDGuard:Mid [All]Startup:7+2Recovery:20 after landingAdvantage: all lead to substantial damage and have incredible reach. 236DGuard:MidStartup:10Recovery:35Advantage:-22 is a great move for combo starting or filling, while FB PilebunkerGuard:MidStartup:3Recovery:31Advantage:-3 wallsticks on hit for massive damage followups.
+
+
+Limited Mobility: A tall hurtbox, teleport dash, and short airdash means Slayer needs to juke around his opponents defenses to get in. His reliance on a physical approach also makes him weak against zoners.
+Limited Grounded Gatlings: Slayer is somewhat unique in that his grounded normals delay gatling into each other via links. As a result, much of Slayer's pressure and combos revolve around links, which can be tricky to execute in the heat of the moment.
+Counter Hit or Resource Dependent: While Slayer can vortex his opponents very well, his signature large damage potential relies on either having a good meter bank or a big counterhit to work with.
+Patient Workarounds: Most of his tools can easily be low-profiled, on top of some tools being unsafe if used haphazardly due to having obvious reactionary answers.
+
+
+
+
+Unique Mechanics
+
+Teleport Dashes & Backdash Cancel
+Slayer's forward dash and backdash take the form of short-range teleports. These teleports transport him a fixed distance and have lots of invulnerability frames, which gives Slayer unique methods of moving around his opponent's attacks. Slayer can still airdash normally, however.
+As an added function, Slayer can jump in the middle of a teleport, which immediately exits it while keeping the invulnerability frames. With quick timing, Slayer can even Tiger KneeAn input method to perform a special move in the air as fast as possible after you leave the ground. Almost always abbreviated to TK. For Example: 2369 for a j.236 input. certain special moves to transfer them some of the invulnerability. Slayers backdash is fully invulnerable for 19 frames, which makes it very easy for Slayer to give any of his special moves large periods of invulnerability on their startup. This is called Backdash Cancelling by the community, and is a very powerful tool for Slayer to use. Correctly performing this allows Slayer to dramatically increase the whiff-punishment qualities of certain moves, reversal out of bad situations, or frame trap his opponents. 
+More information on performing this technique can be found on the Strategy page.
+
+
+Starter Guide
+
+ Starter Guide
+Need help getting started? Go to this page for information targeted at new players. It covers easy combos, key moves, and what to do after you knock the opponent down.
+
+
+
+
+
+StartupThe time before an attack is active including the first active frame. For example, an attack with 10F startup means the attack will do nothing for 9 frames, then hit the opponent on the 10th frame. frames
+
+
+
+ActiveThe active frames of an attack refers to the amount of time an attack can hit the opponent. Frames
+
+
+
+InactiveFrames in the middle of multi-hit attacks which cannot hit the opponent, but are after the move has become active at least once. Frames
+
+
+
+RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before he may perform another action, even blocking. Frames
+
+
+
+Special RecoveryThe recovery of an attack refers to the amount of time an attacker must wait before they may perform another action.Recovery frames which happen under abnormal conditions, such as after landing. Frames
+
+
+
+ProjectileIndicates an entity that exists separately from the character was spawned. Usually something like a FireballA projectile which usually travels slowly across the screen in a horizontal path above the ground.. Spawn.
+
+
+
+CancelA window in which to cancel a move. Can be varied in usage. Window
+
+Normal Moves
+5P
+
+Tabber requires Javascript to function. 
+
+
+
+
+A first gentleman's jab
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+16
+Mid
+5
+4
+4
++2
+
+
+
+
+ Total: 12
+Very fast and disjointed anti-air with quick recovery. Works well in a pinch.
+Not very useful in pressure since it whiffs on most crouching opponents. However its jump cancellable with good untech time allowing routing into Slayer's air combos or rejumping to extend a combo.
+
++7 on hit
+All gatlings except 6P and 5D are delay gatlings.
+Gatling Options: 5P, 2P, 6P, 5K, 2K, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+7
+1
+
+
+Untechable on CH for 16F
+Can gatling from 10~12F
+
+5K
+
+Tabber requires Javascript to function. 
+
+
+
+
+The kick that starts it all
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22
+Mid
+6
+3
+8
++1
+
+
+
+
+ Total: 16
+An incredible poke with great frame data and cancels.
+
++7 on hit
+Good range and speed, making it work well as a punish.
+Good starter with a wide range of combo options.
+Plus on block along with jump and special cancels to keep the pressure going.
+No meterless KD at max range w/o meter (5K > 2D exists but is too hard/spacing dependent to be reliable).
+Vulnerable to low profile.
+5K links into itself on hit, links into 2K, and can cancel into Mappa for meterless combos. FB Dandy > CWH, and DoT are good metered options out of 5K.
+Gatling Options: 6P, 6K, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+6
+6
+2
+
+
+Untechable on CH for 20F (※1)
+
+c.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Your best friend number 1
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-10
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Mid
+7
+4
+10
+0
+
+
+
+
+ Total: 20
+A normal more used for its flexibility than its speed, it is useful in combos and pressure with a decent hitbox.
+
++7 on hit
+Pushback is minor, allowing for bite setup, frame traps etc.
+Gatlings into f.S for a frame trap which is plus on block.
+Good throw option-select.
+Poor recovery.
+Vulnerable to low profile.
+For combos, you most of the time want to gatling into f.S and link from there, but c.S has deceptively long hitstun, allowing links into 5K and 2K on hit. c.S also has standing/character specific combos with (standing) c.s > j.D > j.214214S or (character specific) c.S > j.H > j.2K, and an unexpected combo in c.S > P Dandy > Pilebunker.
+Gatling Options: f.S, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+6
+3
+
+
+Untechable on CH for 22F (※1)
+
+f.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Your best friend number 2
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+30
+Mid
+13
+2
+8
++4
+
+
+
+
+ Total: 22
+More likely to be combo/blockstring fodder than used by itself as it's less of a poke than his other buttons. Watch out for Slayers that throw this out from full screen, that is a misinput Dead on Time.
+
++7 on hit
+Plus on block.
+Slow startup, can be mashed out of.
+Vulnerable to low profile
+Links to c.S when in range for big damage BNB, but it's very difficult on a standing opponent (easier on crouch). You generally want to combo into 5K or 2K and go from there. It is also used after c.S on airborne opponents that are heavy or low to the ground to raise their height. 
+Gatling Options: 6K, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+6
+3
+
+
+
+5H
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Dandy Haymaker
+
+
+
+
+
+ 
+
+
+
+
+Frames 13-14
+
+
+
+
+
+
+Frames 15-17
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+45
+Mid
+13
+5
+18
+-4
+
+
+
+
+ Total: 35
+5H is a big damage normal that is mostly used in combos. Occasionally, it works well as a hard call-out on backdashes due to the active frames and ground slide on air hit, allowing it to start strong follow-up combos.
+
+Jump cancellable even in recovery frames, allowing for delay special cancels with a TK.
+Hitbox starts high and goes all the way to the ground, hitting high and low profile alike.
+Although minus on block, it can gatling to 2D/2H, or special cancel to continue pressure.
+Can Anti-Air opponents in strange situations (Ky cross-up Greed Sever, Anji's stomp, etc.).
+Big startup, opponents can jump out of pressure when not conditioned.
+Has a lot of pushback on hit or block, making some cancels not connect depending on the spacing.
+You can convert from the slide back to an air combo by connecting another move before the slide ends. When further away, 5H > 2H is a common conversion. When deep in the corner, 5H > Undertow is the higher damage option vs. an airborne opponent. 5H > K Mappa can sometimes hit, allowing for followups after K mappa. 5H > BBU will almost always work if you are in range, and 5H > FB Dandy > CWH can also pick up.
+
+Gatling Options: 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+
+5D
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+5D
+22
+High
+24
+3
+20
+-9
+
+
+
+5[D]
+
+
+
+
+Total 34
+
+
+
+
+
+ Total: 46
+Universal overhead. Leads into strong combos with impossible dust, but it's slow, short-ranged, and unsafe on block. It can be feinted by holding down [D], opening up some gimmicky mixups with a low or throw.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+5D
+N/A
+
+8
+20
+3
+
+
+5[D]
+N/A
+
+
+
+
+
+
+5D:
+
+Hold D until 22F to get Feint
+5[D]:
+
+Can cancel to 2K or 2D on last frame
+
+6P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Lets you Anti-Air the floor
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+45
+Mid
+18
+6
+14
+-1
+1~6F Upper Body7~23F Above Knees
+
+
+
+ Total: 37
+Invincible above the knees making it great at anti-airing instant air dashes. The good active frames and amazing upper body invincibility make 6P an amazing counter poke that people can kill themselves on. 
+
+Untechable on counterhit; leads to big combos almost everywhere on the screen.
+Very active, helping it as an anti-air and counter poke, along with being able to bait backdashes on wakeup.
+Tons of upper body invincibility allowing it to counter poke through many different attacks.
+Has an FRC point right at the start of the active frames, allowing for high damage corner combos.
+Slow to startup and slow to low-profile.
+Has no cancels outside of an FRC point.
+On hit it wall bounces allowing for air conversions in the corner with 2P and 5K. On counter hit it can be converted into 5H > Undertow for big combos in the corner. With FRC, you can get 6H > 5H/IAD/P Dandy > FB Pilebunker. Counter hit midscreen it can go into IAD j.H or 6H for powerful corner carry.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+18~20F
+90%
+20
+6
+5
+
+
+
+6K
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Heel Drop with low crush
+
+
+
+
+
+ 
+
+
+
+
+Frames 21-22
+
+
+
+
+
+
+Frames 23-25
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+6K
+22
+High/Air
+21
+5
+1+3 after landing
++5
+8~21F Lower Body
+
+
+6[K]
+
+
+
+
+Total 24+3 after landing
+
+8~24F Feet
+
+
+
+ Total: 29
+Tricky overhead that is surprisingly fast along with being very plus on block.
+
+Can be Feinted by holding down K.
+Goes over many lows.
+It can be gatling'd into from f.S, 5K, and 2S allowing a surprising mixup.
+6K has so little recovery it can be used as a safejump against some characters' reversals if done meaty.
+Can convert into knockdown midscreen or big combos in the corner with meter.
+Airborne move that can be airthrown by perceptive opponents.
+Has no cancels.
+Slow startup for a pressure reset, but fast startup for an overhead.
+On hit you can convert into 5K or 2K and go from there. In the corner you can get big damage crouch confirms with 6K > 5K > 6P FRC > 6H etc.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+6K
+N/A
+90%
+8
+7
+3
+
+
+6[K]
+N/A
+
+
+
+
+
+
+6K:
+
+Slayer is airborne 8~24F
+Hold K until 11F to get Feint
+6[K]:
+
+Slayer is airborne 8~24F
+
+6H
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Heel Drop that just hurts a lot
+
+
+
+
+
+ 
+
+
+
+
+Frames 21-23
+
+
+
+
+
+
+Frames 24-26
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+Mid
+21
+6
+13
++0
+
+
+
+
+ Total: 39
+A slow, preemptive anti-air/frame trap that allows for big damage conversions, or tight pressure resets. 
+
++6 on hit
+Causes ground bounce on air hit.
+Situational low crush, as Slayer lifts his front leg out of the way.
+Hilariously high damage potential.
+Jump and special cancelable with a lot of blockstun and hitstun.
+Moves Slayer forward.
+Slow startup and long recovery on whiff.
+Vulnerable to low-profile.
+On air hit midscreen you can convert into IAD  > delayed j.K > 5P/c.S/2S for a rejump, and in the corner you can convert into 5H > Undertow/IAD > delayed j.K > 5H > Undertow/P Dandy > FB Pilebunker. Grounded hit can convert into P Dandy > Crosswise Heel, and grounded Counter hit allows IAD > j.H/j.K to connect.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+17~18F
+
+20
+6
+5
+
+
+Hits crouching opponents on 24F (tested on Sol)
+
+2P
+
+Tabber requires Javascript to function. 
+
+
+
+
+Privileged, quick jab...?
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+14
+Mid
+4
+2
+5
++3
+
+
+
+
+ Total: 10
+A fast crouching jab with surprising range while also being plus on block, 2P is your go to mash button out of pressure. 
+
++7 on hit
+Fast startup and recovery.
+Can be safe to reversals if done meaty.
+Not special or jump cancelable.
+Vulnerable to low profile.
+2P has enough untech that it links into 2S and Big Bang Upper on air hit. It also links into 2K and 5K on ground hit allowing for knockdown conversions.
+Gatling Options: 5P, 2P, 6P, 5D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+7
+1
+
+
+Untechable on CH for 18F
+Can gatling from 9~10F
+
+2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Pretty good range for 2K
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+18
+Low
+6
+2
+11
+-1
+3~4F, 12~15F Feet
+
+
+
+ Total: 18
+Your go-to low option with a variety of delay gatlings for pressure and combo conversions. A critical tool in Slayer's combo game as it allows most hits to route into knockdown meterless.
+
++6 on hit
+Fast startup and decent recovery.
+Slight evasive properties.
+Low damage combo starter.
+Relatively short range.
+No special cancels.
+Your main combo after 2K is to delay gatling into 2H/2S > 2D. 2S is easier to combo and has better properties on block, but 2H combos at any range 2K hits, and can be easily converted into BBU. You can also link 2K into itself and 5K, allowing for slightly stronger confirms.
+Delay Gatling Options: 2S, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+90%
+5
+7
+2
+
+
+Can gatling from 11~14F
+
+2S
+
+Tabber requires Javascript to function. 
+
+
+
+
+Don't jump at Slayer
+
+
+
+
+
+ 
+
+
+
+
+Frames 8-9
+
+
+
+
+
+
+Frames 10-13
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+32
+Mid
+8
+6
+15
+-7
+5~9F Upper Body
+
+
+
+ Total: 28
+Anti-air option for opponents trying to float above you. Very untechable on counterhit and can lead into enormous damage.
+On a normal air hit you want to make sure you jump cancel into your air button right away so they don't tech out. On air counter hit you can get many different conversions, but most common is IAD > delay j.K into a re-jump with 5P/c.S/2S. On ground hit you will mostly delay gatling into 2D for knockdown, but you can also cancel into DoT for big damage with meter.
+
+Hits farther horizontally than you might think.
+Special and jump cancelable.
+Delay Gatling Options: 6K, 2H, 5D, 2D
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+6
+3
+
+
+Untechable for 44F on air CH
+Can gatling from 11~18F
+
+2H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+42
+Low
+13
+2
+22
+-5
+5~14F Below Knees
+
+
+
+ Total: 36
+Long range low-crush that causes stagger on hit. 
+
+Hits behind Slayer and has good range.
+Dodges lows like crazy.
+Launches opponent into the air and pulls them toward you if they are sliding.
+Relatively slow.
+Long recovery and no cancel options.
+Links into 2D and BBU on ground hit, and on air hit/sliding hit links into j.K/j.S/j.D/BBU.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 80%
+15
+15
+5
+
+
+Pulls in opponent on air hit
+Dizzy modifier x0.25
+Stagger lasts for max 49F
+
+2D
+
+Tabber requires Javascript to function. 
+
+
+
+
+Every FG has that one character with it
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8, 12-13, 16-17
+
+
+
+
+
+
+Frames 9-11, 14-15, 18-19
+
+
+
+
+
+
+Frames 20-21
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+34
+Low
+7
+15
+12
+-8
+
+
+
+
+ Total: 33
+Slayer's main knockdown tool for grounded opponents. 
+Fast startup, good range and very long active frames. Good for calling out backdashes, stopping people from dashing into you, or winning against partially invulnerable moves (e.g. Dandy Step, Fuujin). No cancel options, but safe on block when properly spaced.
+Grounded hit will be a knockdown ender. You can RC into 5H if you really want a combo off of 2D. 2D also leads into air combos on late hits or counter hit with 2D > 2P > 5P/BBU etc.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+15
+6
+5
+
+
+Untechable on CH for 76F (※1)
+
+j.P
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+10
+High/Air
+5
+3
+7
+
+
+
+
+
+ Total: 14
+Overall, a really good air button. Can be used to bait bursts and raising Slayer's hurtbox from jump and BDC jumps.
+BDC 9j.PPP is a good way to stop jump out attempts from the corner. 
+Most of the times you use this in combos as j.PK to help with combo stability on some characters.
+Gatling Options: j.P, j.K
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+3
+8
+1
+
+
+Untechable on CH for 16F
+
+j.K
+
+Tabber requires Javascript to function. 
+
+
+
+
+Basically an air-to-air missile
+
+
+
+
+
+ 
+
+
+
+
+Frames 6-8
+
+
+
+
+
+
+Frames 9-10
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22
+High/Air
+6
+5
+6
+
+
+
+
+
+ Total: 16
+Amazing all-purpose air normal. Extremely low recovery; very easy to use.
+
+Fast startup and extremely low recovery for an air normal.
+Great hitbox and range.
+Decent damage, and with good planning can set up high-damage 5H combos.
+Not much for downward hitbox.
+Middling damage by itself.
+Links into every air button (including itself) except j.H, and combos into j.H with a double jump.
+Gatling Options: j.2K
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+7
+3
+
+
+Untechable on CH for 24F (※1)
+
+j.2K
+
+Tabber requires Javascript to function. 
+
+
+
+
+The flip that extends combos
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+22
+High/Air
+13
+3
+16
+
+
+
+
+
+ Total: 31
+An extremely versatile air-combo tool. +14 on air hit, so it links into every one of Slayer's air combo buttons, and kicks opponents upwards. Every air normal has a gatling into j.2K.
+
+Moves Slayer forward and stabilizes air combos.
+Can be used to stall in the air to throw off anti-air timings.
+Has a lot of GB-, meaning it scales down combo damage very quickly.
+Slow, bad on whiff, and easy to anti-air due to it extending Slayer's hitbox downwards.
+Links into everything, and delay-links into j.K for some cool re-jump combos. Optimal combos usually try to avoid j.2K where they can due to its poor scaling, but its ability to re-jump can not be understated.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+15
+3
+
+
+Untechable on CH for 44F (※1)
+
+j.S
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Frames 3-4
+
+
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 13-14
+
+
+
+
+
+
+Frames 17-18
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+16×4
+High/Air
+3
+2(2)2(4)2(2)2
+6
+
+
+
+
+
+ Total: 24
+Not actually a 3F normal because the first active is on his back leg. For all effects and purposes is a 7F normal. Jump cancelleable on 3rd and 4th hits.
+
+Vacuum effect on air hit; standardizes combo situations well.
+Easy confirms into j.214214S.
+Multihits.
+Fast and reaches low.
+Gives worse damage than j.K in air combos.
+Inconsistent behavior in combos.
+Long counterhit state.
+Links into j.K, j.S, and j.D in air combos. 
+Gatling Options: j.2K
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8×4
+6×4
+3
+
+
+Pulls in opponent on hit
+Untechable on CH for 22F (※1)
+Can jump cancel from 13F onwards
+Order of hits is (back hit, forward hit)×2, forward hit startup is 7F
+
+j.H
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+36
+High/Air
+14
+5
+7
+
+
+
+
+
+ Total: 25
+Slayer's first big-damage air button. Strong air-to-ground option, that is risky to anti-air; causes ground bounce on counter-hit.
+
+Large downward hitbox that stays active for a good amount of time.
+High damage and stun potential on counter hit.
+High damage if used in combos.
+Slow startup. Can be stuffed by faster moves, air throws, and the like if not timed right.
+Harder to route into in combos than all his other buttons.
+Links into every other air move on hit. On an air-to-ground counter hit you generally have enough time to link into 6H and go from there. If you aren't ready for the counter hit, c.S is a pretty good pickup as well due to it linking on normal hit.
+Gatling Options: j.2K
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+80%
+8
+6
+3
+
+
+Ground bounces on CH (untechable for 60F) (※1)
+
+j.D
+
+Tabber requires Javascript to function. 
+
+
+
+
+The aerial knockdown WMD
+
+
+
+
+
+ 
+
+
+
+
+Frames 7-8
+
+
+
+
+
+
+Frames 9-11
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+40
+High/Air
+7
+5
+19+5 after landing
+
+
+
+
+
+ Total: 35
+Slayer's second big-damage air button, and his main knockdown tool for air combos. 
+
+Very fast for how deep it hits.
+Causes stagger on Counter Hit.
+High damage if used in combos.
+Gives Slayer landing recovery, which makes it worse as an air-to-ground move, but it can be canceled into Footloose to make it safe.
+Long recovery.
+Gatlings into j.2K, which gives combo extensions when j.D is done while falling from high enough. j.D > j.2K > j.K is the foundation of many of Slayer's rejump combos, and j.D > j.2K > j.D does quite good damage.
+Gatling Options: j.2K
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+8
+6
+3
+
+
+Slams down opponent on air hit
+Staggers on ground CH (max 35F)
+
+Universal Mechanics
+Ground Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+52
+49 pixels
+
+
+
+
+
+
+
+
+Chunky damage throw. Not actually a very good knockdown.
+Mixing up between a real okizeme (has to be blocked) with c.S/2K and fake okizeme (can be escaped) like crossup c.S or 6K is really important to make your throw knockdown valuable despite it sucking. Due to wakeup timings, you are at least +10 (JU) and at most +20 (ZA) allowing different moves to be a real meaty.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+6, 7
+
+
+
+
+Air Throw
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+88 pixels
+
+
+
+
+
+
+
+
+Untechable air throw. Knocks down right in front of Slayer for crossup shenanigans, no means of converting otherwise.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 50%
+
+6
+
+
+
+
+Dead Angle Attack
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+25
+All
+18
+6
+17
+-9
+1~23F All24~36F Throw
+
+
+
+ Total: 40
+Extremely slow, unsafe Dead Angle.
+
+Has a good amount of invul.
+Can link into 2P on CH against corner.
+Generally weaker than all of Slayer's other reversal options.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+50%
+10
+7
+3
+
+
+
+Special Moves
+Mappa Hunch
+236P or 236K (Hold OK)
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+236P
+40
+Mid
+11
+3
+17
+-1
+
+
+
+236K
+40
+Mid
+14
+6
+16
+-3
+
+
+
+236[P]
+
+
+
+
+Total 23
+
+
+
+
+236[K]
+
+
+
+
+Total 27
+
+
+
+
+
+ Total: 30
+ Total: 35
+P version is an essential harassment tool with a bad hitbox and subpar reward on hit. 
+
+Quickly covers some horizontal space. Very short.
+Slayer's fastest meterless backdash-cancel option.
+Links into 2P or 5K on air hit. Links into BBU on counter hit.
+Generally fairly safe unless you end up point blank.
+BDC P Mappa (442369P) is amazing at harrasing opponents in pressure with it's quick startup, decent range, and invul transfer from the backdash. FDC P Mappa (662369P) can function as an in-between of K and P Mappa Hunch with the useful invincibility from forward dash.
+
+
+K version is the farther reaching punch with the same poor hitbox and reward on hit. Good for covering distance.
+
+Quickly covers good horizontal space.
+Converts into the same options as the P version
+Punishable on instant block or against characters with 3F normals, but properly spaced you can make this up to +2.
+BDC K Mappa (442369K) is great at going through pokes at farther range, or even going through projectiles in some occasions. FDC K Mappa (662369K) can cover near fullscreen distance, and the invincibility from forward dash can be used to go through projectiles and pokes as well.
+
+
+Feint Mappa is usually used for throw mixups or to get in on an opponent too scared to challenge.
+P version comes with short range, but can carry some momentum. K is good for getting in against overly respectful opponents.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+236P
+N/A
+
+20
+6
+5
+
+
+236K
+N/A
+
+20
+6
+5
+
+
+236[P]
+N/A
+
+
+
+
+
+
+236[K]
+N/A
+
+
+
+
+
+
+236P:
+
+Hold P until 10F to get Feint
+236K:
+
+Hold K until 11F to get Feint
+236[P]:
+
+Slayer is in CH state during move
+236[K]:
+
+Slayer is in CH state during move
+
+P/K Dandy Step
+214P or 214K
+
+
+
+
+
+
+
+A great way to start things up
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+214P
+
+
+
+
+Total 30
+
+1~3F Strike
+
+
+214K
+
+
+
+
+Total 38
+
+1~6F Strike
+
+
+
+P Dandy moves back and then forward. Moves slightly forward from the initial position. 
+
+Has a small amount of startup invincibility to make small moves whiff with.
+Has a FRC point that leaves you far.
+Varied followups that work well depending on the situation.
+BDC P Dandy (442147P) is great at beating short to mid range pokes, since the BDC will allow you to do follow ups at farther ranges backward than if you didn't BDC. FDC P Dandy (662147P) is useful as a pseudo reset or tricky movement option with decent invincibility throughout.
+
+
+K Dandy moves significantly forward from the initial position. 
+
+Has a 6F of startup invincibility to make larger moves whiff with.
+Has a FRC point that leaves you even further away.
+Varied followups that work well depending on the situation.
+BDC K Dandy (442147K) is used when you really want to make something big whiff, the momentum from K Dandy carries you back to where you started though, so beware. FDC K Dandy (662147K) is also useful as a pseudo reset and a tricky movement option with a bit more invincibility and range.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+214P
+9~12F
+
+
+
+
+
+
+214K
+15~18F
+
+
+
+
+
+
+214P:
+
+Can cancel into followups from 16F onwards
+214K:
+
+Can cancel into followups from 20F onwards
+
+S/H Dandy Step
+214S or 214H
+
+
+
+
+
+
+
+Just play around with it
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+214S
+
+
+
+
+Total 30
+
+6~13F Above Knees14~17F Upper Body
+
+
+214H
+
+
+
+
+Total 40
+
+15~22F Above Knees23~27F Upper Body
+
+
+
+S Dandy moves forward and then faces the opposite direction. 
+
+Good for crossing up.
+Slayer's hitbox becomes very wide during the motion blur part of the animation.
+On it's own, S Dandy is useful as a surprising crossup or to go through projectiles. BDC (21447S) can give it some start up invincibility, and FDC (662147S) can give it a bit more range.
+
+
+H Dandy's distance and startup compared to S-Dandy increased. 
+
+Good for escaping the corner or doing dumb things.
+A crucial tool in some matchups to go around projectiles
+BDC H Dandy (21447H) helps cover it's long start up with some invincibility. FDC H Dandy (66214H) goes almost fullscreen, giving a different approach to neutral.
+
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+214S
+N/A
+
+
+
+
+
+
+214H
+N/A
+
+
+
+
+
+
+214S:
+
+Can pass through opponent from 10~16F
+Can cancel into followups from 22F onwards
+Slayer is in CH state during move
+214H:
+
+Can pass through opponent from 19~26F
+Can cancel into followups from 32F onwards
+Slayer is in CH state during move
+
+Pilebunker
+Dandy Step > P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+The Money Maker
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+80
+Mid
+3
+3
+33
+-17
+
+
+
+
+ Total: 38
+Big, stupid backswing blow that has an enormous hitbox and does a hefty amount of damage. 
+Fast, huge move meant to fish for counter hits, but converts on normal hit with corner/meter. Leads to big damage even if somewhat inconsistent. High risk/reward can encourage irresponsible decision making. Use wisely.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+Forced 80%
+20
+10
+5
+
+
+Wall sticks on CH (untechable for 100F, sticks for 37F)
+Dizzy modifier x0
+
+Crosswise Heel
+Dandy Step > K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+That sideways slash that no one knows where it comes from
+
+
+
+
+
+ 
+
+
+
+
+1st hit (Frame 6)
+
+
+
+
+
+
+1st hit (Frame 7)
+
+
+
+
+
+
+1st hit (Frame 8)
+
+
+
+
+
+
+1st hit (Frame 9)
+
+
+
+
+
+
+2nd hit (Frames 19-25)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+23, 27
+Mid
+6
+4(9)7
+16+5 after landing
+-14
+3~18F Above Feet19~25F Upper Body
+
+
+
+ Total: 46
+Anti-Air followup and combo starter that launches on hit.
+
+Tall hitbox complemented with a high amount of upper body invuln.
+So much so that this becomes a burst safe combo and reset tool.
+Very unsafe, but unaware opponents may not realize that the recovery is most substantial in the air.
+Puts Slayer in Counter Hit state until he lands.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+100%, Forced 85%
+10×2
+7,10
+3
+
+
+Slayer is airborne from 19F onwards
+Slayer is in CH state until landing
+
+Under Pressure
+Dandy Step > S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+36
+Mid
+5
+2
+15
+-3
+
+
+
+
+ Total: 21
+The safe, low-reward option out of Dandy Step.
+
+Staggers on counter-hit.
+Reasonably strong hitbox.
+Cancels to It's Late, for a threat which discourages button pressing.
+Weak to instant block and low low-profile attacks.
+Characters with 3F normals can still punish this and hit between cancels to It's Late if they mash quickly enough.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+10
+7
+3
+
+
+Staggers opponent on ground CH (max 39F)
+Can cancel into It's Late from 8F onwards
+
+It's Late
+Dandy Step > H or Under Pressure > H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Dandy > H
+52
+High
+18
+6
+9
++4
+5~17F Throw
+
+
+Dandy > S > H
+52
+High
+14
+6
+12
++1
+1~13F Throw
+
+
+
+ Total: 32
+ Total: 31
+Fast, plus-on-block overhead with very low recovery.
+
++8 on hit
+Excellent meaty tool due to plus frames.
+Throw invincible, to discourage players mashing throw, but has to hit late since it loses invul on active frames.
+Occasional air combo ender.
+Avoid being predictable with this, as it can easily be reversal'd or backdashed through.
+
+Slightly faster when used after Under Pressure, but is +1 instead.
+
+Still a strong meaty outside throw range due to plus frames or a delayed hit to catch throw with its early throw invul.
+Floor bounces on counter hit, catching players who don't have a fast enough button between this and Under Pressure.
+Again loses to reversals and backdashes, with no real way to bait them other than not doing it.
+
+Version
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+Dandy > H
+N/A
+
+15
+6
+5
+
+
+Dandy > S > H
+N/A
+
+15
+6
+5
+
+
+Dandy > H:
+
+Slides on CH (untechable 60F, slides for 32F)
+Slams down opponent on air hit
+Dandy > S > H:
+
+Groundbounces on CH (untechable for 78F)
+Slams down opponent on air hit
+
+Bloodsucking Universe
+236H
+
+
+
+
+
+
+
+There is no blood effect in AC nor +R
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+55
+92 pixels
+7
+2
+29
+
+
+
+
+
+Fairy slow command throw which steals a bit of life. Comes with the risk of being in CH state during recovery.
+Staggers on hit and will lead to combo/resets against people who don't mash. In case they do it has an FRC point to guarantee conversion. Regains health equal to 75% of damage, will occasionally make Slayer survive one more hit, especially if used at low health.
+BDC Bite (442369H) can be useful as a wakeup reversal, or on oki after a Dandy Step to throw people off with a strike invincible grab. FDC Bite (66236H) is mostly useful during pressure to catch people by surprise from a decent range. If you are too close you might cross up with your forward dash, making 66214H needed to hit the Bite.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+26~27F on hit
+Forced 60%
+
+6
+
+
+
+Slayer gains health equal to 75% of damage dealt to opponent
+Slayer is in CH state during recovery
+Staggers for max 33F
+
+Undertow
+632146P
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+"Guarding is useless", he says, using a move that's no longer unblockable
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+60
+Mid
+28
+3
+13
+-2
+5~28F Armor
+
+
+
+ Total: 43
+Slow super armor attack for 1 hit only. Generally deferred to combos but can be used to open up a masher.
+
+Ground bounces if opponent is airborne/in ground slide.
+Allows for extreme damage if used in combos, mostly out of air hit 5H.
+Can be FRC'd right before it goes active to throw or net a different punish.
+Combos into sj.H > j.D > j.2K > j.K > 5H on counterhit.
+Can be used to counter a burst or dead angle attempt on a hard read.
+BDC (63214469H) can cover the startup of the armor with invincibility, but it's still slow.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+24~27F
+50%
+10
+7
+3
+
+
+Untechable on CH for 62F
+
+Footloose Journey
+j.214K
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Front hitbox: (Frames 5-6, 13-14, 21-22)
+
+
+
+
+
+
+Back hitbox: (Frames 9-10, 17-18, 25-26)
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+26×3
+All
+5
+2(2)×6
+Until landing+11
+
+
+
+
+
+An accessory to Slayer's air movement that also doubles as an extended damage air combo ender which sacrifices knockdown.
+
+Multi hit move which launches Slayer upwards, based on his aerial momentum when the move is input.
+Flies extremely far and fast if done in the starting frames of an airdash; good for escaping from the corner.
+Used to score a kill when the opponent has little health remaining.
+Horribly unsafe if done rising, as it does not recover until Slayer lands.
+Sometimes used as Slayer is falling in order to score a fuzzy or a launch.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+14×3
+6×3
+4
+
+
+Order of hits is (front then back)× 3
+
+Force Breaks
+Big Bang Upper
+236D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+To the Heavens
+
+
+
+
+
+ 
+
+
+
+
+Frames 11-12
+
+
+
+
+
+
+Frames 13-14
+
+
+
+
+
+
+Frames 15-16
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+80
+Mid
+10
+6
+35
+-22
+1~1F Upper Body2~3F Above Knees4~13F Above Feet
+
+
+
+ Total: 50
+YOLO move supreme. A massive, lunging, 10F anti-air hitbox attack that launches well above the top of the screen for easy-peasy conversions.
+
+Has an absurd amount of upper body invincibility on startup, allowing it to squeeze under most moves in the game.
+High pushback makes it tricky to punish, but it still very unsafe and in CH state for most of recovery.
+Combos into itself repeatedly and can be made burst safe.
+Comes with the weaknesses of zero dizzy damage, that it cannot be special cancelled or BDC'd into, and is in full counterhit state during the entire move.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+18
+5
+
+
+Slayer is in CH state from 1~42F
+Uppercut portion of the attack has a startup of 12F
+Dizzy modifier x0
+Cannot be canceled into
+
+FB Dandy Step
+214D
+
+
+
+
+
+
+
+Just carry it forward, it does wonders
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+
+
+
+
+Total 30
+
+1~12F Strike13~17F Low Profile
+
+
+
+Forward moving Dandy Step but with substantial invincibility.
+A big chunk of startup invul makes for a stronger reversal than BDC alone. Because it cancels into Dandy follow ups sooner than other Dandy Steps, doing Pilebunker immediately will make it a true reversal. Be mindful that it can still be thrown.
+BDC FB Dandy (442147D) if you want more startup invincibility to go through more active moves. FDC FB Dandy (662147D) helps you cover quite good distance with a lot of strike invincibility.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+
+
+
+
+
+Can cancel into followups from 10F onwards
+
+FB Pilebunker
+Dandy Step > D
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+Spend a little, get a lot like the older days
+
+
+
+
+
+ 
+
+
+
+
+Slightly higher than P version
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+90
+Mid
+3
+3
+31
+-3
+
+
+
+
+ Total: 36
+Absurdly powerful version of Pilebunker.
+
+Frame 3 attack which will lead to big conversions on hit due to wallstick.
+Keeps the opponent in blockstun for 30 frames and pushes them back very far.
+Is only -3 on block due to also being level 6, but still punishable on IB.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+On CH untechable for 240F (sticks for 45F)
+Dizzy modifier x0
+Attack Level 6
+
+Overdrives
+Dead on Time
+632146S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+The One and Only to leave on time
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+140
+All
+7+1
+10
+31+21 after landing
+-43
+7~9F Strike
+
+
+
+ Total: 69
+Fast, nearly full-screen lunging strike. Hits like a truck and punishes and blows through quite a bit.
+
+In CH state until landing, but travels far enough that some characters cannot punish reliably.
+Wallsticks on counter-hit for big damage.
+Has an FRC point to punish bursts or convert when done from the corner or close to it.
+BDC DoT (63214469S) can give the start up invincibility until the move's own invincibility kicks in.
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+15~17F
+Forced 75%
+20
+6
+5
+
+
+Untechable on CH for 100F, sticks for 60F
+Slayer is in CH state until landing
+Dizzy modifier x0
+Opponent cannot input any commands from super flash until after the 1st active frame
+
+Eternal Wings
+236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+88
+Mid
+5+2
+18
+36+7 after landing
+-42
+1~24F Strike
+
+
+
+ Total: 67
+Slayer's most reliable, but very unsafe reversal. Since it activates 2 frames after the superflash, an opponent dashing at Slayer or mashing buttons during the super flash can still FD and block.
+
+Strike invincible for nearly half a second.
+Launches far up for a full conversion on hit.
+Not the slowest reversal, but easily safejumped/meaty baited.
+Puts Slayer in an extremely punishable position if blocked/whiffed.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+6
+5
+
+
+Slayer is in CH state until landing
+
+Up and Close Dandy
+j.214214S
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Projectile during its late active frames
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+100 [160]
+Mid [All]
+7+2
+Until landing [6]
+20 after landing
+
+1~10F Strike
+
+
+
+Potentially the most damaging move in the game.
+
+Excellent tool out of an airtech when done unexpectedly.
+A whopping possible 260 base damage if both hits connect.
+Leads to a free conversion on grounded hit with stagger.
+Freakish untechable time if hit with only the first hitbox.
+Can still convert if tagged low enough with the second.
+Horribly unsafe if baited.
+Can still be airthrown on startup if the opponent went for an airthrow tech trap or read the move.
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20 [20]
+6 [6]
+5
+
+
+Wall bounces on CH (untechable for 200F)
+Data listed in [ ] is for the back part (tail)
+The tail is a projectile
+
+Instant Kill
+All Dead
+During IK Mode: 236236H
+
+
+Tabber requires Javascript to function. 
+
+
+
+
+
+
+
+
+
+
+
+Poetry is Power, cause You're All Dead
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Damage
+Guard
+Startup
+Active
+Recovery
+On-Block
+Invuln
+
+
+Fatal
+All
+10+10
+10
+25
+-16
+10~17F strike
+
+
+
+ Total: 54
+
+ But in hope I breathe
+ Of course I don't believe
+ You're All Dead, and Gone
+
+
+
+FRC Window
+Proration
+Guard Bar+
+Guard Bar-
+Level
+
+
+N/A
+
+20
+
+5
+
+
+IK Mode activation: 80F
+
+Colors
+
+
+
+
+Default P
+
+
+
+
+
+
+Default K
+
+
+
+
+
+
+Default S
+
+
+
+
+
+
+Default H
+
+
+
+
+
+
+Default D
+
+
+
+
+
+
+EX P
+
+
+
+
+
+
+EX K
+
+
+
+
+
+
+EX S
+
+
+
+
+
+
+EX H
+
+
+
+
+
+
+EX D
+
+
+
+
+
+
+Slash P
+
+
+
+
+
+
+Slash K
+
+
+
+
+
+
+Slash S
+
+
+
+
+
+
+Slash H
+
+
+
+
+
+
+Slash D1
+
+
+
+
+
+
+Reload P
+
+
+
+
+
+
+Reload K
+
+
+
+
+
+
+Reload S
+
+
+
+
+
+
+Reload H
+
+
+
+
+
+
+Reload D1
+
+
+
+
+
+
+
+
+Gold2
+
+
+
+
+
+
+Shadow2
+
+
+
+
+To select your color, press the corresponding button while in the designated "color set". Color sets can be toggled through by hitting the Respect button.
+
+Only selectable on the Arcade and PC-Rollback versions of the game.
+Available on home ports, and are selected by pressing the Rec. Enemy button on the Slash or Reload color sets, respectively. Gold characters are powered up versions, Shadow characters have infinite tension. Both are banned from tournament play.
+
+
+Navigation
+To edit frame data, edit values in GGACR/Slayer/Data.
+
+Guilty Gear XX Accent Core Plus R
+
+
+
+A.B.A
+
+
+
+Anji
+
+
+
+Axl
+
+
+
+Baiken
+
+
+
+Bridget
+
+
+
+Chipp
+
+
+
+Dizzy
+
+
+
+Eddie
+
+
+
+Faust
+
+
+
+I-No
+
+
+
+Jam
+
+
+
+Johnny
+
+
+
+Justice
+
+
+
+Kliff
+
+
+
+Ky
+
+
+
+May
+
+
+
+Millia
+
+
+
+Order-Sol
+
+
+
+Potemkin
+
+
+
+Robo-Ky
+
+
+
+Slayer
+
+
+
+Sol
+
+
+
+Testament
+
+
+
+Venom
+
+
+
+Zappa
+
+
+Systems Pages
+
+Damage Data
+Esoterica
+FAQ
+Frame Data
+System Mechanics
+Misc.
+Starter Guide
+Tech
+Tier Lists
+Glossary
+
+
+
+
+
+
+Retrieved from "https://www.dustloop.com/wiki/index.php?title=GGACR/Slayer&oldid=364741"
+
+
+
+
+
+Contents
+
+
+
+Back to top
+
+Contents
+
+
+
+
+
+1
+Overview
+
+
+
+
+
+
+
+1.1
+					Unique Mechanics
+				
+
+
+
+ 
+
+
+
+1.2
+					Starter Guide
+				
+
+
+
+ 
+ 
+
+
+
+2
+						Normal Moves
+					
+
+
+
+
+
+
+2.1
+5P
+
+
+
+
+ 
+
+
+
+2.2
+5K
+
+
+
+
+ 
+
+
+
+2.3
+c.S
+
+
+
+
+ 
+
+
+
+2.4
+f.S
+
+
+
+
+ 
+
+
+
+2.5
+5H
+
+
+
+
+ 
+
+
+
+2.6
+5D
+
+
+
+
+ 
+
+
+
+2.7
+6P
+
+
+
+
+ 
+
+
+
+2.8
+6K
+
+
+
+
+ 
+
+
+
+2.9
+6H
+
+
+
+
+ 
+
+
+
+2.10
+2P
+
+
+
+
+ 
+
+
+
+2.11
+2K
+
+
+
+
+ 
+
+
+
+2.12
+2S
+
+
+
+
+ 
+
+
+
+2.13
+2H
+
+
+
+
+ 
+
+
+
+2.14
+2D
+
+
+
+
+ 
+
+
+
+2.15
+j.P
+
+
+
+
+ 
+
+
+
+2.16
+j.K
+
+
+
+
+ 
+
+
+
+2.17
+j.2K
+
+
+
+
+ 
+
+
+
+2.18
+j.S
+
+
+
+
+ 
+
+
+
+2.19
+j.H
+
+
+
+
+ 
+
+
+
+2.20
+j.D
+
+
+
+
+ 
+ 
+
+
+
+3
+						Universal Mechanics
+					
+
+
+
+
+
+
+3.1
+					Ground Throw
+				
+
+
+
+ 
+
+
+
+3.2
+					Air Throw
+				
+
+
+
+ 
+
+
+
+3.3
+					Dead Angle Attack
+				
+
+
+
+ 
+ 
+
+
+
+4
+						Special Moves
+					
+
+
+
+
+
+
+4.1
+					Mappa Hunch
+				
+
+
+
+ 
+
+
+
+4.2
+P/K Dandy Step
+				
+
+
+
+ 
+
+
+
+4.3
+S/H Dandy Step
+				
+
+
+
+ 
+
+
+
+4.4
+					Pilebunker
+				
+
+
+
+ 
+
+
+
+4.5
+					Crosswise Heel
+				
+
+
+
+ 
+
+
+
+4.6
+					Under Pressure
+				
+
+
+
+ 
+
+
+
+4.7
+					It's Late
+				
+
+
+
+ 
+
+
+
+4.8
+					Bloodsucking Universe
+				
+
+
+
+ 
+
+
+
+4.9
+					Undertow
+				
+
+
+
+ 
+
+
+
+4.10
+					Footloose Journey
+				
+
+
+
+ 
+ 
+
+
+
+5
+						Force Breaks
+					
+
+
+
+
+
+
+5.1
+					Big Bang Upper
+				
+
+
+
+ 
+
+
+
+5.2
+					FB Dandy Step
+				
+
+
+
+ 
+
+
+
+5.3
+					FB Pilebunker
+				
+
+
+
+ 
+ 
+
+
+
+6
+						Overdrives
+					
+
+
+
+
+
+
+6.1
+					Dead on Time
+				
+
+
+
+ 
+
+
+
+6.2
+					Eternal Wings
+				
+
+
+
+ 
+
+
+
+6.3
+					Up and Close Dandy
+				
+
+
+
+ 
+ 
+
+
+
+7
+						Instant Kill
+					
+
+
+
+
+
+
+7.1
+					All Dead
+				
+
+
+
+ 
+ 
+
+
+
+8
+						Colors
+					
+
+
+
+ 
+
+
+
+9
+						Navigation
+					
+
+
+
+ 
+
+
+
+Categories: Pages using Tabber parser tagGuilty Gear XX Accent Core + R
+
+
+Last modified
+ This page was last edited on 8 January 2023, at 21:59.
+
+
+ 
+
+
+
+
+
+
+
+Dustloop Wiki
+
+Dustloop Wiki is an unofficial wiki dedicated to games developed by Arc System Works. Dustloop focuses on the competitive elements of these games, and provides instructional content aimed at helping players improve. This site is not endorsed by or affiliated with Arc System Works or any other developers whose games are featured on this site.
+
+
+
+Privacy policy
+About Dustloop Wiki
+Disclaimers
+
+
+
+
+Community funded and operated since 2011
+
+
+
+
+
+
+
+
+
+
+
+
