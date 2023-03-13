@@ -36,3 +36,8 @@ This was an assignment where we tried to predict whether a line of text was in E
 Additionally, this project was accompanied by a discussion on setence parsing with PSG parsing, dependency parsing and SRL. You can take a look at it below as well.
 
 [Sentence Parsing](https://github.com/Jackshouka/NLP_Portfolio/tree/main/sentence_parsing_discussion)
+
+## Webcralwing
+A bit of a change of pace, here we went to a webpage of our choice to trawl across webpages and scrape data to a text file for further processing. (Including some fancy term frequencey calculations.) Here, I chose dustloop.com to iterate on character pages for Guilty Gear XX Accent Core + R to populate a knowledge base for a chatbot that would give useful game information on attack moves. (Things like frame data and good situations to use certain moves.) Take a look here:
+
+[Webcrawl](https://github.com/Jackshouka/NLP_Portfolio/tree/main/webCrawl)
