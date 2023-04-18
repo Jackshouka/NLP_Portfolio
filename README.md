@@ -41,3 +41,13 @@ Additionally, this project was accompanied by a discussion on setence parsing wi
 A bit of a change of pace, here we went to a webpage of our choice to trawl across webpages and scrape data to a text file for further processing. (Including some fancy term frequencey calculations.) Here, I chose dustloop.com to iterate on character pages for Guilty Gear XX Accent Core + R to populate a knowledge base for a chatbot that would give useful game information on attack moves. (Things like frame data and good situations to use certain moves.) Take a look here:
 
 [Webcrawl](https://github.com/Jackshouka/NLP_Portfolio/tree/main/webCrawl)
+
+## Text Classification I
+Here I took a dataset from Kaggle and performed some machine learning on it to find some linguistic insights. Check it out here!
+
+[TextClassification](https://github.com/Jackshouka/NLP_Portfolio/tree/main/text_classification)
+
+## Chatbot
+Here I made a prototype of what was supposed to be a pretty nuanced chatbot application, taking frame and move data from dustloop.com for popular fighting game Guilty Gear Strive. I talk a lot more in-depth about the process and results in the report in that folder, so go check it out!
+
+[Chatbot](https://github.com/Jackshouka/NLP_Portfolio/tree/main/chatbot)
