@@ -59,7 +59,9 @@ In this jupyter notebook, we go back into exploring text classfication but with 
 [Text Classfication II](https://github.com/Jackshouka/NLP_Portfolio/tree/main/text_classfication_TWO)
 
 ## More About the Author
-This section is a little bit more about me. Check out my resume to see some valuable skills learned througout my NLP course and this portfolio!
+This section is a little bit more about me. Check out my resume to see some valuable skills learned througout my NLP course and this portfolio! Please, take a look.
+
+[About Me](https://github.com/Jackshouka/NLP_Portfolio/tree/main/about_summary)
 
 ## Summary and Future Plans
 I thouroughly enjoyed my time working on this portfolio over the course of the semester. While there were some difficulties, I am grateful I found some corner of computing technology that I have a long term interest in. 
