@@ -51,3 +51,9 @@ Here I took a dataset from Kaggle and performed some machine learning on it to f
 Here I made a prototype of what was supposed to be a pretty nuanced chatbot application, taking frame and move data from dustloop.com for popular fighting game Guilty Gear Strive. I talk a lot more in-depth about the process and results in the report in that folder, so go check it out!
 
 [Chatbot](https://github.com/Jackshouka/NLP_Portfolio/tree/main/chatbot)
+
+
+## Text Classification 2
+In this jupyter notebook, we go back into exploring text classfication but with a more manageable dataset and with some far more powerful deep learning algorithms. Luckily, since it's a notebook, I go in far more depth there, so I'll link you there instead of wasting your time talking to you here. Please, go check it out!
+
+[Text Classfication 2](https://github.com/Jackshouka/NLP_Portfolio/tree/main/text_classfication_TWO)
