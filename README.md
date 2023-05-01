@@ -22,7 +22,7 @@ This project was a simple word guessing game where we took a passage from an ana
 [Word Guessing Game](https://github.com/Jackshouka/NLP_Portfolio/tree/main/wordGuess)
 
 ## WordNet
-This was a Jupyter notebook that took a look at WordNet, and its hierarchy of words using synsets and evaluating those words, how they fit on the hierarchy, synonyms, antonyms, hyper/hypo-nyms and so on. We also took a breif look at sentiWordNet, a sentiment anaylsis addon to WordNet that is relatively limited in what it can do, and Wu-Palmer/Lesk algorithms to evaluate word similarity. You can find it below.
+This was a Jupyter notebook that took a look at WordNet, and its hierarchy of words using synsets and evaluating those words, how they fit on the hierarchy, synonyms, antonyms, hyper/hypo-nyms and so on. We also took a brief look at sentiWordNet, a sentiment anaylsis addon to WordNet that is relatively limited in what it can do, and Wu-Palmer/Lesk algorithms to evaluate word similarity. You can find it below.
 
 [Word Net](https://github.com/Jackshouka/NLP_Portfolio/tree/main/wordNet)
 
@@ -45,7 +45,7 @@ A bit of a change of pace, here we went to a webpage of our choice to trawl acro
 ## Text Classification I
 Here I took a dataset from Kaggle and performed some machine learning on it to find some linguistic insights. Check it out here!
 
-[TextClassification](https://github.com/Jackshouka/NLP_Portfolio/tree/main/text_classification)
+[Text Classification](https://github.com/Jackshouka/NLP_Portfolio/tree/main/text_classification)
 
 ## Chatbot
 Here I made a prototype of what was supposed to be a pretty nuanced chatbot application, taking frame and move data from dustloop.com for popular fighting game Guilty Gear Strive. I talk a lot more in-depth about the process and results in the report in that folder, so go check it out!
@@ -53,7 +53,21 @@ Here I made a prototype of what was supposed to be a pretty nuanced chatbot appl
 [Chatbot](https://github.com/Jackshouka/NLP_Portfolio/tree/main/chatbot)
 
 
-## Text Classification 2
+## Text Classification II
 In this jupyter notebook, we go back into exploring text classfication but with a more manageable dataset and with some far more powerful deep learning algorithms. Luckily, since it's a notebook, I go in far more depth there, so I'll link you there instead of wasting your time talking to you here. Please, go check it out!
 
-[Text Classfication 2](https://github.com/Jackshouka/NLP_Portfolio/tree/main/text_classfication_TWO)
+[Text Classfication II](https://github.com/Jackshouka/NLP_Portfolio/tree/main/text_classfication_TWO)
+
+## More About the Author
+This section is a little bit more about me. Check out my resume to see some valuable skills learned througout my NLP course and this portfolio!
+
+## Summary and Future Plans
+I thouroughly enjoyed my time working on this portfolio over the course of the semester. While there were some difficulties, I am grateful I found some corner of computing technology that I have a long term interest in. 
+
+This portfolio has shown my beginner skills in NLP techniques. Some of which forayed into machine and deep learning when performing text classification on kaggle datasets. I learned about sentiment analysis and used some of my findings when looking at WordNet when dealing with synsets and word hierarchies. I also made a fun word guessing game after preprocessing an entry in a textbook and using POS tagging to find the most common nouns in that passage. And who could forget my first chatbot prototype, which I plan to keep making edits on in the near future and get a fully deployed and working chatbot that properly uses NER, tf-idf metrics, among other NLP techniques to give insights on fighting game character data.
+
+I really love this field because it's rapidly changing! I want to keep learning more and to keep improving NLP solutions and to find new solutions. My personal stake here is that after I get my undergrad degree, I want to learn languages and keep learning languages for the rest of my life, and NLP seems to be a field that offers a practical intersection between learning languages and computer science. Granted, I don't really know how I'll make insightful projects across languages quite yet, but I also haven't learned any languages yet so we'll just have to take things step by step.
+
+As for future projects and involvement I plan to improve upon my chatbot purely out of self-interest and the fact that I think I have a really good product here. I'm not sure about many other immediate projects I have planned, but I do plan to review the articles and project forms that come out of NLP focused conferences and hackathons to see what the industry's leading minds and researchers plan to do in this ever evolving field.
+
+In the future, I would love to work in some NLP research capacity, whether at a university or in industry. So hopefully after working for the next 3-5 years as a software engineer, I'll be able to afford to go to grad school and have a more focused education in NLP. Lot's to look forward to in the near future, I hope you'll keep an eye and stick around for the ride!
